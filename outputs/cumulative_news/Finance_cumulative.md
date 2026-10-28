@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-28 02:05
+**最后更新时间**: 2026-10-28 03:38
+
+---
+
+## 🆕 最新更新 (2026-10-28 03:38)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Bolsonaro lands in US after fleeing Brazil following election defeat](https://www.ft.com/content/ec7a3e3e-21e3-44de-81ee-db2f2073bee3?syn-25a6b1a6=1)
+**发布时间**: 2026-10-28 02:58
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [A leading Silicon Valley cheerleader just showed all the reasons to be worried about the AI bubble](https://www.marketwatch.com/story/a-leading-silicon-valley-cheerleader-just-showed-all-the-reasons-to-be-worried-about-the-ai-bubble-e3b32fe1?mod=mw_rss_topstories)
+**发布时间**: 2026-10-28 02:15
 
 ---
 
