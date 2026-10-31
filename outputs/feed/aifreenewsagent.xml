@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 31 Oct 2026 02:01:00 GMT</pubDate>
-    <lastBuildDate>Sat, 31 Oct 2026 02:04:03 GMT</lastBuildDate>
+    <pubDate>Sat, 31 Oct 2026 10:44:00 GMT</pubDate>
+    <lastBuildDate>Sat, 31 Oct 2026 10:46:25 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,163 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>阿里巴巴与 Apple 达成合作，将千问集成至 Apple 智能</title>
-      <link>https://www.leiphone.com/category/industrynews/es0ZV9LsDEsG7QLE.html</link>
-      <description>&lt;![CDATA[阿里巴巴与 Apple 达成合作，将千问集成至 Apple 智能]]&gt;</description>
-      <pubDate>Sat, 31 Oct 2026 06:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/es0ZV9LsDEsG7QLE.html</guid>
+      <title>智能驾驶进入物理AI时代？7位行业嘉宾给出最新判断</title>
+      <link>https://www.leiphone.com/category/transportation/pqEtZnYepE5D1PzD.html</link>
+      <description>&lt;![CDATA[智能驾驶进入物理AI时代？7位行业嘉宾给出最新判断]]&gt;</description>
+      <pubDate>Sat, 31 Oct 2026 11:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/pqEtZnYepE5D1PzD.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>游戏手柄销量涨108%！《影之刃零》爆火带动游戏装备“换新潮”</title>
-      <link>https://www.leiphone.com/category/industrynews/enkwU0KIpvIsMoN3.html</link>
-      <description>&lt;![CDATA[游戏手柄销量涨108%！《影之刃零》爆火带动游戏装备“换新潮”]]&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 22:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/enkwU0KIpvIsMoN3.html</guid>
+      <title>Vercel Labs Open-Sources agent-desktop for Agent Computer Use</title>
+      <link>https://www.marktechpost.com/2026/10/31/vercel-labs-agent-desktop-computer-use/</link>
+      <description>&lt;![CDATA[Vercel Labs Open-Sources agent-desktop for Agent Computer Use]]&gt;</description>
+      <pubDate>Sat, 31 Oct 2026 10:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/31/vercel-labs-agent-desktop-computer-use/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>一天造300万个沙盒，10万张卡自己写系统：2026年国产 RSI 到底有多野？</title>
-      <link>https://www.leiphone.com/category/yanxishe/UIbgVZxTjEoMswaE.html</link>
-      <description>&lt;![CDATA[一天造300万个沙盒，10万张卡自己写系统：2026年国产 RSI 到底有多野？]]&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 19:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/UIbgVZxTjEoMswaE.html</guid>
+      <title>你的8G iPad里有12G内存！库克走了但他的刀法追着我砍</title>
+      <link>https://www.qbitai.com/2026/10/506884.html</link>
+      <description>&lt;![CDATA[你的8G iPad里有12G内存！库克走了但他的刀法追着我砍]]&gt;</description>
+      <pubDate>Sat, 31 Oct 2026 05:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/506884.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>李飞飞挖的三个「坑」：从 ImageNet 到空间智能，这一次她会怎么填？</title>
-      <link>https://www.leiphone.com/category/academic/oi5NEt93WcuWwFr8.html</link>
-      <description>&lt;![CDATA[李飞飞挖的三个「坑」：从 ImageNet 到空间智能，这一次她会怎么填？]]&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 19:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/academic/oi5NEt93WcuWwFr8.html</guid>
+      <title>世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用</title>
+      <link>https://www.qbitai.com/2026/10/506866.html</link>
+      <description>&lt;![CDATA[世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用]]&gt;</description>
+      <pubDate>Sat, 31 Oct 2026 05:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/506866.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>进击中的影石：攻击性强，血条太脆 ？</title>
-      <link>https://www.leiphone.com/category/weiwu/KlCbWSV85pD8wKbW.html</link>
-      <description>&lt;![CDATA[进击中的影石：攻击性强，血条太脆 ？]]&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 19:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/KlCbWSV85pD8wKbW.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>全行业两年攒下百万小时数据，影溯想 1 个月生产完：全国首个具身仿真数采中心落地杭州</title>
-      <link>https://www.leiphone.com/category/academic/xPVWQgBN3Foj7fo5.html</link>
-      <description>&lt;![CDATA[全行业两年攒下百万小时数据，影溯想 1 个月生产完：全国首个具身仿真数采中心落地杭州]]&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 19:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/academic/xPVWQgBN3Foj7fo5.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>沙钢接入千问办公，已将Agent落地核心业务场景</title>
-      <link>https://www.leiphone.com/category/industrynews/mxLii4LkfIz829iH.html</link>
-      <description>&lt;![CDATA[沙钢接入千问办公，已将Agent落地核心业务场景]]&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 18:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/mxLii4LkfIz829iH.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>盖伦奖提名一年后，希格生科的边界、验证与野心</title>
-      <link>https://www.leiphone.com/category/aihealth/BseLhlDzaWQ8XrWr.html</link>
-      <description>&lt;![CDATA[盖伦奖提名一年后，希格生科的边界、验证与野心]]&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 18:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/aihealth/BseLhlDzaWQ8XrWr.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>在代谢酶网络里，默达生物找到了一个让坏细胞「吃不饱饭」的开关</title>
-      <link>https://www.leiphone.com/category/aihealth/zzOQHx9piL86TXHJ.html</link>
-      <description>&lt;![CDATA[在代谢酶网络里，默达生物找到了一个让坏细胞「吃不饱饭」的开关]]&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 17:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/aihealth/zzOQHx9piL86TXHJ.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>欣旺达前三季度营收634.62亿元，终止H股上市计划</title>
-      <link>https://www.leiphone.com/category/industrynews/STPEobhiyi9XOsmj.html</link>
-      <description>&lt;![CDATA[欣旺达前三季度营收634.62亿元，终止H股上市计划]]&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 17:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/STPEobhiyi9XOsmj.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams/</link>
-      <description>&lt;![CDATA[Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams]]&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 22:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Preview web apps live as your coding agent builds them with Amazon Bedrock AgentCore runtime</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/preview-web-apps-live-as-your-coding-agent-builds-them-with-amazon-bedrock-agentcore-runtime/</link>
-      <description>&lt;![CDATA[Preview web apps live as your coding agent builds them with Amazon Bedrock AgentCore runtime]]&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 21:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/preview-web-apps-live-as-your-coding-agent-builds-them-with-amazon-bedrock-agentcore-runtime/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>How Worldwide Express automated freight exceptions with Amazon Bedrock</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock/</link>
-      <description>&lt;![CDATA[How Worldwide Express automated freight exceptions with Amazon Bedrock]]&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 17:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Configure the ChatGPT desktop app with Amazon Bedrock in AWS GovCloud (US)</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/configure-the-chatgpt-desktop-app-with-amazon-bedrock-in-aws-govcloud-us/</link>
-      <description>&lt;![CDATA[Configure the ChatGPT desktop app with Amazon Bedrock in AWS GovCloud (US)]]&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 17:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/configure-the-chatgpt-desktop-app-with-amazon-bedrock-in-aws-govcloud-us/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>nemotron-halloween</title>
-      <link>https://huggingface.co/blog/nvidia/nemotron-halloween</link>
-      <description>&lt;![CDATA[nemotron-halloween]]&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 17:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://huggingface.co/blog/nvidia/nemotron-halloween</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Meet TokenEconomizer: Microsoft’s Plugin That Cuts Coding Agent Costs by Up to 30.9%</title>
-      <link>https://www.marktechpost.com/2026/10/30/microsoft-tokeneconomizer-coding-agent-cost-control/</link>
-      <description>&lt;![CDATA[Meet TokenEconomizer: Microsoft’s Plugin That Cuts Coding Agent Costs by Up to 30.9%]]&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 17:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/30/microsoft-tokeneconomizer-coding-agent-cost-control/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare</title>
-      <link>https://www.marktechpost.com/2026/10/30/ai-security-agents-claude-codex-mantis-cloudflare/</link>
-      <description>&lt;![CDATA[AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare]]&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 17:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/30/ai-security-agents-claude-codex-mantis-cloudflare/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>MIT affiliates named 2026 Schmidt Sciences AI2050 Fellows</title>
-      <link>https://news.mit.edu/2026/mit-affiliates-named-schmidt-sciences-ai2050-fellows-1030</link>
-      <description>&lt;![CDATA[MIT affiliates named 2026 Schmidt Sciences AI2050 Fellows]]&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 16:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2026/mit-affiliates-named-schmidt-sciences-ai2050-fellows-1030</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Q&amp;A: Hey AI, who should I vote for this year?</title>
-      <link>https://news.mit.edu/2026/qa-hey-ai-who-should-i-vote-for-this-year-1030</link>
-      <description>&lt;![CDATA[Q&amp;A: Hey AI, who should I vote for this year?]]&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2026/qa-hey-ai-who-should-i-vote-for-this-year-1030</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals</title>
-      <link>https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/</link>
-      <description>&lt;![CDATA[Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals]]&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/</guid>
+      <title>刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」</title>
+      <link>https://www.qbitai.com/2026/10/506855.html</link>
+      <description>&lt;![CDATA[刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」]]&gt;</description>
+      <pubDate>Sat, 31 Oct 2026 05:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/506855.html</guid>
       <category>Ai</category>
     </item>
   </channel>
