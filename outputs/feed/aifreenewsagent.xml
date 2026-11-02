@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 02 Nov 2026 02:05:00 GMT</pubDate>
-    <lastBuildDate>Mon, 02 Nov 2026 02:06:41 GMT</lastBuildDate>
+    <pubDate>Mon, 02 Nov 2026 13:05:00 GMT</pubDate>
+    <lastBuildDate>Mon, 02 Nov 2026 13:07:14 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,75 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Pika 基于 MiniMax H3 开源 H3 Flex，六步实现音视频联合生成</title>
-      <link>https://www.leiphone.com/category/industrynews/MK1z0js4sqcp1xca.html</link>
-      <description>&lt;![CDATA[Pika 基于 MiniMax H3 开源 H3 Flex，六步实现音视频联合生成]]&gt;</description>
-      <pubDate>Sun, 01 Nov 2026 17:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/MK1z0js4sqcp1xca.html</guid>
+      <title>从“能调用”到“敢托付”：仪电智算云 Token 工厂的三重可信</title>
+      <link>https://www.qbitai.com/2026/11/507260.html</link>
+      <description>&lt;![CDATA[从“能调用”到“敢托付”：仪电智算云 Token 工厂的三重可信]]&gt;</description>
+      <pubDate>Mon, 02 Nov 2026 07:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/507260.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>三年前布局，今年爆火丨西湖大学成立新中心</title>
-      <link>https://www.qbitai.com/2026/11/507076.html</link>
-      <description>&lt;![CDATA[三年前布局，今年爆火丨西湖大学成立新中心]]&gt;</description>
-      <pubDate>Sun, 01 Nov 2026 13:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/507076.html</guid>
+      <title>OpenAI重写大模型法则，第一条：忠于人类！！</title>
+      <link>https://www.qbitai.com/2026/11/507225.html</link>
+      <description>&lt;![CDATA[OpenAI重写大模型法则，第一条：忠于人类！！]]&gt;</description>
+      <pubDate>Mon, 02 Nov 2026 07:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/507225.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Claude紧急叫停！暗改Harness禁止逆向游戏</title>
-      <link>https://www.qbitai.com/2026/11/507038.html</link>
-      <description>&lt;![CDATA[Claude紧急叫停！暗改Harness禁止逆向游戏]]&gt;</description>
-      <pubDate>Sun, 01 Nov 2026 13:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/507038.html</guid>
+      <title>央视严选「中国AI创业十骏」：唯一AI制药公司是清华系</title>
+      <link>https://www.qbitai.com/2026/11/507150.html</link>
+      <description>&lt;![CDATA[央视严选「中国AI创业十骏」：唯一AI制药公司是清华系]]&gt;</description>
+      <pubDate>Mon, 02 Nov 2026 06:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/507150.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>小米开源了个150元的AI小玩意，火到配件都涨价了</title>
+      <link>https://www.qbitai.com/2026/11/507107.html</link>
+      <description>&lt;![CDATA[小米开源了个150元的AI小玩意，火到配件都涨价了]]&gt;</description>
+      <pubDate>Mon, 02 Nov 2026 06:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/507107.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光</title>
+      <link>https://www.qbitai.com/2026/11/507082.html</link>
+      <description>&lt;![CDATA[GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光]]&gt;</description>
+      <pubDate>Mon, 02 Nov 2026 04:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/507082.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>NVIDIA Releases Auto Ontology: An Open Semantic Layer That Grounds AI Agent SQL</title>
+      <link>https://www.marktechpost.com/2026/11/01/nvidia-auto-ontology-open-source-semantic-layer-ai-agents/</link>
+      <description>&lt;![CDATA[NVIDIA Releases Auto Ontology: An Open Semantic Layer That Grounds AI Agent SQL]]&gt;</description>
+      <pubDate>Mon, 02 Nov 2026 07:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/01/nvidia-auto-ontology-open-source-semantic-layer-ai-agents/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Meet qwenGPU: Qwen3.5-2B With 45 Compiled GPU Layers That Run CUDA</title>
+      <link>https://www.marktechpost.com/2026/11/01/qwengpu-simt-gpu-compiled-into-qwen3-5-2b-weights-runs-cuda/</link>
+      <description>&lt;![CDATA[Meet qwenGPU: Qwen3.5-2B With 45 Compiled GPU Layers That Run CUDA]]&gt;</description>
+      <pubDate>Mon, 02 Nov 2026 07:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/01/qwengpu-simt-gpu-compiled-into-qwen3-5-2b-weights-runs-cuda/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>2026-11-02日刊</title>
+      <link>https://hex2077.dev/docs/2026-11/2026-11-02/</link>
+      <description>&lt;![CDATA[2026-11-02日刊]]&gt;</description>
+      <pubDate>Mon, 02 Nov 2026 07:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-11/2026-11-02/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>2026-10-31日刊</title>
+      <link>https://hex2077.dev/docs/2026-10/2026-10-31/</link>
+      <description>&lt;![CDATA[2026-10-31日刊]]&gt;</description>
+      <pubDate>Mon, 02 Nov 2026 04:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-10/2026-10-31/</guid>
       <category>Ai</category>
     </item>
   </channel>

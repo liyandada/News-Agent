@@ -1,7 +1,46 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-02 02:05
+**最后更新时间**: 2026-11-02 13:05
+
+---
+
+## 🆕 最新更新 (2026-11-02 13:05)
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [从“能调用”到“敢托付”：仪电智算云 Token 工厂的三重可信](https://www.qbitai.com/2026/11/507260.html)
+**发布时间**: 2026-11-02 07:47
+
+#### [OpenAI重写大模型法则，第一条：忠于人类！！](https://www.qbitai.com/2026/11/507225.html)
+**发布时间**: 2026-11-02 07:27
+
+#### [央视严选「中国AI创业十骏」：唯一AI制药公司是清华系](https://www.qbitai.com/2026/11/507150.html)
+**发布时间**: 2026-11-02 06:28
+
+#### [小米开源了个150元的AI小玩意，火到配件都涨价了](https://www.qbitai.com/2026/11/507107.html)
+**发布时间**: 2026-11-02 06:08
+
+#### [GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光](https://www.qbitai.com/2026/11/507082.html)
+**发布时间**: 2026-11-02 04:28
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [NVIDIA Releases Auto Ontology: An Open Semantic Layer That Grounds AI Agent SQL](https://www.marktechpost.com/2026/11/01/nvidia-auto-ontology-open-source-semantic-layer-ai-agents/)
+**发布时间**: 2026-11-02 07:47
+
+#### [Meet qwenGPU: Qwen3.5-2B With 45 Compiled GPU Layers That Run CUDA](https://www.marktechpost.com/2026/11/01/qwengpu-simt-gpu-compiled-into-qwen3-5-2b-weights-runs-cuda/)
+**发布时间**: 2026-11-02 07:28
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-11-02日刊](https://hex2077.dev/docs/2026-11/2026-11-02/)
+**发布时间**: 2026-11-02 07:00
+
+#### [2026-11-01日刊](https://hex2077.dev/docs/2026-11/2026-11-01/)
+**发布时间**: 2026-11-02 05:21
+
+#### [2026-10-31日刊](https://hex2077.dev/docs/2026-10/2026-10-31/)
+**发布时间**: 2026-11-02 04:11
 
 ---
 
