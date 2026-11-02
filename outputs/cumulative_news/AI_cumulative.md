@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-01 11:40
+**最后更新时间**: 2026-11-02 02:05
+
+---
+
+## 🆕 最新更新 (2026-11-02 02:05)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [Pika 基于 MiniMax H3 开源 H3 Flex，六步实现音视频联合生成](https://www.leiphone.com/category/industrynews/MK1z0js4sqcp1xca.html)
+**发布时间**: 2026-11-01 17:46
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [三年前布局，今年爆火丨西湖大学成立新中心](https://www.qbitai.com/2026/11/507076.html)
+**发布时间**: 2026-11-01 13:28
+
+#### [Claude紧急叫停！暗改Harness禁止逆向游戏](https://www.qbitai.com/2026/11/507038.html)
+**发布时间**: 2026-11-01 13:09
 
 ---
 
