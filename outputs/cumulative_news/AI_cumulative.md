@@ -1,7 +1,118 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-02 13:05
+**最后更新时间**: 2026-11-03 03:50
+
+---
+
+## 🆕 最新更新 (2026-11-03 03:50)
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-11-03日刊](https://hex2077.dev/docs/2026-11/2026-11-03/)
+**发布时间**: 2026-11-03 03:27
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [B站举办2026超级科学晚，脑机接口、人造太阳等前沿科技齐亮相](https://www.qbitai.com/2026/11/507339.html)
+**发布时间**: 2026-11-03 02:02
+
+#### [MIT：GPT-6 Astra能直接修改Qwen权重，数学能力暴涨6倍](https://www.qbitai.com/2026/11/507322.html)
+**发布时间**: 2026-11-03 01:57
+
+#### [爱诗科技PixVerse 与 OpenAI 共同推出产品集成和创作者教育计划，高效打通 AI 创意全流程](https://www.qbitai.com/2026/11/507313.html)
+**发布时间**: 2026-11-03 01:46
+
+#### [顶级AI翻车的活儿，被这个新出的免费国产AI接住了！](https://www.qbitai.com/2026/11/507277.html)
+**发布时间**: 2026-11-02 13:36
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Zyphra AI Introduces Zyphra Hierarchical Attention (ZHA): A Path to True Subquadratic Attention](https://www.marktechpost.com/2026/11/02/zyphra-hierarchical-attention-zha-sparse-attention/)
+**发布时间**: 2026-11-03 01:09
+
+#### [The Letter Company Releases Letterpress-1: A Coding Agent Built for Growth Engineering](https://www.marktechpost.com/2026/11/02/letter-letterpress-1-growth-engineering-coding-agent/)
+**发布时间**: 2026-11-03 00:43
+
+#### [Deep Principle Releases Hydrogen-1.0: A 753B Open-Weight Model for Scientific Discovery](https://www.marktechpost.com/2026/11/02/deep-principle-hydrogen-1-0-open-weight-scientific-model/)
+**发布时间**: 2026-11-02 18:41
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [半小时卖出2万亿Token，李佳琦直播卖千问办公爆火](https://www.leiphone.com/category/industrynews/kqJzcDsRfxHUQGy9.html)
+**发布时间**: 2026-11-02 21:13
+
+#### [90 后北大副教授董豪：启元机器人，正在勇闯具身终局](https://www.leiphone.com/category/ai/1mfsMzxNwaTmqZ7e.html)
+**发布时间**: 2026-11-02 18:34
+
+#### [产业资本继续押注具身：斯坦福双子星创办的黑马公司 RoboScience 机器科学，宣布完成 A2 轮融资](https://www.leiphone.com/category/ai/GqrJT2vlPFBxElDY.html)
+**发布时间**: 2026-11-02 18:23
+
+#### [具身下半场怎么打？智元用一场发布会，给出了自己的答案](https://www.leiphone.com/category/ai/d2myOaWdKKFW23lm.html)
+**发布时间**: 2026-11-02 18:21
+
+#### [从产品幕后到用户故事，极米记得AI新品全阵容亮相INNO100首「硬」礼](https://www.leiphone.com/category/weiwu/AfQerzZ1HwVzZ2yZ.html)
+**发布时间**: 2026-11-02 18:14
+
+#### [破解智能体跨端协同办事难题，支付宝AHA方案获世界互联网大会“新耀”场景奖](https://www.leiphone.com/category/industrynews/oPrDWg9bNg1Dgy4a.html)
+**发布时间**: 2026-11-02 17:41
+
+#### [阿里Qoder获世界互联网大会领先科技奖，已服务超800万用户、10万家企业](https://www.leiphone.com/category/industrynews/JrXpr0xuLSNA9sOY.html)
+**发布时间**: 2026-11-02 17:26
+
+#### [QuestMobile报告：OPPO小布建议9月活跃用户同比增长139.9%](https://www.leiphone.com/category/industrynews/R3J4f2BoqbmygKli.html)
+**发布时间**: 2026-11-02 17:06
+
+#### [Telesin泰迅 大师影像套装再度入驻 Apple 授权专营店 全国上架门店超 3000 家](https://www.leiphone.com/category/weiwu/VGfBreAHogbtKfQC.html)
+**发布时间**: 2026-11-02 16:49
+
+#### [我国吨级商用无人运输机转入批量生产：华鹰航空HE-1A首架量产机在渭南总装下线](https://www.leiphone.com/category/industrynews/daFQUYebSlIWJYll.html)
+**发布时间**: 2026-11-02 16:32
+
+#### [何小鹏：如果你想证明自己的智驾强，那你就应该出国；奇瑞高管回应智界独立；DeepSeek最新融资细节曝光！vivo、美团等位列投资者名单](https://www.leiphone.com/category/zaobao/hsSSzyalKJd6vnkf.html)
+**发布时间**: 2026-11-02 16:30
+
+#### [从“自己滚”到“自动滚” ，云望创新第二代自动泡沫轴亮相 INNO100](https://www.leiphone.com/category/weiwu/wCzghgwXNAVQvme8.html)
+**发布时间**: 2026-11-02 16:23
+
+#### [美团发布LongCat-2.5大模型，“国芯国模”实现新突破](https://www.leiphone.com/category/industrynews/mUPVr3RF0MHNmn3t.html)
+**发布时间**: 2026-11-02 15:23
+
+#### [阿里云发布AI投研工作台Qovest，给专业投资者配一个“AI研究员”](https://www.leiphone.com/category/industrynews/MFtJXmU8YNMGMig6.html)
+**发布时间**: 2026-11-02 15:09
+
+#### [起底第一批FDE的「生存实录」](https://www.leiphone.com/category/industrynews/WI4VDJIEZ7JaouRq.html)
+**发布时间**: 2026-11-02 14:33
+
+#### [莱芒生物：用1‰剂量，重写CAR-T的成本和疗效公式](https://www.leiphone.com/category/aihealth/Ls0rEvCHmgKUScmR.html)
+**发布时间**: 2026-11-02 14:15
+
+#### [Agent在金融机构走出「试用期」后，价值账怎么算？](https://www.leiphone.com/category/fintech/y2eDRanVtlSZl8w6.html)
+**发布时间**: 2026-11-02 13:59
+
+#### [2026 全球 AI 新云 NeoCloud：考验基本功的时候到了](https://www.leiphone.com/category/industrynews/uZRzXBZy6pdl88Uf.html)
+**发布时间**: 2026-11-02 09:54
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Prepare web content for Amazon Bedrock Knowledge Bases with Crawl4AI](https://aws.amazon.com/blogs/machine-learning/prepare-web-content-for-amazon-bedrock-knowledge-bases-with-crawl4ai/)
+**发布时间**: 2026-11-02 17:11
+
+#### [Build efficient agents with knowledge distillation on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/build-efficient-agents-with-knowledge-distillation-on-amazon-sagemaker-ai/)
+**发布时间**: 2026-11-02 17:01
+
+#### [Agentic engineering intelligence with Amazon Nova Multimodal Embeddings and Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/agentic-engineering-intelligence-with-amazon-nova-multimodal-embeddings-and-amazon-bedrock-agentcore/)
+**发布时间**: 2026-11-02 17:01
+
+#### [How Circle K accelerated DevOps incident triage to under 15 minutes with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-circle-k-accelerated-devops-incident-triage-to-under-15-minutes-with-amazon-bedrock/)
+**发布时间**: 2026-11-02 17:00
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Powering up for a pivotal moment](https://news.mit.edu/2026/powering-up-for-pivotal-moment-1102)
+**发布时间**: 2026-11-02 14:55
+
+#### [Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence for work in AI-enabled antibiotic discovery](https://news.mit.edu/2026/regina-barzilay-jim-collins-win-pritzker-prize-ai-and-science-research-excellence-1102)
+**发布时间**: 2026-11-02 00:35
 
 ---
 
