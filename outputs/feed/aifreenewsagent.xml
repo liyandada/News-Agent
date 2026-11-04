@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 03 Nov 2026 12:37:00 GMT</pubDate>
-    <lastBuildDate>Tue, 03 Nov 2026 12:39:32 GMT</lastBuildDate>
+    <pubDate>Wed, 04 Nov 2026 02:55:00 GMT</pubDate>
+    <lastBuildDate>Wed, 04 Nov 2026 02:56:19 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,203 +14,179 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>香港大学发布全球首个KYA报告关注智能体信任建设，九类企业实践获收录</title>
-      <link>https://www.leiphone.com/category/industrynews/KkjVOHcQ55GyhDLv.html</link>
-      <description>&lt;![CDATA[香港大学发布全球首个KYA报告关注智能体信任建设，九类企业实践获收录]]&gt;</description>
-      <pubDate>Tue, 03 Nov 2026 18:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/KkjVOHcQ55GyhDLv.html</guid>
+      <title>实测苹果智能Beta，千问 APP 成为Siri外援，可接力处理任务</title>
+      <link>https://www.leiphone.com/category/industrynews/jtrZN12WvcYpqi1q.html</link>
+      <description>&lt;![CDATA[实测苹果智能Beta，千问 APP 成为Siri外援，可接力处理任务]]&gt;</description>
+      <pubDate>Wed, 04 Nov 2026 08:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/jtrZN12WvcYpqi1q.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>最高288核的至强6+，为了Agent高密度部署还下了哪些「云功夫」？</title>
-      <link>https://www.leiphone.com/category/chips/GQisGLfVBnbQVxVo.html</link>
-      <description>&lt;![CDATA[最高288核的至强6+，为了Agent高密度部署还下了哪些「云功夫」？]]&gt;</description>
-      <pubDate>Tue, 03 Nov 2026 18:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/chips/GQisGLfVBnbQVxVo.html</guid>
+      <title>青奥会结束后，阿里云想在非洲留下一朵「云」</title>
+      <link>https://www.leiphone.com/category/industrynews/dhQud8FAggk62CZ2.html</link>
+      <description>&lt;![CDATA[青奥会结束后，阿里云想在非洲留下一朵「云」]]&gt;</description>
+      <pubDate>Tue, 03 Nov 2026 23:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/dhQud8FAggk62CZ2.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>国内首个半导体工艺保护流体材料重大突破</title>
-      <link>https://www.leiphone.com/category/industrynews/PHr6tfngmZX7R5db.html</link>
-      <description>&lt;![CDATA[国内首个半导体工艺保护流体材料重大突破]]&gt;</description>
-      <pubDate>Tue, 03 Nov 2026 17:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/PHr6tfngmZX7R5db.html</guid>
+      <title>拓竹年度机皇 H3C 发布：9 头闪切、6 秒换头，开启多色多材料新时代</title>
+      <link>https://www.leiphone.com/category/industrynews/xBbVCZ6pFQNa7XzR.html</link>
+      <description>&lt;![CDATA[拓竹年度机皇 H3C 发布：9 头闪切、6 秒换头，开启多色多材料新时代]]&gt;</description>
+      <pubDate>Tue, 03 Nov 2026 23:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/xBbVCZ6pFQNa7XzR.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>要更真实，还是更动人？AI视频生成走到了分岔口 | CNCC 2026</title>
-      <link>https://www.leiphone.com/category/industrynews/Huxl5GuqzEUo9CL9.html</link>
-      <description>&lt;![CDATA[要更真实，还是更动人？AI视频生成走到了分岔口 | CNCC 2026]]&gt;</description>
+      <title>AI教AI开车！百度Apollo World世界模型叩开无人驾驶产业“AGI时刻”</title>
+      <link>https://www.leiphone.com/category/industrynews/NVxn28w1vAG2qbFy.html</link>
+      <description>&lt;![CDATA[AI教AI开车！百度Apollo World世界模型叩开无人驾驶产业“AGI时刻”]]&gt;</description>
+      <pubDate>Tue, 03 Nov 2026 21:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/NVxn28w1vAG2qbFy.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>中国开源走向物理世界，蚂蚁灵波携机器人通用大脑亮相乌镇</title>
+      <link>https://www.leiphone.com/category/industrynews/ADcxxdwtaojQvzhp.html</link>
+      <description>&lt;![CDATA[中国开源走向物理世界，蚂蚁灵波携机器人通用大脑亮相乌镇]]&gt;</description>
+      <pubDate>Tue, 03 Nov 2026 21:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/ADcxxdwtaojQvzhp.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>腾讯12.8亿用户蝉联中国互联网第一，绿泡泡月活破1.5亿，手游top10独占8款</title>
+      <link>https://www.leiphone.com/category/industrynews/TIDTmVxPQiwSHe8f.html</link>
+      <description>&lt;![CDATA[腾讯12.8亿用户蝉联中国互联网第一，绿泡泡月活破1.5亿，手游top10独占8款]]&gt;</description>
+      <pubDate>Tue, 03 Nov 2026 18:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/TIDTmVxPQiwSHe8f.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>智元荣获2026世界互联网大会杰出贡献奖</title>
+      <link>https://www.leiphone.com/category/industrynews/9XBEJkK85FIMGErW.html</link>
+      <description>&lt;![CDATA[智元荣获2026世界互联网大会杰出贡献奖]]&gt;</description>
+      <pubDate>Tue, 03 Nov 2026 18:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/9XBEJkK85FIMGErW.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Anthropic Releases FlashProve: Cryptographic Proofs That a Reply Came From Committed Weights</title>
+      <link>https://www.marktechpost.com/2026/11/03/anthropic-flashprove-provable-inference-zksnark/</link>
+      <description>&lt;![CDATA[Anthropic Releases FlashProve: Cryptographic Proofs That a Reply Came From Committed Weights]]&gt;</description>
+      <pubDate>Tue, 03 Nov 2026 22:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/03/anthropic-flashprove-provable-inference-zksnark/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>NVIDIA Shows 3 Ways to Speed Up MoE Inference on DGX Spark, Lifting Ling-3.0-flash Throughput 42.5%</title>
+      <link>https://www.marktechpost.com/2026/11/03/nvidia-dgx-spark-moe-inference-ling-3-0-flash/</link>
+      <description>&lt;![CDATA[NVIDIA Shows 3 Ways to Speed Up MoE Inference on DGX Spark, Lifting Ling-3.0-flash Throughput 42.5%]]&gt;</description>
+      <pubDate>Tue, 03 Nov 2026 20:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/03/nvidia-dgx-spark-moe-inference-ling-3-0-flash/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Soniox STT v6 Adds Agent Text Input and Echo Filtering for Voice Agents</title>
+      <link>https://www.marktechpost.com/2026/11/03/soniox-stt-v6-agent-text-input-echo-cancellation/</link>
+      <description>&lt;![CDATA[Soniox STT v6 Adds Agent Text Input and Echo Filtering for Voice Agents]]&gt;</description>
+      <pubDate>Tue, 03 Nov 2026 20:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/03/soniox-stt-v6-agent-text-input-echo-cancellation/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>StateBench: Testing how language models track state changes over long documents</title>
+      <link>https://huggingface.co/blog/allenai/statebench</link>
+      <description>&lt;![CDATA[StateBench: Testing how language models track state changes over long documents]]&gt;</description>
       <pubDate>Tue, 03 Nov 2026 17:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/Huxl5GuqzEUo9CL9.html</guid>
+      <guid isPermaLink="true">https://huggingface.co/blog/allenai/statebench</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>预售24.98万起，全系搭载宁德电池，LS8 NEO能否撬动25万级市场？</title>
-      <link>https://www.leiphone.com/category/transportation/stPDU8XxYTbZXexr.html</link>
-      <description>&lt;![CDATA[预售24.98万起，全系搭载宁德电池，LS8 NEO能否撬动25万级市场？]]&gt;</description>
-      <pubDate>Tue, 03 Nov 2026 17:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/stPDU8XxYTbZXexr.html</guid>
+      <title>Palette: teaching a small model to build decks in your design language</title>
+      <link>https://huggingface.co/blog/ibm-research/palette-deck-building</link>
+      <description>&lt;![CDATA[Palette: teaching a small model to build decks in your design language]]&gt;</description>
+      <pubDate>Tue, 03 Nov 2026 16:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://huggingface.co/blog/ibm-research/palette-deck-building</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>xTool 的「快」与「难」：硬门槛、多线程研发与生态扩张</title>
-      <link>https://www.leiphone.com/category/weiwu/Z53iSk1j7SIjzefT.html</link>
-      <description>&lt;![CDATA[xTool 的「快」与「难」：硬门槛、多线程研发与生态扩张]]&gt;</description>
-      <pubDate>Tue, 03 Nov 2026 16:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/Z53iSk1j7SIjzefT.html</guid>
+      <title>Bring structured and unstructured data together with Amazon Quick</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/bring-structured-and-unstructured-data-together-with-amazon-quick/</link>
+      <description>&lt;![CDATA[Bring structured and unstructured data together with Amazon Quick]]&gt;</description>
+      <pubDate>Tue, 03 Nov 2026 16:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/bring-structured-and-unstructured-data-together-with-amazon-quick/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>小米斩获乌镇峰会双料大奖：小米集团获“杰出贡献奖”，小米具身基座模型获“领先科技奖”</title>
-      <link>https://www.leiphone.com/category/industrynews/VVyx6DK55x5rIlQ4.html</link>
-      <description>&lt;![CDATA[小米斩获乌镇峰会双料大奖：小米集团获“杰出贡献奖”，小米具身基座模型获“领先科技奖”]]&gt;</description>
-      <pubDate>Tue, 03 Nov 2026 15:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/VVyx6DK55x5rIlQ4.html</guid>
+      <title>ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/servicenow-on-behalf-of-token-exchange-with-bedrock-agentcore-gateway/</link>
+      <description>&lt;![CDATA[ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway]]&gt;</description>
+      <pubDate>Tue, 03 Nov 2026 16:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/servicenow-on-behalf-of-token-exchange-with-bedrock-agentcore-gateway/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>当三体IP开始连接 AI 和硬科技，到底在探索什么？</title>
-      <link>https://www.leiphone.com/category/industrynews/5N5x4IScrkNgAuVK.html</link>
-      <description>&lt;![CDATA[当三体IP开始连接 AI 和硬科技，到底在探索什么？]]&gt;</description>
-      <pubDate>Tue, 03 Nov 2026 15:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/5N5x4IScrkNgAuVK.html</guid>
+      <title>How Gen Digital built Norton Revamp’s AI-curated News Engine with Amazon Bedrock AgentCore Web Search</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/how-gen-digital-built-norton-revamps-ai-curated-news-engine-with-amazon-bedrock-agentcore-web-search/</link>
+      <description>&lt;![CDATA[How Gen Digital built Norton Revamp’s AI-curated News Engine with Amazon Bedrock AgentCore Web Search]]&gt;</description>
+      <pubDate>Tue, 03 Nov 2026 16:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/how-gen-digital-built-norton-revamps-ai-curated-news-engine-with-amazon-bedrock-agentcore-web-search/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>用AI阻断非法野生动物贸易，百度获世界互联网大会杰出贡献奖</title>
-      <link>https://www.leiphone.com/category/industrynews/MFCpP2Cl7MEKkzNj.html</link>
-      <description>&lt;![CDATA[用AI阻断非法野生动物贸易，百度获世界互联网大会杰出贡献奖]]&gt;</description>
-      <pubDate>Tue, 03 Nov 2026 15:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/MFCpP2Cl7MEKkzNj.html</guid>
+      <title>Build a semantic layer for agentic AI with EDB Postgres AI and Amazon Bedrock AgentCore</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-with-edb-postgres-ai-and-amazon-bedrock-agentcore/</link>
+      <description>&lt;![CDATA[Build a semantic layer for agentic AI with EDB Postgres AI and Amazon Bedrock AgentCore]]&gt;</description>
+      <pubDate>Tue, 03 Nov 2026 16:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-with-edb-postgres-ai-and-amazon-bedrock-agentcore/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>蚂蚁自研AI数据平台OceanBase获获世界互联网大会杰出贡献奖</title>
-      <link>https://www.leiphone.com/category/industrynews/i1taFLhrbqRyM9UH.html</link>
-      <description>&lt;![CDATA[蚂蚁自研AI数据平台OceanBase获获世界互联网大会杰出贡献奖]]&gt;</description>
-      <pubDate>Tue, 03 Nov 2026 14:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/i1taFLhrbqRyM9UH.html</guid>
+      <title>Building ultra-low-latency voice AI applications on AWS</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/building-ultra-low-latency-voice-ai-applications-on-aws/</link>
+      <description>&lt;![CDATA[Building ultra-low-latency voice AI applications on AWS]]&gt;</description>
+      <pubDate>Tue, 03 Nov 2026 16:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/building-ultra-low-latency-voice-ai-applications-on-aws/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>寻找AI时代的下一个黑马：安全创客汇重磅升级为AI创客汇</title>
-      <link>https://www.leiphone.com/category/industrynews/X8wk3oODlsrt6zy7.html</link>
-      <description>&lt;![CDATA[寻找AI时代的下一个黑马：安全创客汇重磅升级为AI创客汇]]&gt;</description>
-      <pubDate>Tue, 03 Nov 2026 14:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/X8wk3oODlsrt6zy7.html</guid>
+      <title>Introducing India-based inference for Kimi K3 on Amazon Bedrock</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/introducing-india-based-inference-for-kimi-k3-on-amazon-bedrock/</link>
+      <description>&lt;![CDATA[Introducing India-based inference for Kimi K3 on Amazon Bedrock]]&gt;</description>
+      <pubDate>Tue, 03 Nov 2026 16:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/introducing-india-based-inference-for-kimi-k3-on-amazon-bedrock/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>蚂蚁数科携智能体超级工厂亮相香港金融科技周，加速全球企业AGI升级</title>
-      <link>https://www.leiphone.com/category/industrynews/rDBfh9DpSlCgX0Ic.html</link>
-      <description>&lt;![CDATA[蚂蚁数科携智能体超级工厂亮相香港金融科技周，加速全球企业AGI升级]]&gt;</description>
-      <pubDate>Tue, 03 Nov 2026 14:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/rDBfh9DpSlCgX0Ic.html</guid>
+      <title>AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It</title>
+      <link>https://blogs.nvidia.com/blog/ai-semiconductor-fabs/</link>
+      <description>&lt;![CDATA[AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It]]&gt;</description>
+      <pubDate>Tue, 03 Nov 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/ai-semiconductor-fabs/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>机器人也中暑？宇树机器人因过热退出登泰山大赛，被担架抬下山；罗技又侮辱用户像狗，「一打折就凑上来」；曝iPhone Duo国行美版存在差异</title>
-      <link>https://www.leiphone.com/category/zaobao/wXLd0iiBxf86pe0t.html</link>
-      <description>&lt;![CDATA[机器人也中暑？宇树机器人因过热退出登泰山大赛，被担架抬下山；罗技又侮辱用户像狗，「一打折就凑上来」；曝iPhone Duo国行美版存在差异]]&gt;</description>
-      <pubDate>Tue, 03 Nov 2026 14:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/zaobao/wXLd0iiBxf86pe0t.html</guid>
+      <title>Building connections across the research infrastructure</title>
+      <link>https://news.mit.edu/2026/building-connections-across-research-infrastructure-1103</link>
+      <description>&lt;![CDATA[Building connections across the research infrastructure]]&gt;</description>
+      <pubDate>Tue, 03 Nov 2026 14:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2026/building-connections-across-research-infrastructure-1103</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2026移动网络大会：从更名之变，看懂智能经济的底层重构</title>
-      <link>https://www.leiphone.com/category/industrynews/7hJQA8D2WBO4XIxG.html</link>
-      <description>&lt;![CDATA[2026移动网络大会：从更名之变，看懂智能经济的底层重构]]&gt;</description>
-      <pubDate>Tue, 03 Nov 2026 14:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/7hJQA8D2WBO4XIxG.html</guid>
+      <title>机器人干活，AI当厂长！这家巨头要造下一代自主智能仓</title>
+      <link>https://www.qbitai.com/2026/11/507507.html</link>
+      <description>&lt;![CDATA[机器人干活，AI当厂长！这家巨头要造下一代自主智能仓]]&gt;</description>
+      <pubDate>Tue, 03 Nov 2026 13:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/507507.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>阿里巴巴蔡崇信乌镇谈AI发展：只有开源开放 才能普惠普及</title>
-      <link>https://www.leiphone.com/category/industrynews/3UkL4LV5iwzPdSwN.html</link>
-      <description>&lt;![CDATA[阿里巴巴蔡崇信乌镇谈AI发展：只有开源开放 才能普惠普及]]&gt;</description>
-      <pubDate>Tue, 03 Nov 2026 13:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/3UkL4LV5iwzPdSwN.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>独家丨元环智能获数亿元融资：用「元模型」让 AI长出「直觉」</title>
-      <link>https://www.leiphone.com/category/industrynews/HzAPRXlFEuzBUnsf.html</link>
-      <description>&lt;![CDATA[独家丨元环智能获数亿元融资：用「元模型」让 AI长出「直觉」]]&gt;</description>
-      <pubDate>Tue, 03 Nov 2026 13:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/HzAPRXlFEuzBUnsf.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>阿里达摩院玄铁 C950 荣获“中国芯”年度重大创新突破产品奖</title>
-      <link>https://www.leiphone.com/category/industrynews/zJf5Kol0yvMdtAqk.html</link>
-      <description>&lt;![CDATA[阿里达摩院玄铁 C950 荣获“中国芯”年度重大创新突破产品奖]]&gt;</description>
-      <pubDate>Tue, 03 Nov 2026 12:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/zJf5Kol0yvMdtAqk.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>淘宝短剧xWan3.0，温碧霞授权形象亮相AI短剧</title>
-      <link>https://www.leiphone.com/category/industrynews/6r6xFSgHy9gAJq1x.html</link>
-      <description>&lt;![CDATA[淘宝短剧xWan3.0，温碧霞授权形象亮相AI短剧]]&gt;</description>
-      <pubDate>Tue, 03 Nov 2026 11:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/6r6xFSgHy9gAJq1x.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>从用户场景到产业落地：美的原创性竞争的底层逻辑</title>
-      <link>https://www.leiphone.com/category/weiwu/xibmmm5lhYU0Ju9j.html</link>
-      <description>&lt;![CDATA[从用户场景到产业落地：美的原创性竞争的底层逻辑]]&gt;</description>
-      <pubDate>Tue, 03 Nov 2026 11:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/xibmmm5lhYU0Ju9j.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>天猫双11东南亚战场开打：Lazada加码本地流量助力中国品牌</title>
-      <link>https://www.leiphone.com/category/industrynews/5Bwgg94JLXIq3yqk.html</link>
-      <description>&lt;![CDATA[天猫双11东南亚战场开打：Lazada加码本地流量助力中国品牌]]&gt;</description>
-      <pubDate>Tue, 03 Nov 2026 11:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/5Bwgg94JLXIq3yqk.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>模型谁都买得到，拉开差距的是AI生产力系统</title>
-      <link>https://www.qbitai.com/2026/11/507448.html</link>
-      <description>&lt;![CDATA[模型谁都买得到，拉开差距的是AI生产力系统]]&gt;</description>
-      <pubDate>Tue, 03 Nov 2026 11:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/507448.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>纯语音Personal Agent来了！或许，这就是乔布斯心中的Siri</title>
-      <link>https://www.qbitai.com/2026/11/507419.html</link>
-      <description>&lt;![CDATA[纯语音Personal Agent来了！或许，这就是乔布斯心中的Siri]]&gt;</description>
-      <pubDate>Tue, 03 Nov 2026 06:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/507419.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>苹果被曝的新产品，中国央企8个月前已装进公共卫生间</title>
-      <link>https://www.qbitai.com/2026/11/507410.html</link>
-      <description>&lt;![CDATA[苹果被曝的新产品，中国央企8个月前已装进公共卫生间]]&gt;</description>
-      <pubDate>Tue, 03 Nov 2026 06:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/507410.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI</title>
-      <link>https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/</link>
-      <description>&lt;![CDATA[Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI]]&gt;</description>
-      <pubDate>Tue, 03 Nov 2026 07:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>OpenAI Introduces Pando: A Git Backend That Cuts Median Push Latency ~80%</title>
-      <link>https://www.marktechpost.com/2026/11/02/openai-pando-git-backend-monorepo/</link>
-      <description>&lt;![CDATA[OpenAI Introduces Pando: A Git Backend That Cuts Median Push Latency ~80%]]&gt;</description>
-      <pubDate>Tue, 03 Nov 2026 05:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/02/openai-pando-git-backend-monorepo/</guid>
+      <title>智己LS8纯电版背后：8年研发底盘，两大厂联合开发电池</title>
+      <link>https://www.qbitai.com/2026/11/507473.html</link>
+      <description>&lt;![CDATA[智己LS8纯电版背后：8年研发底盘，两大厂联合开发电池]]&gt;</description>
+      <pubDate>Tue, 03 Nov 2026 12:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/507473.html</guid>
       <category>Ai</category>
     </item>
   </channel>
