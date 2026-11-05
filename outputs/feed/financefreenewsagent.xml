@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 04 Nov 2026 12:48:00 GMT</pubDate>
-    <lastBuildDate>Wed, 04 Nov 2026 12:48:08 GMT</lastBuildDate>
+    <pubDate>Thu, 05 Nov 2026 03:09:00 GMT</pubDate>
+    <lastBuildDate>Thu, 05 Nov 2026 03:10:00 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,171 +14,155 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Stocks rebound after Democrats’ sweep</title>
+      <title>US midterm results herald upheaval in Middle East policy</title>
+      <link>https://www.ft.com/content/3dee82bf-3bbe-4075-8bfd-4001ddb689ae?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[US midterm results herald upheaval in Middle East policy]]&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 01:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/3dee82bf-3bbe-4075-8bfd-4001ddb689ae?syn-25a6b1a6=1</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Democratic wave keeps US wealth taxes on the agenda despite California setback</title>
+      <link>https://www.ft.com/content/c701ac0d-0ef4-426f-a629-e38ed29d5260?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[Democratic wave keeps US wealth taxes on the agenda despite California setback]]&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 00:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/c701ac0d-0ef4-426f-a629-e38ed29d5260?syn-25a6b1a6=1</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>‘The money didn’t work’: Big Tech’s $600mn midterm campaign falls flat</title>
+      <link>https://www.ft.com/content/3e65138f-068f-465f-a1ae-a9c61ea1afc4?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[‘The money didn’t work’: Big Tech’s $600mn midterm campaign falls flat]]&gt;</description>
+      <pubDate>Wed, 04 Nov 2026 22:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/3e65138f-068f-465f-a1ae-a9c61ea1afc4?syn-25a6b1a6=1</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Vance blames Iran war for crushing Republican midterms defeat</title>
+      <link>https://www.ft.com/content/6bc8be51-5bd8-468c-bd3c-82bbc2866ba1?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[Vance blames Iran war for crushing Republican midterms defeat]]&gt;</description>
+      <pubDate>Wed, 04 Nov 2026 21:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/6bc8be51-5bd8-468c-bd3c-82bbc2866ba1?syn-25a6b1a6=1</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>US stocks post best day since August after Democrats sweep midterms</title>
       <link>https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Stocks rebound after Democrats’ sweep]]&gt;</description>
-      <pubDate>Wed, 04 Nov 2026 12:42:00 GMT</pubDate>
+      <description>&lt;![CDATA[US stocks post best day since August after Democrats sweep midterms]]&gt;</description>
+      <pubDate>Wed, 04 Nov 2026 21:33:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Trump admits Iran war hurt Republicans as blame game erupts</title>
-      <link>https://www.ft.com/content/6bc8be51-5bd8-468c-bd3c-82bbc2866ba1</link>
-      <description>&lt;![CDATA[Trump admits Iran war hurt Republicans as blame game erupts]]&gt;</description>
-      <pubDate>Wed, 04 Nov 2026 12:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/6bc8be51-5bd8-468c-bd3c-82bbc2866ba1</guid>
+      <title>‘Rupert does not want to be with a loser’: Murdoch’s media empire cools on Trump</title>
+      <link>https://www.ft.com/content/ead0309f-537a-4cc1-9d65-a3b9de01e69d?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[‘Rupert does not want to be with a loser’: Murdoch’s media empire cools on Trump]]&gt;</description>
+      <pubDate>Wed, 04 Nov 2026 20:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/ead0309f-537a-4cc1-9d65-a3b9de01e69d?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>How the Trump era crashed</title>
-      <link>https://www.ft.com/content/637bfe05-69f9-4650-b043-731c1ebb4be6?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[How the Trump era crashed]]&gt;</description>
-      <pubDate>Wed, 04 Nov 2026 12:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/637bfe05-69f9-4650-b043-731c1ebb4be6?syn-25a6b1a6=1</guid>
+      <title>Oil tumbles below $100 on post-election peace hopes</title>
+      <link>https://www.ft.com/content/b526f876-810a-4e74-8b8d-4ffca04b29c7?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[Oil tumbles below $100 on post-election peace hopes]]&gt;</description>
+      <pubDate>Wed, 04 Nov 2026 20:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/b526f876-810a-4e74-8b8d-4ffca04b29c7?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Five takeaways from the midterm results</title>
-      <link>https://www.ft.com/content/2bfbe464-f070-44bb-a761-fecad1cde4d4?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Five takeaways from the midterm results]]&gt;</description>
-      <pubDate>Wed, 04 Nov 2026 12:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/2bfbe464-f070-44bb-a761-fecad1cde4d4?syn-25a6b1a6=1</guid>
+      <title>How Democrats pulled off the blue wave in maps and charts</title>
+      <link>https://www.ft.com/content/f27626ac-8427-45d7-a995-a8dfe8d01bd9?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[How Democrats pulled off the blue wave in maps and charts]]&gt;</description>
+      <pubDate>Wed, 04 Nov 2026 19:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/f27626ac-8427-45d7-a995-a8dfe8d01bd9?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Republicans turn on each other after disastrous midterms</title>
-      <link>https://www.ft.com/content/83a46027-3cde-41fa-8c55-405f40c6fa82?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Republicans turn on each other after disastrous midterms]]&gt;</description>
-      <pubDate>Wed, 04 Nov 2026 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/83a46027-3cde-41fa-8c55-405f40c6fa82?syn-25a6b1a6=1</guid>
+      <title>Voters have put a helpful chill on the US data centre boom</title>
+      <link>https://www.ft.com/content/b7d0761f-e5fb-4746-924f-b15420a57844?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[Voters have put a helpful chill on the US data centre boom]]&gt;</description>
+      <pubDate>Wed, 04 Nov 2026 18:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/b7d0761f-e5fb-4746-924f-b15420a57844?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Europe hails Democrats’ US midterm victory as a rebuke of Trumpism</title>
-      <link>https://www.ft.com/content/97070d8f-ce2d-4873-8c70-cc8338f7ce1c?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Europe hails Democrats’ US midterm victory as a rebuke of Trumpism]]&gt;</description>
-      <pubDate>Wed, 04 Nov 2026 10:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/97070d8f-ce2d-4873-8c70-cc8338f7ce1c?syn-25a6b1a6=1</guid>
+      <title>The beginning of the end of the age of Trump</title>
+      <link>https://www.ft.com/content/ab004bd1-4ae7-46a1-a41f-2266cd0f270c?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[The beginning of the end of the age of Trump]]&gt;</description>
+      <pubDate>Wed, 04 Nov 2026 17:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/ab004bd1-4ae7-46a1-a41f-2266cd0f270c?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>James Talarico’s historic Texas Senate victory deals blow to Elon Musk</title>
-      <link>https://www.ft.com/content/b2d07a1f-dfa6-449b-a598-1db51951d6f6?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[James Talarico’s historic Texas Senate victory deals blow to Elon Musk]]&gt;</description>
-      <pubDate>Wed, 04 Nov 2026 10:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/b2d07a1f-dfa6-449b-a598-1db51951d6f6?syn-25a6b1a6=1</guid>
+      <title>Democrats debate how far to take their fight against Trump</title>
+      <link>https://www.ft.com/content/1b492f63-85b4-472c-9bbd-f741a1dfdb0b?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[Democrats debate how far to take their fight against Trump]]&gt;</description>
+      <pubDate>Wed, 04 Nov 2026 15:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/1b492f63-85b4-472c-9bbd-f741a1dfdb0b?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>‘A deep sense of deceit’: Young Republicans reckon with US midterms rout</title>
-      <link>https://www.ft.com/content/ec6029c3-3ec2-4948-8b69-298e3b10399f?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[‘A deep sense of deceit’: Young Republicans reckon with US midterms rout]]&gt;</description>
-      <pubDate>Wed, 04 Nov 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/ec6029c3-3ec2-4948-8b69-298e3b10399f?syn-25a6b1a6=1</guid>
+      <title>Qualcomm’s stock falls as twin forces pressure sales</title>
+      <link>https://www.marketwatch.com/story/qualcomms-stock-falls-as-twin-forces-pressure-sales-fa161159?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Qualcomm’s stock falls as twin forces pressure sales]]&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 01:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/qualcomms-stock-falls-as-twin-forces-pressure-sales-fa161159?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Americans deliver stunning rebuke to Trump as blue wave sweeps country</title>
-      <link>https://www.ft.com/content/b1eb9500-612a-4bb0-bdc3-0311cfc0ec99?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Americans deliver stunning rebuke to Trump as blue wave sweeps country]]&gt;</description>
-      <pubDate>Wed, 04 Nov 2026 08:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/b1eb9500-612a-4bb0-bdc3-0311cfc0ec99?syn-25a6b1a6=1</guid>
+      <title>This year’s worst-performing S&amp;P 500 stock is finally seeing some major relief</title>
+      <link>https://www.marketwatch.com/story/this-years-worst-performing-s-p-500-stock-is-finally-seeing-some-major-relief-fff3fa85?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[This year’s worst-performing S&amp;P 500 stock is finally seeing some major relief]]&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 01:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/this-years-worst-performing-s-p-500-stock-is-finally-seeing-some-major-relief-fff3fa85?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Who are the new faces in the Senate?</title>
-      <link>https://www.ft.com/content/d808855c-7157-4f63-b511-943fd3714e34?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Who are the new faces in the Senate?]]&gt;</description>
-      <pubDate>Wed, 04 Nov 2026 08:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/d808855c-7157-4f63-b511-943fd3714e34?syn-25a6b1a6=1</guid>
+      <title>Figma’s stock dips as investors worry that AI momentum is coming at a high price</title>
+      <link>https://www.marketwatch.com/story/figmas-stock-falls-as-investors-worry-that-ai-momentum-is-coming-at-a-high-price-1aa2134d?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Figma’s stock dips as investors worry that AI momentum is coming at a high price]]&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 01:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/figmas-stock-falls-as-investors-worry-that-ai-momentum-is-coming-at-a-high-price-1aa2134d?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Corporate America braced for Democrats to unleash investigations</title>
-      <link>https://www.ft.com/content/89b80817-fe6b-4172-ad01-8f675e3be6a5?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Corporate America braced for Democrats to unleash investigations]]&gt;</description>
-      <pubDate>Wed, 04 Nov 2026 07:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/89b80817-fe6b-4172-ad01-8f675e3be6a5?syn-25a6b1a6=1</guid>
+      <title>McDonald’s tests new value menu as fast-food discount wars heat up</title>
+      <link>https://www.marketwatch.com/story/mcdonalds-tests-new-value-menu-as-fast-food-discount-wars-heat-up-bfc57caf?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[McDonald’s tests new value menu as fast-food discount wars heat up]]&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 01:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/mcdonalds-tests-new-value-menu-as-fast-food-discount-wars-heat-up-bfc57caf?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>The great humbling of Donald Trump</title>
-      <link>https://www.ft.com/content/862ca6ad-2781-4117-8799-3205bbdbc5ea?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[The great humbling of Donald Trump]]&gt;</description>
-      <pubDate>Wed, 04 Nov 2026 07:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/862ca6ad-2781-4117-8799-3205bbdbc5ea?syn-25a6b1a6=1</guid>
+      <title>As Vistra and other energy stocks slide, some analysts warn of an ‘excessive knee-jerk’ reaction</title>
+      <link>https://www.marketwatch.com/story/as-vistra-and-other-energy-stocks-slide-some-analysts-warn-of-an-excessive-knee-jerk-reaction-aece0737?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[As Vistra and other energy stocks slide, some analysts warn of an ‘excessive knee-jerk’ reaction]]&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 00:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/as-vistra-and-other-energy-stocks-slide-some-analysts-warn-of-an-excessive-knee-jerk-reaction-aece0737?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Trump’s slapdown by America is one for the ages</title>
-      <link>https://www.ft.com/content/0a9d5d07-bc57-4348-b67e-54cf4f1a246e?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Trump’s slapdown by America is one for the ages]]&gt;</description>
-      <pubDate>Wed, 04 Nov 2026 05:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/0a9d5d07-bc57-4348-b67e-54cf4f1a246e?syn-25a6b1a6=1</guid>
+      <title>How do Americans feel about the midterm results? It depends on how much money they make.</title>
+      <link>https://www.marketwatch.com/story/how-do-americans-feel-about-the-midterm-results-it-depends-on-how-much-money-they-make-e2a43f08?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[How do Americans feel about the midterm results? It depends on how much money they make.]]&gt;</description>
+      <pubDate>Wed, 04 Nov 2026 22:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/how-do-americans-feel-about-the-midterm-results-it-depends-on-how-much-money-they-make-e2a43f08?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Midterm elections deliver a ‘blue wave.’ The stock market sees green.</title>
-      <link>https://www.marketwatch.com/story/midterm-elections-deliver-a-blue-wave-the-stock-market-sees-green-5900a779?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Midterm elections deliver a ‘blue wave.’ The stock market sees green.]]&gt;</description>
-      <pubDate>Wed, 04 Nov 2026 12:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/midterm-elections-deliver-a-blue-wave-the-stock-market-sees-green-5900a779?mod=mw_rss_topstories</guid>
+      <title>Micron and other chip stocks slip as election results strike at the core of data-center optimism</title>
+      <link>https://www.marketwatch.com/story/micron-and-other-chip-stocks-slip-as-election-results-strike-at-the-core-of-data-center-optimism-b55d19b3?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Micron and other chip stocks slip as election results strike at the core of data-center optimism]]&gt;</description>
+      <pubDate>Wed, 04 Nov 2026 21:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/micron-and-other-chip-stocks-slip-as-election-results-strike-at-the-core-of-data-center-optimism-b55d19b3?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>CVS Health plans to split in two. Here’s what is driving the massive healthcare breakup.</title>
-      <link>https://www.marketwatch.com/story/cvs-health-plans-to-split-in-two-heres-what-is-driving-the-massive-healthcare-breakup-27c0d6be?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[CVS Health plans to split in two. Here’s what is driving the massive healthcare breakup.]]&gt;</description>
-      <pubDate>Wed, 04 Nov 2026 12:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/cvs-health-plans-to-split-in-two-heres-what-is-driving-the-massive-healthcare-breakup-27c0d6be?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>The AI trade has been ‘sold to death’ but Goldman strategist highlights silver lining from Democratic sweep</title>
-      <link>https://www.marketwatch.com/story/the-ai-trade-has-been-sold-to-death-but-goldman-strategist-highlights-silver-lining-from-democratic-sweep-3d1d6f07?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[The AI trade has been ‘sold to death’ but Goldman strategist highlights silver lining from Democratic sweep]]&gt;</description>
-      <pubDate>Wed, 04 Nov 2026 11:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/the-ai-trade-has-been-sold-to-death-but-goldman-strategist-highlights-silver-lining-from-democratic-sweep-3d1d6f07?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>‘My life could be cut short’: I’m 55, married with $4.3 million and have a brain tumor. Should I buy a $210,000 custom Porsche?</title>
-      <link>https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[‘My life could be cut short’: I’m 55, married with $4.3 million and have a brain tumor. Should I buy a $210,000 custom Porsche?]]&gt;</description>
-      <pubDate>Wed, 04 Nov 2026 10:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>L.A. home once owned by Mike Tyson’s former wife, actress Robin Givens, is on the market for $3.5 million</title>
-      <link>https://www.marketwatch.com/story/l-a-home-once-owned-by-mike-tysons-former-wife-actress-robin-givens-is-on-the-market-for-3-5-million-0b9e11a1?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[L.A. home once owned by Mike Tyson’s former wife, actress Robin Givens, is on the market for $3.5 million]]&gt;</description>
-      <pubDate>Wed, 04 Nov 2026 10:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/l-a-home-once-owned-by-mike-tysons-former-wife-actress-robin-givens-is-on-the-market-for-3-5-million-0b9e11a1?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Jordyn Woods on her baby plans with Karl-Anthony Towns after buying $14 million home</title>
-      <link>https://www.marketwatch.com/story/jordyn-woods-on-her-baby-plans-with-karl-anthony-towns-after-buying-14-million-home-e864ce5a?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Jordyn Woods on her baby plans with Karl-Anthony Towns after buying $14 million home]]&gt;</description>
-      <pubDate>Wed, 04 Nov 2026 09:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/jordyn-woods-on-her-baby-plans-with-karl-anthony-towns-after-buying-14-million-home-e864ce5a?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Beleaguered Novo offers relief to investors, thanks to Wegovy pill</title>
-      <link>https://www.marketwatch.com/story/beleaguered-novo-offers-relief-to-investors-thanks-to-wegovy-pill-422c251b?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Beleaguered Novo offers relief to investors, thanks to Wegovy pill]]&gt;</description>
-      <pubDate>Wed, 04 Nov 2026 09:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/beleaguered-novo-offers-relief-to-investors-thanks-to-wegovy-pill-422c251b?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Democrats win the House and Senate. Here’s what it means for your finances.</title>
-      <link>https://www.marketwatch.com/story/democrats-win-the-senate-but-control-of-the-house-is-still-up-in-the-air-heres-what-it-means-for-your-finances-ed78cd6e?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Democrats win the House and Senate. Here’s what it means for your finances.]]&gt;</description>
-      <pubDate>Wed, 04 Nov 2026 06:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/democrats-win-the-senate-but-control-of-the-house-is-still-up-in-the-air-heres-what-it-means-for-your-finances-ed78cd6e?mod=mw_rss_topstories</guid>
+      <title>These stocks soared the most today after the Democrats trounced Trump</title>
+      <link>https://www.marketwatch.com/story/these-stocks-have-soared-the-most-today-after-the-democrats-trounced-trump-9d785314?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[These stocks soared the most today after the Democrats trounced Trump]]&gt;</description>
+      <pubDate>Wed, 04 Nov 2026 21:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/these-stocks-have-soared-the-most-today-after-the-democrats-trounced-trump-9d785314?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>
