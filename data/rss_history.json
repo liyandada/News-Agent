@@ -5539,6 +5539,48 @@
         "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247538304&idx=1&sn=facb0eb70dff17bed3d546fd04776106",
         "published_date": "Fri, 06 Nov 2026 11:16:00 GMT",
         "first_seen": "2026-11-06T12:45:22.824542"
+      },
+      "d04984877238d0e9ea13f59c4b37b3bdeeedc4bff38bafca96dd6472070d1aa9": {
+        "title": "CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
+        "link": "https://www.infoq.cn/article/K1bCIbHxeu3wLIjdusgr?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 07 Nov 2026 10:00:00 GMT",
+        "first_seen": "2026-11-07T02:35:11.824144"
+      },
+      "b6f6158b11bf02fe2b02dbc42d90c1b63c3446438f1daa6bb1b2f232fdc77604": {
+        "title": "线上 Worker 变慢，本地却复现不了？Cloudflare 让开发者直接看生产环境火焰图",
+        "link": "https://www.infoq.cn/article/pMNGPheLLJ8hkfikmjUU?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 07 Nov 2026 09:00:00 GMT",
+        "first_seen": "2026-11-07T02:35:11.824154"
+      },
+      "12041513f3e2192cc03d83960da8befef6b658cb2a4330ac3101e06929841cd0": {
+        "title": "50系突然疯涨，买不起显卡，年轻人又挤进网吧包夜了",
+        "link": "https://www.tmtpost.com/8196665.html",
+        "published_date": "Sat, 07 Nov 2026 09:54:00 GMT",
+        "first_seen": "2026-11-07T02:35:11.824156"
+      },
+      "f77fba6d69aa3402e24b71dbd9933b66f687615fcecfaaadeaa92f95bc5fa99b": {
+        "title": "深度聊聊“字节时间”",
+        "link": "https://www.tmtpost.com/8196953.html",
+        "published_date": "Sat, 07 Nov 2026 09:54:00 GMT",
+        "first_seen": "2026-11-07T02:35:11.824158"
+      },
+      "6fa939b93f8aa3118a67df3974db66a6a17a886afc39d2bbf8bc8bc6dad536d9": {
+        "title": "AI基建预期生变，万盛股份2.85亿溢价并购遭上交所三问",
+        "link": "https://www.tmtpost.com/8196758.html",
+        "published_date": "Sat, 07 Nov 2026 09:21:00 GMT",
+        "first_seen": "2026-11-07T02:35:11.824159"
+      },
+      "642edcf1bae203e9f9a19b2ccf7a8dcaa5bd21502a408cc9bd45be4b0513d5f5": {
+        "title": "Edge AI Daily 早报（11月7日）",
+        "link": "https://www.tmtpost.com/8196982.html",
+        "published_date": "Sat, 07 Nov 2026 08:28:00 GMT",
+        "first_seen": "2026-11-07T02:35:11.824161"
+      },
+      "3ffe6dce009a3cc3ba517ece891775a7933d8c14b82be89a4e6ca0b55a315bc1": {
+        "title": "马斯克官宣 Cybertruck 停产：销量不足预期一成；李飞飞团队推出世界模型「模拟掌机」；小米汽车成立国际事业部｜极客早知道",
+        "link": "http://www.geekpark.net/news/373639",
+        "published_date": "Sat, 07 Nov 2026 08:48:00 GMT",
+        "first_seen": "2026-11-07T02:35:11.824163"
       }
     },
     "Finance": {
@@ -9711,6 +9753,96 @@
         "link": "https://www.ft.com/content/eced6084-7cd7-4633-a8ba-559173e0f6c1?syn-25a6b1a6=1",
         "published_date": "Fri, 06 Nov 2026 05:00:00 GMT",
         "first_seen": "2026-11-06T12:45:22.922058"
+      },
+      "117ae205765eb77d53bced84fbd3c64775f53159741d1b937fdf2db5d1c22899": {
+        "title": "US warns China it must ‘immediately’ meet terms of Busan trade deal",
+        "link": "https://www.ft.com/content/391bb785-0247-4c39-b53b-35007187d603?syn-25a6b1a6=1",
+        "published_date": "Fri, 06 Nov 2026 22:53:00 GMT",
+        "first_seen": "2026-11-07T02:35:11.919768"
+      },
+      "0120af2f5be0763eac0a83741b8aa394fd837b059857736ccf9dd55bffbf1daf": {
+        "title": "US economy outstrips forecasts to add 165,000 jobs in October",
+        "link": "https://www.ft.com/content/f84c722c-99a9-4628-84dc-c42a192cb35c?syn-25a6b1a6=1",
+        "published_date": "Fri, 06 Nov 2026 22:16:00 GMT",
+        "first_seen": "2026-11-07T02:35:11.919777"
+      },
+      "0329f3f4650400e38b8d238f8b338ea0a3b306fcbd0c5e5b535e56e61d82b31b": {
+        "title": "Trump taps immigration hardliner Stephen Miller as chief of staff",
+        "link": "https://www.ft.com/content/6e8f2244-0e39-45cd-b415-e0be54b0351f?syn-25a6b1a6=1",
+        "published_date": "Fri, 06 Nov 2026 22:09:00 GMT",
+        "first_seen": "2026-11-07T02:35:11.919810"
+      },
+      "535981be47b90562f9760bad5bacd8a6fea7696b64064c0ba794983336c4b83e": {
+        "title": "US stocks stage tepid recovery after $3.2tn rout fuelled by AI fears",
+        "link": "https://www.ft.com/content/088ed252-ea9c-4b61-b2d1-37295fd0f7c2?syn-25a6b1a6=1",
+        "published_date": "Fri, 06 Nov 2026 22:00:00 GMT",
+        "first_seen": "2026-11-07T02:35:11.919814"
+      },
+      "73b1bbd213f58d8ad3f1c78dbe8e100829ce203cf64c0951ff434a33fe785175": {
+        "title": "Anthropic to press ahead with IPO targeting $1.5tn valuation",
+        "link": "https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452?syn-25a6b1a6=1",
+        "published_date": "Fri, 06 Nov 2026 21:00:00 GMT",
+        "first_seen": "2026-11-07T02:35:11.919817"
+      },
+      "17c6057a2190ce7d733d5437d684a2848d29976daa89ee9328f7b71b6e7c0b7e": {
+        "title": "Voters take their pick in New Zealand’s ‘supermarket election’",
+        "link": "https://www.ft.com/content/1e80651b-14f3-4cf0-9b47-2f6dee158496?syn-25a6b1a6=1",
+        "published_date": "Fri, 06 Nov 2026 21:00:00 GMT",
+        "first_seen": "2026-11-07T02:35:11.919821"
+      },
+      "0d2adf64d42f9fdc4297152dc37a81a4e599b3eeda217fcae6156c067ebeedb9": {
+        "title": "James Talarico: the Democrats’ rising star who turned Texas blue",
+        "link": "https://www.ft.com/content/7eb006c7-a430-40fd-bba6-48dcbb810ba2?syn-25a6b1a6=1",
+        "published_date": "Fri, 06 Nov 2026 17:23:00 GMT",
+        "first_seen": "2026-11-07T02:35:11.919823"
+      },
+      "141652c257032d724505ddfafc18387ff3eb1495089b117b59a1e2a88e3375c8": {
+        "title": "Low-profile Wall Street firm to double down on Anthropic despite tech rout",
+        "link": "https://www.ft.com/content/538bfe46-7051-4e3d-8ff3-ad71c861a1f7?syn-25a6b1a6=1",
+        "published_date": "Fri, 06 Nov 2026 14:01:00 GMT",
+        "first_seen": "2026-11-07T02:35:11.919827"
+      },
+      "742f0b23c1a177a433c394088200376bf093acb8007b42dffa1fb2a4e53c928f": {
+        "title": "My portfolio returns went from hero to zero (actually I’d take zero)",
+        "link": "https://www.ft.com/content/44211bf7-0f18-4e55-81b8-01e750ae785f?syn-25a6b1a6=1",
+        "published_date": "Fri, 06 Nov 2026 13:34:00 GMT",
+        "first_seen": "2026-11-07T02:35:11.919830"
+      },
+      "ce5f8bc31dd6d5f7afaffa24d4e9982a75f606066161b9fd7071eaa24b97acdd": {
+        "title": "Elon Musk opens the door for a big SpaceX acquisition",
+        "link": "https://www.marketwatch.com/story/elon-musk-opens-the-door-for-a-big-spacex-acquisition-4f62bcad?mod=mw_rss_topstories",
+        "published_date": "Fri, 06 Nov 2026 21:45:00 GMT",
+        "first_seen": "2026-11-07T02:35:11.919833"
+      },
+      "42ac1b7379b2486227af1bd04279076a14d087a08cdab1d1558d76bcbf338dd9": {
+        "title": "Data centers run on debt. That was a problem for bonds this year — and it’s only going to get worse.",
+        "link": "https://www.marketwatch.com/story/data-centers-run-on-debt-that-was-a-problem-for-bonds-this-year-and-its-only-going-to-get-worse-09c03be6?mod=mw_rss_topstories",
+        "published_date": "Fri, 06 Nov 2026 21:37:00 GMT",
+        "first_seen": "2026-11-07T02:35:11.919836"
+      },
+      "873ea532a2a99cea88f7c6cf214ce5bc534be340c0b3228bab09e3311882dacd": {
+        "title": "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?",
+        "link": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
+        "published_date": "Fri, 06 Nov 2026 21:24:00 GMT",
+        "first_seen": "2026-11-07T02:35:11.919839"
+      },
+      "5b5ad90b4aa2534e344b4e94cc2655ba540048fa7334ff4142b8eb8aa399fff2": {
+        "title": "Micron’s stock is dirt cheap — and that’s igniting a fierce online debate",
+        "link": "https://www.marketwatch.com/story/microns-stock-is-dirt-cheap-and-thats-igniting-a-fierce-online-debate-0626791d?mod=mw_rss_topstories",
+        "published_date": "Fri, 06 Nov 2026 20:58:00 GMT",
+        "first_seen": "2026-11-07T02:35:11.919841"
+      },
+      "16ac272b3604412512d4d0797f3a5890ec22898fcea15804d233498581da6ed6": {
+        "title": "Cybertruck’s run comes to an end as Musk kills off pricey pet project",
+        "link": "https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd?mod=mw_rss_topstories",
+        "published_date": "Fri, 06 Nov 2026 18:54:00 GMT",
+        "first_seen": "2026-11-07T02:35:11.919843"
+      },
+      "d1eb214e3455af77112b567331a8b949bacb252b914903bfa9fb202abc0c3299": {
+        "title": "My adviser recommended an annuity. Is it the right move in this market environment?",
+        "link": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
+        "published_date": "Fri, 06 Nov 2026 18:53:00 GMT",
+        "first_seen": "2026-11-07T02:35:11.919845"
       }
     },
     "Ai": {
@@ -13541,13 +13673,85 @@
         "link": "https://www.marktechpost.com/2026/11/05/thinking-machines-inkling-2-small-release/",
         "published_date": "Fri, 06 Nov 2026 04:25:00 GMT",
         "first_seen": "2026-11-06T12:45:22.683128"
+      },
+      "b280cd614c34ee2c7ca15197cd40a8201a6ced937d7ccddb919896b0e10b9fff": {
+        "title": "SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints",
+        "link": "https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints/",
+        "published_date": "Fri, 06 Nov 2026 18:01:00 GMT",
+        "first_seen": "2026-11-07T02:35:11.679723"
+      },
+      "c1b7bae72753ce34d3f179d02a688924d2fbec9548a2978fa9f088634f00ac2b": {
+        "title": "Taxonomy of agentic primitives in Amazon Quick",
+        "link": "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick/",
+        "published_date": "Fri, 06 Nov 2026 17:34:00 GMT",
+        "first_seen": "2026-11-07T02:35:11.679736"
+      },
+      "29f23475dcd3944041d81da1c5a6f33b6843c46ce5c7985941b79e505206f1eb": {
+        "title": "Serverless MCP server for AI agent data lake access on Amazon ECS Fargate",
+        "link": "https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate/",
+        "published_date": "Fri, 06 Nov 2026 17:13:00 GMT",
+        "first_seen": "2026-11-07T02:35:11.679739"
+      },
+      "a0275bba654b99e225152a6b55d627b14fec17e672a77fc6bc95e1b86b59a403": {
+        "title": "Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 2",
+        "link": "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-2/",
+        "published_date": "Fri, 06 Nov 2026 17:09:00 GMT",
+        "first_seen": "2026-11-07T02:35:11.679741"
+      },
+      "40f401d2db7102409ad99f9c82b75eba7bdd7defe81b3097359c4d59f123ab3e": {
+        "title": "How Greenlight Financial built an autonomous SOC solution on Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-greenlight-financial-built-an-autonomous-soc-solution-on-amazon-bedrock-agentcore/",
+        "published_date": "Fri, 06 Nov 2026 16:55:00 GMT",
+        "first_seen": "2026-11-07T02:35:11.679743"
+      },
+      "37fe45f85486cb5e354f092c0de1244cd42520aa53a8155e245664b7ee8d4a89": {
+        "title": "Taxbit Assist: A grounded, role-aware AI agent on Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/taxbit-assist-a-grounded-role-aware-ai-agent-on-amazon-bedrock-agentcore/",
+        "published_date": "Fri, 06 Nov 2026 16:49:00 GMT",
+        "first_seen": "2026-11-07T02:35:11.679745"
+      },
+      "cb4132e9019785e48778984cf0c37bce45b90f121be80a142ff91c9c201b75c3": {
+        "title": "Extend Claude Code to remote sessions on Amazon Bedrock AgentCore with security controls",
+        "link": "https://aws.amazon.com/blogs/machine-learning/extend-claude-code-to-remote-sessions-on-amazon-bedrock-agentcore-with-security-controls/",
+        "published_date": "Fri, 06 Nov 2026 16:45:00 GMT",
+        "first_seen": "2026-11-07T02:35:11.679746"
+      },
+      "07be7c518a3e1e45b0eaa28ef48b1f0425abe30f23eb227b4436f71c460c852c": {
+        "title": "Zyphra ZYFA: FP8 FlashAttention for AMD MI355X, Up to 1.76x Faster",
+        "link": "https://www.marktechpost.com/2026/11/06/zyphra-zyfa-fp8-flashattention-amd-mi355x/",
+        "published_date": "Fri, 06 Nov 2026 17:28:00 GMT",
+        "first_seen": "2026-11-07T02:35:11.679748"
+      },
+      "f12da193c4e9580ac67dc2d9d6f9109cf365b6c1de1abeb4c721b37f9ffd7353": {
+        "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
+        "link": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
+        "published_date": "Fri, 06 Nov 2026 16:00:00 GMT",
+        "first_seen": "2026-11-07T02:35:11.679750"
+      },
+      "e266fcc7edc3ab84157eb0bd335d828443f02fda4424a2a2b420fb4b48cbe5bf": {
+        "title": "A\\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间",
+        "link": "https://www.qbitai.com/2026/11/508184.html",
+        "published_date": "Fri, 06 Nov 2026 15:21:00 GMT",
+        "first_seen": "2026-11-07T02:35:11.679751"
+      },
+      "921c313e5973e8c0fb6a742b66099f8f5b7d9527787ed8d2b9fa982fc5732aab": {
+        "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+        "link": "https://huggingface.co/blog/allenai/toyblocks",
+        "published_date": "Fri, 06 Nov 2026 14:00:00 GMT",
+        "first_seen": "2026-11-07T02:35:11.679753"
+      },
+      "1e86bbb5156f8177e5779fa3ae4eb444e093851c404cd590fae8717575a15da4": {
+        "title": "How to predict the behavior of molecules from scant data",
+        "link": "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106",
+        "published_date": "Fri, 06 Nov 2026 14:00:00 GMT",
+        "first_seen": "2026-11-07T02:35:11.679754"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-11-06T12:45:22.824544",
-    "Finance": "2026-11-06T12:45:22.922064",
-    "Ai": "2026-11-06T12:45:22.683130"
+    "Technology": "2026-11-07T02:35:11.824166",
+    "Finance": "2026-11-07T02:35:11.919847",
+    "Ai": "2026-11-07T02:35:11.679757"
   }
 }

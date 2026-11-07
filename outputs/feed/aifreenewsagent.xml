@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 06 Nov 2026 12:43:00 GMT</pubDate>
-    <lastBuildDate>Fri, 06 Nov 2026 12:45:22 GMT</lastBuildDate>
+    <pubDate>Sat, 07 Nov 2026 02:32:00 GMT</pubDate>
+    <lastBuildDate>Sat, 07 Nov 2026 02:35:11 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,219 +14,99 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>创始人操纵股价罚没4047万，倍轻松再难「轻松」</title>
-      <link>https://www.leiphone.com/category/weiwu/dpUYWHZif8UtQpLA.html</link>
-      <description>&lt;![CDATA[创始人操纵股价罚没4047万，倍轻松再难「轻松」]]&gt;</description>
-      <pubDate>Fri, 06 Nov 2026 18:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/dpUYWHZif8UtQpLA.html</guid>
+      <title>SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints/</link>
+      <description>&lt;![CDATA[SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints]]&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 18:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>OpenAI 「重置大神」换人了？Tibo 去救火，Andrew 上位</title>
-      <link>https://www.leiphone.com/category/yanxishe/u5N6lCUT0bEfanp1.html</link>
-      <description>&lt;![CDATA[OpenAI 「重置大神」换人了？Tibo 去救火，Andrew 上位]]&gt;</description>
-      <pubDate>Fri, 06 Nov 2026 17:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/u5N6lCUT0bEfanp1.html</guid>
+      <title>Taxonomy of agentic primitives in Amazon Quick</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick/</link>
+      <description>&lt;![CDATA[Taxonomy of agentic primitives in Amazon Quick]]&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 17:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>豆包工作个人版取消5小时额度限制</title>
-      <link>https://www.leiphone.com/category/industrynews/Ii6W43GghzJA7V1u.html</link>
-      <description>&lt;![CDATA[豆包工作个人版取消5小时额度限制]]&gt;</description>
-      <pubDate>Fri, 06 Nov 2026 16:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/Ii6W43GghzJA7V1u.html</guid>
+      <title>Serverless MCP server for AI agent data lake access on Amazon ECS Fargate</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate/</link>
+      <description>&lt;![CDATA[Serverless MCP server for AI agent data lake access on Amazon ECS Fargate]]&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 17:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>李佳琦卖出万份Token，天猫的AI生意才刚开场</title>
-      <link>https://www.leiphone.com/category/industrynews/h454rlPtg41JIuFd.html</link>
-      <description>&lt;![CDATA[李佳琦卖出万份Token，天猫的AI生意才刚开场]]&gt;</description>
-      <pubDate>Fri, 06 Nov 2026 15:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/h454rlPtg41JIuFd.html</guid>
+      <title>Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 2</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-2/</link>
+      <description>&lt;![CDATA[Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 2]]&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 17:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-2/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>办了33年的ACM MM，重新划定研究范围</title>
-      <link>https://www.leiphone.com/category/academic/XWkCJB9bbcRr9Ioe.html</link>
-      <description>&lt;![CDATA[办了33年的ACM MM，重新划定研究范围]]&gt;</description>
-      <pubDate>Fri, 06 Nov 2026 15:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/academic/XWkCJB9bbcRr9Ioe.html</guid>
+      <title>How Greenlight Financial built an autonomous SOC solution on Amazon Bedrock AgentCore</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/how-greenlight-financial-built-an-autonomous-soc-solution-on-amazon-bedrock-agentcore/</link>
+      <description>&lt;![CDATA[How Greenlight Financial built an autonomous SOC solution on Amazon Bedrock AgentCore]]&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 16:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/how-greenlight-financial-built-an-autonomous-soc-solution-on-amazon-bedrock-agentcore/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>上交大张伟楠教授：AI如何走出屏幕，真正改变物理世界？ | CNCC 2026</title>
-      <link>https://www.leiphone.com/category/academic/TRS6Uqs5TY2MaUU4.html</link>
-      <description>&lt;![CDATA[上交大张伟楠教授：AI如何走出屏幕，真正改变物理世界？ | CNCC 2026]]&gt;</description>
-      <pubDate>Fri, 06 Nov 2026 15:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/academic/TRS6Uqs5TY2MaUU4.html</guid>
+      <title>Taxbit Assist: A grounded, role-aware AI agent on Amazon Bedrock AgentCore</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/taxbit-assist-a-grounded-role-aware-ai-agent-on-amazon-bedrock-agentcore/</link>
+      <description>&lt;![CDATA[Taxbit Assist: A grounded, role-aware AI agent on Amazon Bedrock AgentCore]]&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 16:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/taxbit-assist-a-grounded-role-aware-ai-agent-on-amazon-bedrock-agentcore/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>CoRL 六年：论文数×4.5，谁在推着它涨？</title>
-      <link>https://www.leiphone.com/category/academic/3fdO5oKaYZHXYOxI.html</link>
-      <description>&lt;![CDATA[CoRL 六年：论文数×4.5，谁在推着它涨？]]&gt;</description>
-      <pubDate>Fri, 06 Nov 2026 15:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/academic/3fdO5oKaYZHXYOxI.html</guid>
+      <title>Extend Claude Code to remote sessions on Amazon Bedrock AgentCore with security controls</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/extend-claude-code-to-remote-sessions-on-amazon-bedrock-agentcore-with-security-controls/</link>
+      <description>&lt;![CDATA[Extend Claude Code to remote sessions on Amazon Bedrock AgentCore with security controls]]&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 16:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/extend-claude-code-to-remote-sessions-on-amazon-bedrock-agentcore-with-security-controls/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>申通快递和千问办公达成战略合作，推动物流服务智能化升级</title>
-      <link>https://www.leiphone.com/category/industrynews/r82YrCccBHeqYIZv.html</link>
-      <description>&lt;![CDATA[申通快递和千问办公达成战略合作，推动物流服务智能化升级]]&gt;</description>
-      <pubDate>Fri, 06 Nov 2026 14:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/r82YrCccBHeqYIZv.html</guid>
+      <title>Zyphra ZYFA: FP8 FlashAttention for AMD MI355X, Up to 1.76x Faster</title>
+      <link>https://www.marktechpost.com/2026/11/06/zyphra-zyfa-fp8-flashattention-amd-mi355x/</link>
+      <description>&lt;![CDATA[Zyphra ZYFA: FP8 FlashAttention for AMD MI355X, Up to 1.76x Faster]]&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 17:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/06/zyphra-zyfa-fp8-flashattention-amd-mi355x/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>解读丨王腾创业一年，正把小米模式搬进卧室</title>
-      <link>https://www.leiphone.com/category/weiwu/93Xb1SiXL97SxUkH.html</link>
-      <description>&lt;![CDATA[解读丨王腾创业一年，正把小米模式搬进卧室]]&gt;</description>
-      <pubDate>Fri, 06 Nov 2026 11:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/93Xb1SiXL97SxUkH.html</guid>
+      <title>How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks</title>
+      <link>https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/</link>
+      <description>&lt;![CDATA[How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks]]&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>解读丨融资 2 亿，这家 E-bike 公司凭什么押注户外新品类</title>
-      <link>https://www.leiphone.com/category/weiwu/ozMqvnoWJ6l3FAhl.html</link>
-      <description>&lt;![CDATA[解读丨融资 2 亿，这家 E-bike 公司凭什么押注户外新品类]]&gt;</description>
-      <pubDate>Fri, 06 Nov 2026 11:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/ozMqvnoWJ6l3FAhl.html</guid>
+      <title>A\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间</title>
+      <link>https://www.qbitai.com/2026/11/508184.html</link>
+      <description>&lt;![CDATA[A\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间]]&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 15:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/508184.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>独家丨腾讯20年老兵创业 AI 体感主机，融资超六千万</title>
-      <link>https://www.leiphone.com/category/weiwu/8xihmnpkWWIHsn9G.html</link>
-      <description>&lt;![CDATA[独家丨腾讯20年老兵创业 AI 体感主机，融资超六千万]]&gt;</description>
-      <pubDate>Fri, 06 Nov 2026 11:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/8xihmnpkWWIHsn9G.html</guid>
+      <title>ToyBlocks: A controlled world for robot learning and evaluation</title>
+      <link>https://huggingface.co/blog/allenai/toyblocks</link>
+      <description>&lt;![CDATA[ToyBlocks: A controlled world for robot learning and evaluation]]&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://huggingface.co/blog/allenai/toyblocks</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>独家丨创维孵化外骨骼，争夺银发硬件入口</title>
-      <link>https://www.leiphone.com/category/weiwu/MUNn2Q3G5UpPfzl0.html</link>
-      <description>&lt;![CDATA[独家丨创维孵化外骨骼，争夺银发硬件入口]]&gt;</description>
-      <pubDate>Fri, 06 Nov 2026 10:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/MUNn2Q3G5UpPfzl0.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>独家解读 | 大疆老兵研发运动硬件，如何一年做出两款产品？</title>
-      <link>https://www.leiphone.com/category/weiwu/NsNahCY0EA1kICK3.html</link>
-      <description>&lt;![CDATA[独家解读 | 大疆老兵研发运动硬件，如何一年做出两款产品？]]&gt;</description>
-      <pubDate>Fri, 06 Nov 2026 10:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/NsNahCY0EA1kICK3.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>独家解读丨前飞书 CMO 创业，为何用「水晶球」赌一个AI入口？</title>
-      <link>https://www.leiphone.com/category/weiwu/MiJKpPLqwFGB14X7.html</link>
-      <description>&lt;![CDATA[独家解读丨前飞书 CMO 创业，为何用「水晶球」赌一个AI入口？]]&gt;</description>
-      <pubDate>Fri, 06 Nov 2026 10:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/MiJKpPLqwFGB14X7.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>红杉龙珠抢投，众筹 460 万美元：妙动科技的下一关是什么？</title>
-      <link>https://www.leiphone.com/category/weiwu/UDrzYpgEJMY4zajC.html</link>
-      <description>&lt;![CDATA[红杉龙珠抢投，众筹 460 万美元：妙动科技的下一关是什么？]]&gt;</description>
-      <pubDate>Fri, 06 Nov 2026 10:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/UDrzYpgEJMY4zajC.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>菜鸟发布与AI及具身智能产业合作计划</title>
-      <link>https://www.leiphone.com/category/industrynews/DUZcuKBxESiGrXWu.html</link>
-      <description>&lt;![CDATA[菜鸟发布与AI及具身智能产业合作计划]]&gt;</description>
-      <pubDate>Fri, 06 Nov 2026 09:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/DUZcuKBxESiGrXWu.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？</title>
-      <link>https://www.qbitai.com/2026/11/508174.html</link>
-      <description>&lt;![CDATA[为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？]]&gt;</description>
-      <pubDate>Fri, 06 Nov 2026 09:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/508174.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>阶跃终端 STEPX Neo 智能体手机亮相进博会高通展台，软硬模一体打造智能体新体验</title>
-      <link>https://www.qbitai.com/2026/11/508170.html</link>
-      <description>&lt;![CDATA[阶跃终端 STEPX Neo 智能体手机亮相进博会高通展台，软硬模一体打造智能体新体验]]&gt;</description>
-      <pubDate>Fri, 06 Nov 2026 09:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/508170.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>阿里巴巴发布《2026 AI向善行动报告》 AI数据中心可持续发展成年度亮点</title>
-      <link>https://www.qbitai.com/2026/11/508165.html</link>
-      <description>&lt;![CDATA[阿里巴巴发布《2026 AI向善行动报告》 AI数据中心可持续发展成年度亮点]]&gt;</description>
-      <pubDate>Fri, 06 Nov 2026 09:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/508165.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿</title>
-      <link>https://www.qbitai.com/2026/11/508155.html</link>
-      <description>&lt;![CDATA[DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿]]&gt;</description>
-      <pubDate>Fri, 06 Nov 2026 07:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/508155.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？</title>
-      <link>https://www.qbitai.com/2026/11/508118.html</link>
-      <description>&lt;![CDATA[一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？]]&gt;</description>
-      <pubDate>Fri, 06 Nov 2026 06:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/508118.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！</title>
-      <link>https://www.qbitai.com/2026/11/508143.html</link>
-      <description>&lt;![CDATA[从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！]]&gt;</description>
-      <pubDate>Fri, 06 Nov 2026 06:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/508143.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>99.4%登顶全球第一！这个中国AI师承世界冠军</title>
-      <link>https://www.qbitai.com/2026/11/508107.html</link>
-      <description>&lt;![CDATA[99.4%登顶全球第一！这个中国AI师承世界冠军]]&gt;</description>
-      <pubDate>Fri, 06 Nov 2026 05:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/508107.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>香港金融科技周 x StartmeupHK 2026主论坛：以「金融+」、「AI+」及全球拓展开拓新机遇</title>
-      <link>https://www.qbitai.com/2026/11/507988.html</link>
-      <description>&lt;![CDATA[香港金融科技周 x StartmeupHK 2026主论坛：以「金融+」、「AI+」及全球拓展开拓新机遇]]&gt;</description>
-      <pubDate>Fri, 06 Nov 2026 03:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/507988.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>AI短剧门槛降降降！实测即梦短剧工作室：剧本分镜预演一条龙，伙伴计划长期护航</title>
-      <link>https://www.qbitai.com/2026/11/507972.html</link>
-      <description>&lt;![CDATA[AI短剧门槛降降降！实测即梦短剧工作室：剧本分镜预演一条龙，伙伴计划长期护航]]&gt;</description>
-      <pubDate>Fri, 06 Nov 2026 03:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/507972.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>2026-11-06日刊</title>
-      <link>https://hex2077.dev/docs/2026-11/2026-11-06/</link>
-      <description>&lt;![CDATA[2026-11-06日刊]]&gt;</description>
-      <pubDate>Fri, 06 Nov 2026 04:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-11/2026-11-06/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Thinking Machines Releases Inkling 2 Small, a 594B MoE With 17B Active</title>
-      <link>https://www.marktechpost.com/2026/11/05/thinking-machines-inkling-2-small-release/</link>
-      <description>&lt;![CDATA[Thinking Machines Releases Inkling 2 Small, a 594B MoE With 17B Active]]&gt;</description>
-      <pubDate>Fri, 06 Nov 2026 04:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/05/thinking-machines-inkling-2-small-release/</guid>
+      <title>How to predict the behavior of molecules from scant data</title>
+      <link>https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106</link>
+      <description>&lt;![CDATA[How to predict the behavior of molecules from scant data]]&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106</guid>
       <category>Ai</category>
     </item>
   </channel>
