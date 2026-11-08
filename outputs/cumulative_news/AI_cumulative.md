@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-07 11:29
+**最后更新时间**: 2026-11-08 02:03
+
+---
+
+## 🆕 最新更新 (2026-11-08 02:03)
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [How to Run NVIDIA Dory 4B with llama.cpp: Loop by Loop Guide](https://www.marktechpost.com/2026/11/07/coding-guide-nvidia-dory-4b-llama-cpp/)
+**发布时间**: 2026-11-07 19:22
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [](https://www.qbitai.com/2026/11/508236.html)
+**发布时间**: 2026-11-07 03:31
 
 ---
 
