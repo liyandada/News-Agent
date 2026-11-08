@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 08 Nov 2026 02:05:00 GMT</pubDate>
-    <lastBuildDate>Sun, 08 Nov 2026 02:05:22 GMT</lastBuildDate>
+    <pubDate>Sun, 08 Nov 2026 11:56:00 GMT</pubDate>
+    <lastBuildDate>Sun, 08 Nov 2026 11:56:46 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,195 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>从约束到进化：Ontology 与 AI 自迭代的实践｜AICon北京</title>
-      <link>https://www.infoq.cn/article/sy9XMK3zJ3jPwHBN5fQV?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从约束到进化：Ontology 与 AI 自迭代的实践｜AICon北京]]&gt;</description>
-      <pubDate>Sun, 08 Nov 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/sy9XMK3zJ3jPwHBN5fQV?utm_source=rss&amp;utm_medium=article</guid>
+      <title>为什么「陪伴」，注定是 Personal AI 的核心</title>
+      <link>http://www.geekpark.net/news/373653</link>
+      <description>&lt;![CDATA[为什么「陪伴」，注定是 Personal AI 的核心]]&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 17:52:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/373653</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>自动路由真能省钱吗？便宜模型出错后，人类修一小时可能更贵</title>
-      <link>https://www.infoq.cn/article/gOcDmZM2MPAQhWtNb6IJ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[自动路由真能省钱吗？便宜模型出错后，人类修一小时可能更贵]]&gt;</description>
-      <pubDate>Sun, 08 Nov 2026 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/gOcDmZM2MPAQhWtNb6IJ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>创业者做 Personal Agent，有没有一线生机？</title>
+      <link>http://www.geekpark.net/news/373650</link>
+      <description>&lt;![CDATA[创业者做 Personal Agent，有没有一线生机？]]&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 10:40:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/373650</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Edge AI Daily 早报（11月8日）</title>
-      <link>https://www.tmtpost.com/8197405.html</link>
-      <description>&lt;![CDATA[Edge AI Daily 早报（11月8日）]]&gt;</description>
-      <pubDate>Sun, 08 Nov 2026 08:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8197405.html</guid>
+      <title>AI 生成视频何时才能告别“抽卡”？藏在高效生成背后的返工与成本难题</title>
+      <link>https://www.infoq.cn/article/xd9o6TyQ8GLON3dmiWpG?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AI 生成视频何时才能告别“抽卡”？藏在高效生成背后的返工与成本难题]]&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 16:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/xd9o6TyQ8GLON3dmiWpG?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>收购 EA 后，银湖资本与沙特基金 250 亿美元报价 Unity；超10万款应用已适配iPhone Duo；美国再发生 NVIDIA AI 设备失窃案</title>
-      <link>http://www.geekpark.net/news/373649</link>
-      <description>&lt;![CDATA[收购 EA 后，银湖资本与沙特基金 250 亿美元报价 Unity；超10万款应用已适配iPhone Duo；美国再发生 NVIDIA AI 设备失窃案]]&gt;</description>
-      <pubDate>Sun, 08 Nov 2026 08:57:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/373649</guid>
+      <title>顶尖 AI 实验室正在成为“人才黑洞”！Claude Code 团队工程师离职后首次受访</title>
+      <link>https://www.infoq.cn/article/Qs0pJ5M43c56hdozHiR0?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[顶尖 AI 实验室正在成为“人才黑洞”！Claude Code 团队工程师离职后首次受访]]&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 15:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Qs0pJ5M43c56hdozHiR0?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>「全球最速」之后，比亚迪仰望推出了一台「全球最豪」的新车</title>
-      <link>http://www.geekpark.net/news/373647</link>
-      <description>&lt;![CDATA[「全球最速」之后，比亚迪仰望推出了一台「全球最豪」的新车]]&gt;</description>
-      <pubDate>Sat, 07 Nov 2026 23:37:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/373647</guid>
+      <title>租户隔离做了四层，就能放心了吗？工程师提醒：还得看得见边界是否生效</title>
+      <link>https://www.infoq.cn/article/zTFVgklcTFZvgE2fkV7A?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[租户隔离做了四层，就能放心了吗？工程师提醒：还得看得见边界是否生效]]&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/zTFVgklcTFZvgE2fkV7A?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>从资本密集到人力密集：全球AI的瓶颈，卡在缺乏“电工”</title>
+      <link>https://www.tmtpost.com/8194549.html</link>
+      <description>&lt;![CDATA[从资本密集到人力密集：全球AI的瓶颈，卡在缺乏“电工”]]&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 14:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8194549.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>登月的胜负手，不在火箭点火那一刻</title>
+      <link>https://www.tmtpost.com/8194612.html</link>
+      <description>&lt;![CDATA[登月的胜负手，不在火箭点火那一刻]]&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 14:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8194612.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>鲜货烧烤热度持续上升，如何把它变成一门持续赚钱的生意？</title>
+      <link>https://www.tmtpost.com/8197514.html</link>
+      <description>&lt;![CDATA[鲜货烧烤热度持续上升，如何把它变成一门持续赚钱的生意？]]&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 14:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8197514.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>亿纬206GWh大单背后，国轩、比亚迪也在中东市场掘金，储能出海是否形成“供应商名单固化”？</title>
+      <link>https://www.tmtpost.com/8197534.html</link>
+      <description>&lt;![CDATA[亿纬206GWh大单背后，国轩、比亚迪也在中东市场掘金，储能出海是否形成“供应商名单固化”？]]&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 14:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8197534.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>年轻人疯囤平价大水，“水中贵族”百岁山不香了？</title>
+      <link>https://www.tmtpost.com/8197498.html</link>
+      <description>&lt;![CDATA[年轻人疯囤平价大水，“水中贵族”百岁山不香了？]]&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 14:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8197498.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>AMD的CPU时代，正在「落幕」</title>
+      <link>https://www.tmtpost.com/8197527.html</link>
+      <description>&lt;![CDATA[AMD的CPU时代，正在「落幕」]]&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 14:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8197527.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>消费入座成潮流？消费入座趋势是怎么形成的？</title>
+      <link>https://www.tmtpost.com/8197530.html</link>
+      <description>&lt;![CDATA[消费入座成潮流？消费入座趋势是怎么形成的？]]&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 14:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8197530.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>中国白酒出口韩国暴涨85%，谁在买？</title>
+      <link>https://www.tmtpost.com/8197334.html</link>
+      <description>&lt;![CDATA[中国白酒出口韩国暴涨85%，谁在买？]]&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 10:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8197334.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>年产250亿双的“国际袜都”：袜子、面子和里子</title>
+      <link>https://www.tmtpost.com/8197376.html</link>
+      <description>&lt;![CDATA[年产250亿双的“国际袜都”：袜子、面子和里子]]&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 10:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8197376.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>实控人离婚给超8亿“分手费”，智能装备龙头三季报增收不增利</title>
+      <link>https://www.tmtpost.com/8197382.html</link>
+      <description>&lt;![CDATA[实控人离婚给超8亿“分手费”，智能装备龙头三季报增收不增利]]&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 10:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8197382.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>AI泡沫监测·之二：第三个定价器上牌桌</title>
+      <link>https://www.tmtpost.com/8197365.html</link>
+      <description>&lt;![CDATA[AI泡沫监测·之二：第三个定价器上牌桌]]&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 10:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8197365.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>2026年，黄金为什么没当好避险资产？</title>
+      <link>https://www.tmtpost.com/8197401.html</link>
+      <description>&lt;![CDATA[2026年，黄金为什么没当好避险资产？]]&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 10:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8197401.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>宇树跟红杉都不想自己“努力”了？</title>
+      <link>https://www.tmtpost.com/8197415.html</link>
+      <description>&lt;![CDATA[宇树跟红杉都不想自己“努力”了？]]&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 10:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8197415.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>硫磺大行情，正在掀起化工行业的“成本风暴”</title>
+      <link>https://www.tmtpost.com/8197413.html</link>
+      <description>&lt;![CDATA[硫磺大行情，正在掀起化工行业的“成本风暴”]]&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 10:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8197413.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>苹果史上最好财报，却被内存拖住了后腿</title>
+      <link>https://www.tmtpost.com/8197412.html</link>
+      <description>&lt;![CDATA[苹果史上最好财报，却被内存拖住了后腿]]&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 10:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8197412.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>对话《持械入宋》主创 ：非科班，无投流，草根团队如何做出120亿品质爆款？</title>
+      <link>https://www.tmtpost.com/8197408.html</link>
+      <description>&lt;![CDATA[对话《持械入宋》主创 ：非科班，无投流，草根团队如何做出120亿品质爆款？]]&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 10:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8197408.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>在芬兰卖二手衣服，已经成了一门大生意</title>
+      <link>https://www.tmtpost.com/8197335.html</link>
+      <description>&lt;![CDATA[在芬兰卖二手衣服，已经成了一门大生意]]&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 10:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8197335.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>苹果产品那些不够颠覆，却值得被学习的细节</title>
+      <link>https://sspai.com/post/118114</link>
+      <description>&lt;![CDATA[苹果产品那些不够颠覆，却值得被学习的细节]]&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 11:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/118114</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>有个刚开源的 GitHub 项目贼有说法，竟然能在终端里再跑一台 Mac。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247538388&amp;idx=1&amp;sn=76b1287f4a12472c0ea4c90697d47571</link>
+      <description>&lt;![CDATA[有个刚开源的 GitHub 项目贼有说法，竟然能在终端里再跑一台 Mac。]]&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 11:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247538388&amp;idx=1&amp;sn=76b1287f4a12472c0ea4c90697d47571</guid>
       <category>Technology</category>
     </item>
   </channel>
