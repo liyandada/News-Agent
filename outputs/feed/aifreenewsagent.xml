@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 11 Nov 2026 02:31:00 GMT</pubDate>
-    <lastBuildDate>Wed, 11 Nov 2026 02:33:53 GMT</lastBuildDate>
+    <pubDate>Wed, 11 Nov 2026 12:26:00 GMT</pubDate>
+    <lastBuildDate>Wed, 11 Nov 2026 12:28:39 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,107 +14,75 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Introducing Kimi K3.1 Pro on Amazon Bedrock</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-1-pro-on-amazon-bedrock/</link>
-      <description>&lt;![CDATA[Introducing Kimi K3.1 Pro on Amazon Bedrock]]&gt;</description>
-      <pubDate>Wed, 11 Nov 2026 01:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-1-pro-on-amazon-bedrock/</guid>
+      <title>MBZUAI’s IFM Releases PAN 2, an Open 29B World Model for Physical AI</title>
+      <link>https://www.marktechpost.com/2026/11/10/ifm-pan-2-open-world-model/</link>
+      <description>&lt;![CDATA[MBZUAI’s IFM Releases PAN 2, an Open 29B World Model for Physical AI]]&gt;</description>
+      <pubDate>Wed, 11 Nov 2026 07:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/10/ifm-pan-2-open-world-model/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Build a daily dependency watcher with LangGraph and Amazon Bedrock AgentCore web search</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/build-a-daily-dependency-watcher-with-langgraph-and-amazon-bedrock-agentcore-web-search/</link>
-      <description>&lt;![CDATA[Build a daily dependency watcher with LangGraph and Amazon Bedrock AgentCore web search]]&gt;</description>
-      <pubDate>Tue, 10 Nov 2026 23:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/build-a-daily-dependency-watcher-with-langgraph-and-amazon-bedrock-agentcore-web-search/</guid>
+      <title>Fish Audio Releases Live 3, a Full-Duplex Voice Model That Reacts in 186 ms</title>
+      <link>https://www.marktechpost.com/2026/11/10/fish-audio-live-3-full-duplex-voice-model/</link>
+      <description>&lt;![CDATA[Fish Audio Releases Live 3, a Full-Duplex Voice Model That Reacts in 186 ms]]&gt;</description>
+      <pubDate>Wed, 11 Nov 2026 04:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/10/fish-audio-live-3-full-duplex-voice-model/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>The agent evaluation playbook: Built-in, DeepEval, and AutoEval on Amazon Bedrock AgentCore Evaluations</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/the-agent-evaluation-playbook-built-in-deepeval-and-autoeval-on-agentcore/</link>
-      <description>&lt;![CDATA[The agent evaluation playbook: Built-in, DeepEval, and AutoEval on Amazon Bedrock AgentCore Evaluations]]&gt;</description>
-      <pubDate>Tue, 10 Nov 2026 22:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/the-agent-evaluation-playbook-built-in-deepeval-and-autoeval-on-agentcore/</guid>
+      <title>双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替</title>
+      <link>https://www.qbitai.com/2026/11/509146.html</link>
+      <description>&lt;![CDATA[双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替]]&gt;</description>
+      <pubDate>Wed, 11 Nov 2026 06:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/509146.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Autonomous treasury agents: How Trovata built an AI-native solution on Amazon Bedrock and AgentCore</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/autonomous-treasury-agents-how-trovata-built-an-ai-native-solution-on-amazon-bedrock-and-agentcore/</link>
-      <description>&lt;![CDATA[Autonomous treasury agents: How Trovata built an AI-native solution on Amazon Bedrock and AgentCore]]&gt;</description>
-      <pubDate>Tue, 10 Nov 2026 18:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/autonomous-treasury-agents-how-trovata-built-an-ai-native-solution-on-amazon-bedrock-and-agentcore/</guid>
+      <title>从“卖Token”到“卖结果” | 科技有「联想」沙龙激辩Token经济三大议题</title>
+      <link>https://www.qbitai.com/2026/11/509088.html</link>
+      <description>&lt;![CDATA[从“卖Token”到“卖结果” | 科技有「联想」沙龙激辩Token经济三大议题]]&gt;</description>
+      <pubDate>Wed, 11 Nov 2026 06:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/509088.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>How TCS built an agentic test orchestrator with Amazon Bedrock AgentCore</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore/</link>
-      <description>&lt;![CDATA[How TCS built an agentic test orchestrator with Amazon Bedrock AgentCore]]&gt;</description>
-      <pubDate>Tue, 10 Nov 2026 16:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore/</guid>
+      <title>卷起来了！11月11日，大模型厂商在天猫打5折</title>
+      <link>https://www.qbitai.com/2026/11/509085.html</link>
+      <description>&lt;![CDATA[卷起来了！11月11日，大模型厂商在天猫打5折]]&gt;</description>
+      <pubDate>Wed, 11 Nov 2026 06:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/509085.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Amazon Bedrock tokenomics data lake</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-tokenomics-data-lake/</link>
-      <description>&lt;![CDATA[Amazon Bedrock tokenomics data lake]]&gt;</description>
-      <pubDate>Tue, 10 Nov 2026 16:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-tokenomics-data-lake/</guid>
+      <title>无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光</title>
+      <link>https://www.qbitai.com/2026/11/509052.html</link>
+      <description>&lt;![CDATA[无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光]]&gt;</description>
+      <pubDate>Wed, 11 Nov 2026 03:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/509052.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Meta FAIR Releases e-means: An Algorithm Beating k-means in 10x Fewer Epochs</title>
-      <link>https://www.marktechpost.com/2026/11/10/meta-fair-e-means-k-means-faiss/</link>
-      <description>&lt;![CDATA[Meta FAIR Releases e-means: An Algorithm Beating k-means in 10x Fewer Epochs]]&gt;</description>
-      <pubDate>Tue, 10 Nov 2026 23:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/10/meta-fair-e-means-k-means-faiss/</guid>
+      <title>BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model</title>
+      <link>https://huggingface.co/blog/qvac/botpsy</link>
+      <description>&lt;![CDATA[BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model]]&gt;</description>
+      <pubDate>Wed, 11 Nov 2026 05:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://huggingface.co/blog/qvac/botpsy</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Zyphra Releases ZONOS3-Mini: Open-Source TTS With 100M Active Parameters</title>
-      <link>https://www.marktechpost.com/2026/11/10/zyphra-zonos3-mini-open-source-tts/</link>
-      <description>&lt;![CDATA[Zyphra Releases ZONOS3-Mini: Open-Source TTS With 100M Active Parameters]]&gt;</description>
-      <pubDate>Tue, 10 Nov 2026 15:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/10/zyphra-zonos3-mini-open-source-tts/</guid>
+      <title>2026-11-11日刊</title>
+      <link>https://hex2077.dev/docs/2026-11/2026-11-11/</link>
+      <description>&lt;![CDATA[2026-11-11日刊]]&gt;</description>
+      <pubDate>Wed, 11 Nov 2026 04:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-11/2026-11-11/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different Safeguards</title>
-      <link>https://www.marktechpost.com/2026/11/10/anthropic-claude-fable-5-2-mythos-5-2-release/</link>
-      <description>&lt;![CDATA[Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different Safeguards]]&gt;</description>
-      <pubDate>Tue, 10 Nov 2026 14:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/10/anthropic-claude-fable-5-2-mythos-5-2-release/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>双11冲刺进行时！抖音商城服饰趋势品牌有哪些</title>
-      <link>https://www.leiphone.com/category/industrynews/c57qy1fVQl3PL0DL.html</link>
-      <description>&lt;![CDATA[双11冲刺进行时！抖音商城服饰趋势品牌有哪些]]&gt;</description>
-      <pubDate>Tue, 10 Nov 2026 22:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/c57qy1fVQl3PL0DL.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>阿里巴巴：已正式申请平头哥独立上市</title>
-      <link>https://www.leiphone.com/category/industrynews/dew7AYBxkGAYilZj.html</link>
-      <description>&lt;![CDATA[阿里巴巴：已正式申请平头哥独立上市]]&gt;</description>
-      <pubDate>Tue, 10 Nov 2026 20:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/dew7AYBxkGAYilZj.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>吉利星愿上市两年，刷新全球最快百万销量速度纪录</title>
-      <link>https://www.leiphone.com/category/transportation/B2THcx5nSUHfjI4N.html</link>
-      <description>&lt;![CDATA[吉利星愿上市两年，刷新全球最快百万销量速度纪录]]&gt;</description>
-      <pubDate>Tue, 10 Nov 2026 20:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/B2THcx5nSUHfjI4N.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure</title>
-      <link>https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/</link>
-      <description>&lt;![CDATA[NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure]]&gt;</description>
-      <pubDate>Tue, 10 Nov 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/</guid>
+      <title>How AI Helps Recyclers Turn Mixed Waste Into Reusable Material</title>
+      <link>https://blogs.nvidia.com/blog/ai-recycling-startups/</link>
+      <description>&lt;![CDATA[How AI Helps Recyclers Turn Mixed Waste Into Reusable Material]]&gt;</description>
+      <pubDate>Wed, 11 Nov 2026 03:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/ai-recycling-startups/</guid>
       <category>Ai</category>
     </item>
   </channel>

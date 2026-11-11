@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-11 02:31
+**最后更新时间**: 2026-11-11 12:26
+
+---
+
+## 🆕 最新更新 (2026-11-11 12:26)
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [MBZUAI’s IFM Releases PAN 2, an Open 29B World Model for Physical AI](https://www.marktechpost.com/2026/11/10/ifm-pan-2-open-world-model/)
+**发布时间**: 2026-11-11 07:38
+
+#### [Fish Audio Releases Live 3, a Full-Duplex Voice Model That Reacts in 186 ms](https://www.marktechpost.com/2026/11/10/fish-audio-live-3-full-duplex-voice-model/)
+**发布时间**: 2026-11-11 04:43
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替](https://www.qbitai.com/2026/11/509146.html)
+**发布时间**: 2026-11-11 06:41
+
+#### [从“卖Token”到“卖结果” | 科技有「联想」沙龙激辩Token经济三大议题](https://www.qbitai.com/2026/11/509088.html)
+**发布时间**: 2026-11-11 06:27
+
+#### [卷起来了！11月11日，大模型厂商在天猫打5折](https://www.qbitai.com/2026/11/509085.html)
+**发布时间**: 2026-11-11 06:18
+
+#### [无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光](https://www.qbitai.com/2026/11/509052.html)
+**发布时间**: 2026-11-11 03:43
+
+#### [英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天](https://www.qbitai.com/2026/11/509032.html)
+**发布时间**: 2026-11-10 10:35
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model](https://huggingface.co/blog/qvac/botpsy)
+**发布时间**: 2026-11-11 05:01
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-11-11日刊](https://hex2077.dev/docs/2026-11/2026-11-11/)
+**发布时间**: 2026-11-11 04:04
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [How AI Helps Recyclers Turn Mixed Waste Into Reusable Material](https://blogs.nvidia.com/blog/ai-recycling-startups/)
+**发布时间**: 2026-11-11 03:00
 
 ---
 
