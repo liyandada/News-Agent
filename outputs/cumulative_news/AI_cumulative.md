@@ -1,7 +1,70 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-10 13:15
+**最后更新时间**: 2026-11-11 02:31
+
+---
+
+## 🆕 最新更新 (2026-11-11 02:31)
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Introducing Kimi K3.1 Pro on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-1-pro-on-amazon-bedrock/)
+**发布时间**: 2026-11-11 01:07
+
+#### [Build a daily dependency watcher with LangGraph and Amazon Bedrock AgentCore web search](https://aws.amazon.com/blogs/machine-learning/build-a-daily-dependency-watcher-with-langgraph-and-amazon-bedrock-agentcore-web-search/)
+**发布时间**: 2026-11-10 23:34
+
+#### [The agent evaluation playbook: Built-in, DeepEval, and AutoEval on Amazon Bedrock AgentCore Evaluations](https://aws.amazon.com/blogs/machine-learning/the-agent-evaluation-playbook-built-in-deepeval-and-autoeval-on-agentcore/)
+**发布时间**: 2026-11-10 22:35
+
+#### [Autonomous treasury agents: How Trovata built an AI-native solution on Amazon Bedrock and AgentCore](https://aws.amazon.com/blogs/machine-learning/autonomous-treasury-agents-how-trovata-built-an-ai-native-solution-on-amazon-bedrock-and-agentcore/)
+**发布时间**: 2026-11-10 18:11
+
+#### [How TCS built an agentic test orchestrator with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore/)
+**发布时间**: 2026-11-10 16:59
+
+#### [Amazon Bedrock tokenomics data lake](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-tokenomics-data-lake/)
+**发布时间**: 2026-11-10 16:56
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Meta FAIR Releases e-means: An Algorithm Beating k-means in 10x Fewer Epochs](https://www.marktechpost.com/2026/11/10/meta-fair-e-means-k-means-faiss/)
+**发布时间**: 2026-11-10 23:20
+
+#### [Zyphra Releases ZONOS3-Mini: Open-Source TTS With 100M Active Parameters](https://www.marktechpost.com/2026/11/10/zyphra-zonos3-mini-open-source-tts/)
+**发布时间**: 2026-11-10 15:42
+
+#### [Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different Safeguards](https://www.marktechpost.com/2026/11/10/anthropic-claude-fable-5-2-mythos-5-2-release/)
+**发布时间**: 2026-11-10 14:59
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [双11冲刺进行时！抖音商城服饰趋势品牌有哪些](https://www.leiphone.com/category/industrynews/c57qy1fVQl3PL0DL.html)
+**发布时间**: 2026-11-10 22:37
+
+#### [阿里巴巴：已正式申请平头哥独立上市](https://www.leiphone.com/category/industrynews/dew7AYBxkGAYilZj.html)
+**发布时间**: 2026-11-10 20:46
+
+#### [吉利星愿上市两年，刷新全球最快百万销量速度纪录](https://www.leiphone.com/category/transportation/B2THcx5nSUHfjI4N.html)
+**发布时间**: 2026-11-10 20:44
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure](https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/)
+**发布时间**: 2026-11-10 16:00
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-11-10日刊](https://hex2077.dev/docs/2026-11/2026-11-10/)
+**发布时间**: 2026-11-10 10:27
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Pay for Hugging Face Hub with your Google Cloud Account](https://huggingface.co/blog/hub-gcp-marketplace)
+**发布时间**: 2026-11-10 00:00
+
+#### [Decision Models in Hugging Face](https://huggingface.co/blog/decision)
+**发布时间**: 2026-11-10 00:00
 
 ---
 
