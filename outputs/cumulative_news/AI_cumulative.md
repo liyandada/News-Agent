@@ -1,7 +1,95 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-12 03:36
+**最后更新时间**: 2026-11-12 13:31
+
+---
+
+## 🆕 最新更新 (2026-11-12 13:31)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [10个月融资20轮，第三方AI Infra为何越有争议越抢手？](https://www.leiphone.com/category/chips/ouA8GvSp9LIhZPmp.html)
+**发布时间**: 2026-11-12 17:47
+
+#### [姚期智杨植麟首次联手给 AI 出的博士级题目，Kimi 多画出了「关键一条边」](https://www.leiphone.com/category/ai/3vRqaeAILJdgRlhL.html)
+**发布时间**: 2026-11-12 17:09
+
+#### [智驾下半场：千里一手卷模型，一手卷量产](https://www.leiphone.com/category/transportation/15g9g1m5Ij7LVRSe.html)
+**发布时间**: 2026-11-12 16:22
+
+#### [懂组织、高可靠、自进化，库库企业版如何覆盖超60万组织？](https://www.leiphone.com/category/industrynews/Nzg2vNxG99TT4bob.html)
+**发布时间**: 2026-11-12 15:57
+
+#### [15连冠！海尔双11再获全网第一](https://www.leiphone.com/category/industrynews/h1DNbnHTUjHsMd3c.html)
+**发布时间**: 2026-11-12 15:23
+
+#### [清华曹婷：具身今年才追自进化，我们已在这条路上走很远了 | 世界模型 50 人](https://www.leiphone.com/category/ai/YcIBZiMtehhzYJsR.html)
+**发布时间**: 2026-11-12 15:11
+
+#### [CoRL 2026 青年最高荣誉唯一华人得主清华赵行：「世界不会等模型」](https://www.leiphone.com/category/private/zLDQiemmN9KxgnVW.html)
+**发布时间**: 2026-11-12 14:50
+
+#### [外贸也迎双十一开门红！阿里国际站美国大促大涨超40%](https://www.leiphone.com/category/industrynews/zfKZjBL19g9udZv0.html)
+**发布时间**: 2026-11-12 14:30
+
+#### [中国毛巾工厂甩掉「规模制造」包袱，为何选择从拼多多开始？](https://www.leiphone.com/category/industrynews/m35edq7vCZDy9VJB.html)
+**发布时间**: 2026-11-12 13:52
+
+#### [「失声」的头部跨境ERP领星，亲手把自己拖入了信任危机](https://www.leiphone.com/category/industrynews/E94acArQHXRwtUGl.html)
+**发布时间**: 2026-11-12 13:48
+
+#### [豆包工作接入更多模型 并推出限时额度优惠](https://www.leiphone.com/category/industrynews/5Y2bdtPv21ZnFJCY.html)
+**发布时间**: 2026-11-12 11:12
+
+#### [灵光生态再扩容！新增微信 ClawBot、QQ机器人、瑞幸咖啡等六大连接器](https://www.leiphone.com/category/industrynews/nKpbdFlkI7WUDqOl.html)
+**发布时间**: 2026-11-12 11:04
+
+#### [低调追赶的文心，一口气打出了快、省、开源三张牌](https://www.leiphone.com/category/ai/b3ASOkGmqznTQWCH.html)
+**发布时间**: 2026-11-12 10:46
+
+#### [消费券、平台IP...这些品牌如何在双11联动平台玩法撬动新增长？](https://www.leiphone.com/category/industrynews/FhgwAvxGA1zvxyv5.html)
+**发布时间**: 2026-11-12 10:02
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛](https://www.qbitai.com/2026/11/509440.html)
+**发布时间**: 2026-11-12 11:36
+
+#### [从通用大模型到学习过程智能，AI如何真正进入课堂？](https://www.qbitai.com/2026/11/509404.html)
+**发布时间**: 2026-11-12 10:45
+
+#### [Anthropic启动IPO路演，估值已缩水6000亿美元](https://www.qbitai.com/2026/11/509381.html)
+**发布时间**: 2026-11-12 10:11
+
+#### [马斯克Grok泄露自家机密！SpaceX特斯拉工资绩效全曝光](https://www.qbitai.com/2026/11/509355.html)
+**发布时间**: 2026-11-12 10:08
+
+#### [让AI真正懂业务：璇玑如何成为企业AI的语义基础设施](https://www.qbitai.com/2026/11/509349.html)
+**发布时间**: 2026-11-12 09:34
+
+#### [马斯克已准备好聘请黄仁勋](https://www.qbitai.com/2026/11/509334.html)
+**发布时间**: 2026-11-12 08:16
+
+#### [Anthropic玻璃翼计划被质疑！近4万个候补漏洞，只修了217条](https://www.qbitai.com/2026/11/509291.html)
+**发布时间**: 2026-11-12 07:55
+
+#### [百曜科技入选全球 The Information 50！](https://www.qbitai.com/2026/11/509285.html)
+**发布时间**: 2026-11-12 06:13
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [IBM Announces IBM Quantum Nighthawk r3: A New Processor to Support 10k Quantum Operations on 520 Programmable Qubits](https://www.marktechpost.com/2026/11/12/ibm-quantum-nighthawk-r3-520-qubits-1040-qubit-system-2027/)
+**发布时间**: 2026-11-12 08:42
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-11-12日刊](https://hex2077.dev/docs/2026-11/2026-11-12/)
+**发布时间**: 2026-11-12 03:30
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [New research could lead to faster, trustworthy AI models for climate prediction](https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112)
+**发布时间**: 2026-11-12 00:00
 
 ---
 
