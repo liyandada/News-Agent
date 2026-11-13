@@ -1,7 +1,77 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-12 13:31
+**最后更新时间**: 2026-11-13 03:08
+
+---
+
+## 🆕 最新更新 (2026-11-13 03:08)
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec](https://www.marktechpost.com/2026/11/12/liquid-ai-liquidcodec-streaming-audio-codec/)
+**发布时间**: 2026-11-12 22:43
+
+#### [CopilotKit Releases OpenBot 1.0: An MIT-Licensed, Self-Hostable AI Coworker With Built-In Governance](https://www.marktechpost.com/2026/11/12/copilotkit-openbot-1-0-open-source-ai-coworker/)
+**发布时间**: 2026-11-12 21:45
+
+#### [AWS Releases AWS Emulator: A Local Copy of 200+ AWS Services Built by AI Agents](https://www.marktechpost.com/2026/11/12/aws-emulator-local-aws-api-emulator-ai-agents/)
+**发布时间**: 2026-11-12 17:26
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Deploy frontier AI models on AWS Trainium with SGLang-Neuron](https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron/)
+**发布时间**: 2026-11-12 22:03
+
+#### [How Natera designed an agentic AI system for lab ops with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-natera-designed-an-agentic-ai-system-for-lab-ops-with-amazon-bedrock-agentcore/)
+**发布时间**: 2026-11-12 21:47
+
+#### [Four Amazon Bedrock inference choices that affect cost](https://aws.amazon.com/blogs/machine-learning/four-amazon-bedrock-inference-choices-that-affect-cost/)
+**发布时间**: 2026-11-12 20:51
+
+#### [Tokenomics at scale: Track and cap Amazon Bedrock spend per IAM principal with CUR 2.0 and AWS Budgets](https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-track-and-cap-amazon-bedrock-spend-per-iam-principal-with-cur-2-0-and-aws-budgets/)
+**发布时间**: 2026-11-12 19:29
+
+#### [Optimizing cost per task and proving agent ROI on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/optimizing-cost-per-task-and-proving-agent-roi-on-amazon-bedrock/)
+**发布时间**: 2026-11-12 18:43
+
+#### [Building a self-service LLM gateway with Amazon Bedrock and LiteLLM](https://aws.amazon.com/blogs/machine-learning/building-a-self-service-llm-gateway-with-amazon-bedrock-and-litellm/)
+**发布时间**: 2026-11-12 18:41
+
+#### [Run agents securely and efficiently with the next generation AgentCore runtime](https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime/)
+**发布时间**: 2026-11-12 17:59
+
+#### [Migrate to Amazon Bedrock Managed Knowledge Base with your coding agent](https://aws.amazon.com/blogs/machine-learning/migrate-to-amazon-bedrock-managed-knowledge-base-with-your-coding-agent/)
+**发布时间**: 2026-11-12 16:16
+
+#### [Build composable, interoperable multi-agent systems with A2A on AWS](https://aws.amazon.com/blogs/machine-learning/build-composable-interoperable-multi-agent-systems-with-a2a-on-aws/)
+**发布时间**: 2026-11-12 15:42
+
+#### [Fine-grained access control for Amazon Bedrock Managed Knowledge Base tools](https://aws.amazon.com/blogs/machine-learning/fine-grained-access-control-for-amazon-bedrock-managed-knowledge-base-tools/)
+**发布时间**: 2026-11-12 15:40
+
+#### [From prototype to production: Engineering agents with Agent DLC](https://aws.amazon.com/blogs/machine-learning/from-prototype-to-production-engineering-agents-with-agent-dlc/)
+**发布时间**: 2026-11-12 15:38
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B](https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite)
+**发布时间**: 2026-11-12 19:07
+
+#### [The Definitive Fine-Tuning Guide for 3D Generation Models](https://huggingface.co/blog/3d-lora-finetuning)
+**发布时间**: 2026-11-12 00:00
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Three Lincoln Laboratory technologies receive 2026 R&D 100 Awards](https://news.mit.edu/2026/lincoln-laboratory-technologies-receive-rd-100-awards-1112)
+**发布时间**: 2026-11-12 16:15
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/)
+**发布时间**: 2026-11-12 14:00
+
+#### [NVIDIA Expands Open Source Commitment With OpenShell Contribution and New AI Infrastructure](https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/)
+**发布时间**: 2026-11-10 16:00
 
 ---
 
