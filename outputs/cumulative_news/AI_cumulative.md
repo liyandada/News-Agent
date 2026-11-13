@@ -1,7 +1,93 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-13 03:08
+**最后更新时间**: 2026-11-13 12:51
+
+---
+
+## 🆕 最新更新 (2026-11-13 12:51)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [独家｜燧原科技首席生态官李星宇离职](https://www.leiphone.com/category/chips/G6AiPuplIGyPkaQL.html)
+**发布时间**: 2026-11-13 18:00
+
+#### [9.99万的ID.ERA 5X，大众开始用中国效率打价格战](https://www.leiphone.com/category/transportation/vNdfiZqSJgLMJc3M.html)
+**发布时间**: 2026-11-13 17:38
+
+#### [独家丨港大孵化的半导体材料公司，融资数千万](https://www.leiphone.com/category/weiwu/DewyIGiyxQl09nUM.html)
+**发布时间**: 2026-11-13 17:22
+
+#### [海尔热水器双11战报：京东天猫双平台销量TOP1](https://www.leiphone.com/category/industrynews/pDERNZsb2r8U4vS5.html)
+**发布时间**: 2026-11-13 17:17
+
+#### [中金公司与蚂蚁集团达成战略合作 共探AI赋能财富管理](https://www.leiphone.com/category/industrynews/U7WtbV9kyb90UuZ0.html)
+**发布时间**: 2026-11-13 17:05
+
+#### [独家丨一家主动灭火的智慧消防公司，融资超千万](https://www.leiphone.com/category/weiwu/c3euXbtYsl0O6fm2.html)
+**发布时间**: 2026-11-13 17:04
+
+#### [美团陈一方：2026洗浴行业线上化率超20%](https://www.leiphone.com/category/industrynews/reILtCnNdcvKB3fi.html)
+**发布时间**: 2026-11-13 16:43
+
+#### [解读丨不插电的宠物梳毛器，凭什么拿下三千家海外门店？](https://www.leiphone.com/category/weiwu/Hxr2CvehePVKjS4m.html)
+**发布时间**: 2026-11-13 16:29
+
+#### [英伟达博客发声：她不一样，她懂显卡 ( bushi )，她懂端到端！](https://www.leiphone.com/category/ai/1jG5k34DSlHSSJE9.html)
+**发布时间**: 2026-11-13 15:49
+
+#### [40 亿参数模型拿下 6 个评测第一，西湖大学团队押注「概念世界模型」](https://www.leiphone.com/category/academic/nhzldlwI6rJVyXIl.html)
+**发布时间**: 2026-11-13 15:43
+
+#### [黑格科技双十一斩获光固化 3D 打印类目 “三冠王”](https://www.leiphone.com/category/weiwu/AkhKWQN8s6nqa5d6.html)
+**发布时间**: 2026-11-13 15:42
+
+#### [中大梁小丹团队，GeoThinker 两项研究成果，破除空间推理「几何信息用不好、计算开销大」难题](https://www.leiphone.com/category/academic/FpJFXrs9xGOOewKA.html)
+**发布时间**: 2026-11-13 15:40
+
+#### [猫粮要保鲜，饮水要恒温，淘宝出海宠物智能用品跑出新增长](https://www.leiphone.com/category/industrynews/Fs1xk6Oh4bie2guE.html)
+**发布时间**: 2026-11-13 15:29
+
+#### [京博控股集团与千问办公达成战略合作，共创化工行业AI Native标杆](https://www.leiphone.com/category/industrynews/TVkq6K4xkcX9zKSN.html)
+**发布时间**: 2026-11-13 15:27
+
+#### [高德推出AutoSDK国际版，海外司机也能体验到中国导航了！](https://www.leiphone.com/category/industrynews/1QHwFdkqb0nSgOjV.html)
+**发布时间**: 2026-11-13 15:25
+
+#### [谷歌的遗憾，被高德弥补了](https://www.leiphone.com/category/industrynews/VKIfDDIJRVZxJZR7.html)
+**发布时间**: 2026-11-13 15:15
+
+#### [埃安Ray7正式上市，702公里激光雷达后驱版13.47万元](https://www.leiphone.com/category/transportation/AxCfndkvZtBgm8PZ.html)
+**发布时间**: 2026-11-13 12:00
+
+#### [国台严选背后：从两会记者到APEC央视主播团，Pocket 4P 为何成为媒体人标配](https://www.leiphone.com/category/industrynews/XwQ7utNsCKydcl0N.html)
+**发布时间**: 2026-11-13 11:46
+
+#### [独家丨腾讯 AI 李牧青离职，出任 AI 公司联席 CEO](https://www.leiphone.com/category/industrynews/xfpQo71RiPDWJHvS.html)
+**发布时间**: 2026-11-13 11:43
+
+#### [ID. ERA 5X上市，限时权益价9.99万元起](https://www.leiphone.com/category/transportation/Uxxem2Ha3zzVNdv9.html)
+**发布时间**: 2026-11-13 11:16
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Google Releases TPU Sync: Open-Source KV Cache Transfer for TPUs](https://www.marktechpost.com/2026/11/13/google-tpu-sync-kv-cache-transfer-library/)
+**发布时间**: 2026-11-13 10:32
+
+#### [Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash](https://www.marktechpost.com/2026/11/13/google-gemini-4-hydrogen/)
+**发布时间**: 2026-11-13 09:45
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-11-13日刊](https://hex2077.dev/docs/2026-11/2026-11-13/)
+**发布时间**: 2026-11-13 04:14
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [New AI “copilot” helps engineers design better structures](https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113)
+**发布时间**: 2026-11-13 00:00
+
+#### [Helping robots fit into the human workplace](https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113)
+**发布时间**: 2026-11-13 00:00
 
 ---
 
