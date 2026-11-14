@@ -1,7 +1,99 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-13 12:51
+**最后更新时间**: 2026-11-14 02:54
+
+---
+
+## 🆕 最新更新 (2026-11-14 02:54)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [浙大彭思达：从元宇宙到具身智能，一个三维视觉研究者的八年 | 世界模型50人](https://www.leiphone.com/category/ai/lpK3LQWqmpZP8jcG.html)
+**发布时间**: 2026-11-14 00:50
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1](https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/)
+**发布时间**: 2026-11-13 23:22
+
+#### [Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard](https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/)
+**发布时间**: 2026-11-13 22:30
+
+#### [Architecture patterns for fast session startup on Amazon Bedrock AgentCore runtime](https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime/)
+**发布时间**: 2026-11-13 22:02
+
+#### [OpenFold3 on Amazon SageMaker JumpStart: Predict biomolecular structures](https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures/)
+**发布时间**: 2026-11-13 21:53
+
+#### [Cost-optimizing AssemblyAI speech-to-text inference on AWS with Amazon EC2 Spot](https://aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot/)
+**发布时间**: 2026-11-13 19:35
+
+#### [Cost attribution and controls for AI developer and productivity tools on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/cost-attribution-and-controls-for-ai-developer-and-productivity-tools-on-amazon-bedrock/)
+**发布时间**: 2026-11-13 18:44
+
+#### [Build a model improvement flywheel with Amazon SageMaker HyperPod Data Capture](https://aws.amazon.com/blogs/machine-learning/build-a-model-improvement-flywheel-with-amazon-sagemaker-hyperpod-data-capture/)
+**发布时间**: 2026-11-13 18:01
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Advancing science & engineering with Antigravity’s /teamwork](https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/)
+**发布时间**: 2026-11-13 20:47
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Build a Robot Pick-and-Place Simulation with SimReady Assets](https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place)
+**发布时间**: 2026-11-13 18:00
+
+#### [XYBench: Helping with the problem behind the question](https://huggingface.co/blog/allenai/xybench)
+**发布时间**: 2026-11-13 17:02
+
+#### [llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem](https://huggingface.co/blog/ggml-org/llama-cpp-v1)
+**发布时间**: 2026-11-13 14:05
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Best AI Video Generation Models in 2026: Elo, Price per Second, Open Weights](https://www.marktechpost.com/2026/11/13/best-ai-video-generation-models-2026/)
+**发布时间**: 2026-11-13 17:23
+
+#### [Perplexity Releases Decider v1.3: Open-Weight Decision Models Add Locate](https://www.marktechpost.com/2026/11/13/perplexity-decider-v1-3-open-weight-decision-models-locate/)
+**发布时间**: 2026-11-13 16:10
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [How AI Is Helping Care Teams Get Patients the Right Care, Sooner](https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/)
+**发布时间**: 2026-11-13 13:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [黄仁勋辞职，英伟达33年首换帅，市值蒸发超3万亿](https://www.qbitai.com/2026/11/509995.html)
+**发布时间**: 2026-11-13 09:02
+
+#### [MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！](https://www.qbitai.com/2026/11/509827.html)
+**发布时间**: 2026-11-13 07:51
+
+#### [中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了](https://www.qbitai.com/2026/11/509796.html)
+**发布时间**: 2026-11-13 07:43
+
+#### [比亚迪第1900万辆新能源汽车下线，科技新奢旗舰SUV方程豹钛9开启预订](https://www.qbitai.com/2026/11/509730.html)
+**发布时间**: 2026-11-13 07:17
+
+#### [从仰望极速新纪录和鼎曜全球发布 看比亚迪的国际化与高端化之路](https://www.qbitai.com/2026/11/509716.html)
+**发布时间**: 2026-11-13 07:12
+
+#### [比亚迪与神州租车首批闪充车及闪充站投放仪式顺利举行，战略合作落地兑现，闪充中国再次提速](https://www.qbitai.com/2026/11/509710.html)
+**发布时间**: 2026-11-13 07:09
+
+#### [高难盲测超越GPT-6-Astra与Opus-5！无界前沿开源Fx-Bio-1031，把RSI带进生命科学](https://www.qbitai.com/2026/11/509663.html)
+**发布时间**: 2026-11-13 07:06
+
+#### [openJiuwen发布RSI原生AgentOS，让Agent自由变身，持续迭代！](https://www.qbitai.com/2026/11/509653.html)
+**发布时间**: 2026-11-13 06:54
+
+#### [特斯拉和SpaceX最快下月合并](https://www.qbitai.com/2026/11/509613.html)
+**发布时间**: 2026-11-13 06:43
+
+#### [中国机器人学会隔墙“递眼色”！成功率从0飙到100%，组队干活不烧心](https://www.qbitai.com/2026/11/509614.html)
+**发布时间**: 2026-11-13 06:29
 
 ---
 

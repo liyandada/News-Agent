@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 13 Nov 2026 12:51:00 GMT</pubDate>
-    <lastBuildDate>Fri, 13 Nov 2026 12:54:01 GMT</lastBuildDate>
+    <pubDate>Sat, 14 Nov 2026 02:54:00 GMT</pubDate>
+    <lastBuildDate>Sat, 14 Nov 2026 02:57:08 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,187 +14,123 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>独家｜燧原科技首席生态官李星宇离职</title>
-      <link>https://www.leiphone.com/category/chips/G6AiPuplIGyPkaQL.html</link>
-      <description>&lt;![CDATA[独家｜燧原科技首席生态官李星宇离职]]&gt;</description>
+      <title>浙大彭思达：从元宇宙到具身智能，一个三维视觉研究者的八年 | 世界模型50人</title>
+      <link>https://www.leiphone.com/category/ai/lpK3LQWqmpZP8jcG.html</link>
+      <description>&lt;![CDATA[浙大彭思达：从元宇宙到具身智能，一个三维视觉研究者的八年 | 世界模型50人]]&gt;</description>
+      <pubDate>Sat, 14 Nov 2026 00:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/lpK3LQWqmpZP8jcG.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/</link>
+      <description>&lt;![CDATA[Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1]]&gt;</description>
+      <pubDate>Fri, 13 Nov 2026 23:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/</link>
+      <description>&lt;![CDATA[Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard]]&gt;</description>
+      <pubDate>Fri, 13 Nov 2026 22:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Architecture patterns for fast session startup on Amazon Bedrock AgentCore runtime</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime/</link>
+      <description>&lt;![CDATA[Architecture patterns for fast session startup on Amazon Bedrock AgentCore runtime]]&gt;</description>
+      <pubDate>Fri, 13 Nov 2026 22:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>OpenFold3 on Amazon SageMaker JumpStart: Predict biomolecular structures</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures/</link>
+      <description>&lt;![CDATA[OpenFold3 on Amazon SageMaker JumpStart: Predict biomolecular structures]]&gt;</description>
+      <pubDate>Fri, 13 Nov 2026 21:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Cost-optimizing AssemblyAI speech-to-text inference on AWS with Amazon EC2 Spot</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot/</link>
+      <description>&lt;![CDATA[Cost-optimizing AssemblyAI speech-to-text inference on AWS with Amazon EC2 Spot]]&gt;</description>
+      <pubDate>Fri, 13 Nov 2026 19:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Cost attribution and controls for AI developer and productivity tools on Amazon Bedrock</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/cost-attribution-and-controls-for-ai-developer-and-productivity-tools-on-amazon-bedrock/</link>
+      <description>&lt;![CDATA[Cost attribution and controls for AI developer and productivity tools on Amazon Bedrock]]&gt;</description>
+      <pubDate>Fri, 13 Nov 2026 18:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/cost-attribution-and-controls-for-ai-developer-and-productivity-tools-on-amazon-bedrock/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Build a model improvement flywheel with Amazon SageMaker HyperPod Data Capture</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/build-a-model-improvement-flywheel-with-amazon-sagemaker-hyperpod-data-capture/</link>
+      <description>&lt;![CDATA[Build a model improvement flywheel with Amazon SageMaker HyperPod Data Capture]]&gt;</description>
+      <pubDate>Fri, 13 Nov 2026 18:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/build-a-model-improvement-flywheel-with-amazon-sagemaker-hyperpod-data-capture/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Advancing science &amp; engineering with Antigravity’s /teamwork</title>
+      <link>https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/</link>
+      <description>&lt;![CDATA[Advancing science &amp; engineering with Antigravity’s /teamwork]]&gt;</description>
+      <pubDate>Fri, 13 Nov 2026 20:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Build a Robot Pick-and-Place Simulation with SimReady Assets</title>
+      <link>https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</link>
+      <description>&lt;![CDATA[Build a Robot Pick-and-Place Simulation with SimReady Assets]]&gt;</description>
       <pubDate>Fri, 13 Nov 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/chips/G6AiPuplIGyPkaQL.html</guid>
+      <guid isPermaLink="true">https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>9.99万的ID.ERA 5X，大众开始用中国效率打价格战</title>
-      <link>https://www.leiphone.com/category/transportation/vNdfiZqSJgLMJc3M.html</link>
-      <description>&lt;![CDATA[9.99万的ID.ERA 5X，大众开始用中国效率打价格战]]&gt;</description>
-      <pubDate>Fri, 13 Nov 2026 17:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/vNdfiZqSJgLMJc3M.html</guid>
+      <title>XYBench: Helping with the problem behind the question</title>
+      <link>https://huggingface.co/blog/allenai/xybench</link>
+      <description>&lt;![CDATA[XYBench: Helping with the problem behind the question]]&gt;</description>
+      <pubDate>Fri, 13 Nov 2026 17:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://huggingface.co/blog/allenai/xybench</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>独家丨港大孵化的半导体材料公司，融资数千万</title>
-      <link>https://www.leiphone.com/category/weiwu/DewyIGiyxQl09nUM.html</link>
-      <description>&lt;![CDATA[独家丨港大孵化的半导体材料公司，融资数千万]]&gt;</description>
-      <pubDate>Fri, 13 Nov 2026 17:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/DewyIGiyxQl09nUM.html</guid>
+      <title>llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem</title>
+      <link>https://huggingface.co/blog/ggml-org/llama-cpp-v1</link>
+      <description>&lt;![CDATA[llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem]]&gt;</description>
+      <pubDate>Fri, 13 Nov 2026 14:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://huggingface.co/blog/ggml-org/llama-cpp-v1</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>海尔热水器双11战报：京东天猫双平台销量TOP1</title>
-      <link>https://www.leiphone.com/category/industrynews/pDERNZsb2r8U4vS5.html</link>
-      <description>&lt;![CDATA[海尔热水器双11战报：京东天猫双平台销量TOP1]]&gt;</description>
-      <pubDate>Fri, 13 Nov 2026 17:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/pDERNZsb2r8U4vS5.html</guid>
+      <title>Best AI Video Generation Models in 2026: Elo, Price per Second, Open Weights</title>
+      <link>https://www.marktechpost.com/2026/11/13/best-ai-video-generation-models-2026/</link>
+      <description>&lt;![CDATA[Best AI Video Generation Models in 2026: Elo, Price per Second, Open Weights]]&gt;</description>
+      <pubDate>Fri, 13 Nov 2026 17:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/13/best-ai-video-generation-models-2026/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>中金公司与蚂蚁集团达成战略合作 共探AI赋能财富管理</title>
-      <link>https://www.leiphone.com/category/industrynews/U7WtbV9kyb90UuZ0.html</link>
-      <description>&lt;![CDATA[中金公司与蚂蚁集团达成战略合作 共探AI赋能财富管理]]&gt;</description>
-      <pubDate>Fri, 13 Nov 2026 17:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/U7WtbV9kyb90UuZ0.html</guid>
+      <title>Perplexity Releases Decider v1.3: Open-Weight Decision Models Add Locate</title>
+      <link>https://www.marktechpost.com/2026/11/13/perplexity-decider-v1-3-open-weight-decision-models-locate/</link>
+      <description>&lt;![CDATA[Perplexity Releases Decider v1.3: Open-Weight Decision Models Add Locate]]&gt;</description>
+      <pubDate>Fri, 13 Nov 2026 16:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/13/perplexity-decider-v1-3-open-weight-decision-models-locate/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>独家丨一家主动灭火的智慧消防公司，融资超千万</title>
-      <link>https://www.leiphone.com/category/weiwu/c3euXbtYsl0O6fm2.html</link>
-      <description>&lt;![CDATA[独家丨一家主动灭火的智慧消防公司，融资超千万]]&gt;</description>
-      <pubDate>Fri, 13 Nov 2026 17:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/c3euXbtYsl0O6fm2.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>美团陈一方：2026洗浴行业线上化率超20%</title>
-      <link>https://www.leiphone.com/category/industrynews/reILtCnNdcvKB3fi.html</link>
-      <description>&lt;![CDATA[美团陈一方：2026洗浴行业线上化率超20%]]&gt;</description>
-      <pubDate>Fri, 13 Nov 2026 16:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/reILtCnNdcvKB3fi.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>解读丨不插电的宠物梳毛器，凭什么拿下三千家海外门店？</title>
-      <link>https://www.leiphone.com/category/weiwu/Hxr2CvehePVKjS4m.html</link>
-      <description>&lt;![CDATA[解读丨不插电的宠物梳毛器，凭什么拿下三千家海外门店？]]&gt;</description>
-      <pubDate>Fri, 13 Nov 2026 16:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/Hxr2CvehePVKjS4m.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>英伟达博客发声：她不一样，她懂显卡 ( bushi )，她懂端到端！</title>
-      <link>https://www.leiphone.com/category/ai/1jG5k34DSlHSSJE9.html</link>
-      <description>&lt;![CDATA[英伟达博客发声：她不一样，她懂显卡 ( bushi )，她懂端到端！]]&gt;</description>
-      <pubDate>Fri, 13 Nov 2026 15:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/1jG5k34DSlHSSJE9.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>40 亿参数模型拿下 6 个评测第一，西湖大学团队押注「概念世界模型」</title>
-      <link>https://www.leiphone.com/category/academic/nhzldlwI6rJVyXIl.html</link>
-      <description>&lt;![CDATA[40 亿参数模型拿下 6 个评测第一，西湖大学团队押注「概念世界模型」]]&gt;</description>
-      <pubDate>Fri, 13 Nov 2026 15:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/academic/nhzldlwI6rJVyXIl.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>黑格科技双十一斩获光固化 3D 打印类目 “三冠王”</title>
-      <link>https://www.leiphone.com/category/weiwu/AkhKWQN8s6nqa5d6.html</link>
-      <description>&lt;![CDATA[黑格科技双十一斩获光固化 3D 打印类目 “三冠王”]]&gt;</description>
-      <pubDate>Fri, 13 Nov 2026 15:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/AkhKWQN8s6nqa5d6.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>中大梁小丹团队，GeoThinker 两项研究成果，破除空间推理「几何信息用不好、计算开销大」难题</title>
-      <link>https://www.leiphone.com/category/academic/FpJFXrs9xGOOewKA.html</link>
-      <description>&lt;![CDATA[中大梁小丹团队，GeoThinker 两项研究成果，破除空间推理「几何信息用不好、计算开销大」难题]]&gt;</description>
-      <pubDate>Fri, 13 Nov 2026 15:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/academic/FpJFXrs9xGOOewKA.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>猫粮要保鲜，饮水要恒温，淘宝出海宠物智能用品跑出新增长</title>
-      <link>https://www.leiphone.com/category/industrynews/Fs1xk6Oh4bie2guE.html</link>
-      <description>&lt;![CDATA[猫粮要保鲜，饮水要恒温，淘宝出海宠物智能用品跑出新增长]]&gt;</description>
-      <pubDate>Fri, 13 Nov 2026 15:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/Fs1xk6Oh4bie2guE.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>京博控股集团与千问办公达成战略合作，共创化工行业AI Native标杆</title>
-      <link>https://www.leiphone.com/category/industrynews/TVkq6K4xkcX9zKSN.html</link>
-      <description>&lt;![CDATA[京博控股集团与千问办公达成战略合作，共创化工行业AI Native标杆]]&gt;</description>
-      <pubDate>Fri, 13 Nov 2026 15:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/TVkq6K4xkcX9zKSN.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>高德推出AutoSDK国际版，海外司机也能体验到中国导航了！</title>
-      <link>https://www.leiphone.com/category/industrynews/1QHwFdkqb0nSgOjV.html</link>
-      <description>&lt;![CDATA[高德推出AutoSDK国际版，海外司机也能体验到中国导航了！]]&gt;</description>
-      <pubDate>Fri, 13 Nov 2026 15:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/1QHwFdkqb0nSgOjV.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>谷歌的遗憾，被高德弥补了</title>
-      <link>https://www.leiphone.com/category/industrynews/VKIfDDIJRVZxJZR7.html</link>
-      <description>&lt;![CDATA[谷歌的遗憾，被高德弥补了]]&gt;</description>
-      <pubDate>Fri, 13 Nov 2026 15:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/VKIfDDIJRVZxJZR7.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>埃安Ray7正式上市，702公里激光雷达后驱版13.47万元</title>
-      <link>https://www.leiphone.com/category/transportation/AxCfndkvZtBgm8PZ.html</link>
-      <description>&lt;![CDATA[埃安Ray7正式上市，702公里激光雷达后驱版13.47万元]]&gt;</description>
-      <pubDate>Fri, 13 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/AxCfndkvZtBgm8PZ.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>国台严选背后：从两会记者到APEC央视主播团，Pocket 4P 为何成为媒体人标配</title>
-      <link>https://www.leiphone.com/category/industrynews/XwQ7utNsCKydcl0N.html</link>
-      <description>&lt;![CDATA[国台严选背后：从两会记者到APEC央视主播团，Pocket 4P 为何成为媒体人标配]]&gt;</description>
-      <pubDate>Fri, 13 Nov 2026 11:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/XwQ7utNsCKydcl0N.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>独家丨腾讯 AI 李牧青离职，出任 AI 公司联席 CEO</title>
-      <link>https://www.leiphone.com/category/industrynews/xfpQo71RiPDWJHvS.html</link>
-      <description>&lt;![CDATA[独家丨腾讯 AI 李牧青离职，出任 AI 公司联席 CEO]]&gt;</description>
-      <pubDate>Fri, 13 Nov 2026 11:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/xfpQo71RiPDWJHvS.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>ID. ERA 5X上市，限时权益价9.99万元起</title>
-      <link>https://www.leiphone.com/category/transportation/Uxxem2Ha3zzVNdv9.html</link>
-      <description>&lt;![CDATA[ID. ERA 5X上市，限时权益价9.99万元起]]&gt;</description>
-      <pubDate>Fri, 13 Nov 2026 11:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/Uxxem2Ha3zzVNdv9.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Google Releases TPU Sync: Open-Source KV Cache Transfer for TPUs</title>
-      <link>https://www.marktechpost.com/2026/11/13/google-tpu-sync-kv-cache-transfer-library/</link>
-      <description>&lt;![CDATA[Google Releases TPU Sync: Open-Source KV Cache Transfer for TPUs]]&gt;</description>
-      <pubDate>Fri, 13 Nov 2026 10:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/13/google-tpu-sync-kv-cache-transfer-library/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash</title>
-      <link>https://www.marktechpost.com/2026/11/13/google-gemini-4-hydrogen/</link>
-      <description>&lt;![CDATA[Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash]]&gt;</description>
-      <pubDate>Fri, 13 Nov 2026 09:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/13/google-gemini-4-hydrogen/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>2026-11-13日刊</title>
-      <link>https://hex2077.dev/docs/2026-11/2026-11-13/</link>
-      <description>&lt;![CDATA[2026-11-13日刊]]&gt;</description>
-      <pubDate>Fri, 13 Nov 2026 04:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-11/2026-11-13/</guid>
+      <title>How AI Is Helping Care Teams Get Patients the Right Care, Sooner</title>
+      <link>https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/</link>
+      <description>&lt;![CDATA[How AI Is Helping Care Teams Get Patients the Right Care, Sooner]]&gt;</description>
+      <pubDate>Fri, 13 Nov 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/</guid>
       <category>Ai</category>
     </item>
   </channel>
