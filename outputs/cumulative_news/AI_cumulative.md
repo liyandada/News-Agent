@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-14 11:56
+**最后更新时间**: 2026-11-15 02:43
+
+---
+
+## 🆕 最新更新 (2026-11-15 02:43)
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy](https://www.marktechpost.com/2026/11/14/cmpnd-dspy-wsp-weight-space-programming/)
+**发布时间**: 2026-11-14 16:45
+
+#### [Stanford Research Open-Sources Memorilla, a Latent Memory Module for Frozen LLMs](https://www.marktechpost.com/2026/11/14/stanford-memorilla-memory-system-16-memory-tokens/)
+**发布时间**: 2026-11-14 10:21
 
 ---
 

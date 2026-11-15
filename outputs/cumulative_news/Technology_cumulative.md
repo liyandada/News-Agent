@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-14 11:58
+**最后更新时间**: 2026-11-15 02:47
+
+---
+
+## 🆕 最新更新 (2026-11-15 02:47)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI撞上美国“新世界”：暴跌、监管、政治博弈，数据中心何去何从？](https://www.tmtpost.com/8205551.html)
+**发布时间**: 2026-11-15 10:30
+
+#### [黄仁勋和“平头哥”，都在等一个厉娜！](https://www.tmtpost.com/8205553.html)
+**发布时间**: 2026-11-15 10:30
+
+#### [算力狂飙而净利率跌破5%：为什么工业AI算不出实体企业的真利润？](https://www.tmtpost.com/8205381.html)
+**发布时间**: 2026-11-15 10:30
+
+#### [一条推文蒸发近3万亿：美国ASI禁令引爆科技股雪崩](https://www.tmtpost.com/8205565.html)
+**发布时间**: 2026-11-15 10:30
+
+#### [Kimi估值500亿美元，月之暗面为什么急着拆掉海外架构？](https://www.tmtpost.com/8205584.html)
+**发布时间**: 2026-11-15 10:30
+
+#### [新版医保目录发布，创新药打通最后一公里](https://www.tmtpost.com/8205583.html)
+**发布时间**: 2026-11-15 10:30
+
+#### [德国本土的汽车工业正在经历一次大收缩](https://www.tmtpost.com/8205589.html)
+**发布时间**: 2026-11-15 10:30
+
+#### [Edge AI Daily 早报（11月15日）](https://www.tmtpost.com/8205610.html)
+**发布时间**: 2026-11-15 09:09
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [闭环 AI 自我进化：从 Skill、Harness 到模型训练与评估｜AICon北京](https://www.infoq.cn/article/fZSEkDatL9xajG8PVi7G?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-15 10:00
+
+#### [GitLab 19.5 发布，将智能体开发纳入可治理的 DevOps 平台能力](https://www.infoq.cn/article/0IpE2EOypcqMFtL7z4z1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-15 09:00
 
 ---
 
