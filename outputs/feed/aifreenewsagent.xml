@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 16 Nov 2026 02:33:00 GMT</pubDate>
-    <lastBuildDate>Mon, 16 Nov 2026 02:36:08 GMT</lastBuildDate>
+    <pubDate>Mon, 16 Nov 2026 13:20:00 GMT</pubDate>
+    <lastBuildDate>Mon, 16 Nov 2026 13:23:19 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,219 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities</title>
-      <link>https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/</link>
-      <description>&lt;![CDATA[AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities]]&gt;</description>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/</guid>
+      <title>启境GT7 Ultra舒享版纯电/增程正式上新！首付6.66万起，拿下L3级架构猎装</title>
+      <link>https://www.leiphone.com/category/industrynews/OCFaX1WjrKRkcFm5.html</link>
+      <description>&lt;![CDATA[启境GT7 Ultra舒享版纯电/增程正式上新！首付6.66万起，拿下L3级架构猎装]]&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 17:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/OCFaX1WjrKRkcFm5.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>豆包工作独家上线“工作台”功能，首批覆盖金融、医疗、教育等21个专业场景</title>
+      <link>https://www.leiphone.com/category/industrynews/hnSL5YwUtQjerTRK.html</link>
+      <description>&lt;![CDATA[豆包工作独家上线“工作台”功能，首批覆盖金融、医疗、教育等21个专业场景]]&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 16:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/hnSL5YwUtQjerTRK.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>智算接棒：物理AI的下一个风口，在于计算基础设施</title>
+      <link>https://www.leiphone.com/category/chips/yYPDwzuTBbcMSCSx.html</link>
+      <description>&lt;![CDATA[智算接棒：物理AI的下一个风口，在于计算基础设施]]&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 16:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/chips/yYPDwzuTBbcMSCSx.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>HCI 先驱 de Souza：当 AI 替我们阅读，谁来为知识负责？| ACM MM 2026</title>
+      <link>https://www.leiphone.com/category/private/j1CWHNsD9eBM7Wwc.html</link>
+      <description>&lt;![CDATA[HCI 先驱 de Souza：当 AI 替我们阅读，谁来为知识负责？| ACM MM 2026]]&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 15:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/private/j1CWHNsD9eBM7Wwc.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>李飞飞最新 CoRL2026 演讲实录：从「橱柜模型」到世界模型，机器人需要什么样的 AI ？</title>
+      <link>https://www.leiphone.com/category/ai/zV4No5T5XDHJcupr.html</link>
+      <description>&lt;![CDATA[李飞飞最新 CoRL2026 演讲实录：从「橱柜模型」到世界模型，机器人需要什么样的 AI ？]]&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 15:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/zV4No5T5XDHJcupr.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>李飞飞对话苏姿丰：AMD 收购后首次同台，CoRL 现场谈算力、机器人与「这个时代最大的失误」</title>
+      <link>https://www.leiphone.com/category/ai/b2VJ0YUl2gN5nNie.html</link>
+      <description>&lt;![CDATA[李飞飞对话苏姿丰：AMD 收购后首次同台，CoRL 现场谈算力、机器人与「这个时代最大的失误」]]&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 15:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/b2VJ0YUl2gN5nNie.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>韩国消费者爱上速卖通双11！中国品牌成交大涨4倍</title>
+      <link>https://www.leiphone.com/category/industrynews/cKZQPQOnwbz4y30h.html</link>
+      <description>&lt;![CDATA[韩国消费者爱上速卖通双11！中国品牌成交大涨4倍]]&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 13:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/cKZQPQOnwbz4y30h.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>模型选择自由！千问办公上线Qwen4、Kimi-K3.1、GLM-5.3等10款模型</title>
+      <link>https://www.leiphone.com/category/industrynews/tDhzNl3D84AjopSh.html</link>
+      <description>&lt;![CDATA[模型选择自由！千问办公上线Qwen4、Kimi-K3.1、GLM-5.3等10款模型]]&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 12:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/tDhzNl3D84AjopSh.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>百度世界2026｜让金融AI用得起、更专业，度小满“轩辕”探索中小机构落地新路径</title>
+      <link>https://www.leiphone.com/category/industrynews/JDoXug7VZqSjkQrQ.html</link>
+      <description>&lt;![CDATA[百度世界2026｜让金融AI用得起、更专业，度小满“轩辕”探索中小机构落地新路径]]&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/JDoXug7VZqSjkQrQ.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>众筹超500万美元，全球首款多地形跟拍机器人Beni线下首发</title>
+      <link>https://www.leiphone.com/category/weiwu/nFSVApZT1GmSFH9T.html</link>
+      <description>&lt;![CDATA[众筹超500万美元，全球首款多地形跟拍机器人Beni线下首发]]&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 11:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/nFSVApZT1GmSFH9T.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>抖音商城双11 好物节收官：品牌如何在大促中收获生意爆发？</title>
+      <link>https://www.leiphone.com/category/industrynews/k4AfYGyYAfHKk0WW.html</link>
+      <description>&lt;![CDATA[抖音商城双11 好物节收官：品牌如何在大促中收获生意爆发？]]&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 11:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/k4AfYGyYAfHKk0WW.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>华为Mate X8官宣第二代灵珑屏，折叠屏手机进入大焕新时代？</title>
+      <link>https://www.leiphone.com/category/industrynews/uQHWYgknaxF4jzlB.html</link>
+      <description>&lt;![CDATA[华为Mate X8官宣第二代灵珑屏，折叠屏手机进入大焕新时代？]]&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 11:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/uQHWYgknaxF4jzlB.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景</title>
+      <link>https://www.leiphone.com/category/industrynews/TRw4D5Bw5HsTmC1G.html</link>
+      <description>&lt;![CDATA[阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景]]&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 11:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/TRw4D5Bw5HsTmC1G.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>会畅科技发布任务管理原生 Agent 矩阵 软硬件协同深耕企业执行场景</title>
+      <link>https://www.leiphone.com/category/industrynews/vBMqo9G7ViFbsPER.html</link>
+      <description>&lt;![CDATA[会畅科技发布任务管理原生 Agent 矩阵 软硬件协同深耕企业执行场景]]&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 10:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/vBMqo9G7ViFbsPER.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>AI公司转型最难的一步：如何构建AI Native的产品体系</title>
+      <link>https://www.leiphone.com/category/ai/pzBYjjLW3Cjb6AAO.html</link>
+      <description>&lt;![CDATA[AI公司转型最难的一步：如何构建AI Native的产品体系]]&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 10:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/pzBYjjLW3Cjb6AAO.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准</title>
+      <link>https://www.qbitai.com/2026/11/510542.html</link>
+      <description>&lt;![CDATA[睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准]]&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 10:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/510542.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力</title>
+      <link>https://www.qbitai.com/2026/11/510526.html</link>
+      <description>&lt;![CDATA[2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力]]&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 08:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/510526.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>没搞过一天研发的他，50岁以华为董事的身份退休了</title>
+      <link>https://www.qbitai.com/2026/11/510496.html</link>
+      <description>&lt;![CDATA[没搞过一天研发的他，50岁以华为董事的身份退休了]]&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 08:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/510496.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>SuperLink2026开启创投行业超级链接时刻，12月北京见</title>
+      <link>https://www.qbitai.com/2026/11/510493.html</link>
+      <description>&lt;![CDATA[SuperLink2026开启创投行业超级链接时刻，12月北京见]]&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 07:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/510493.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>余承东发布新款问界M8：38万元起售，全系预埋L3架构</title>
+      <link>https://www.qbitai.com/2026/11/510436.html</link>
+      <description>&lt;![CDATA[余承东发布新款问界M8：38万元起售，全系预埋L3架构]]&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 07:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/510436.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>龙芯、海光老兵集结，通研院孵化的AGI芯片公司浮出水面！半年连融数亿元</title>
+      <link>https://www.qbitai.com/2026/11/510416.html</link>
+      <description>&lt;![CDATA[龙芯、海光老兵集结，通研院孵化的AGI芯片公司浮出水面！半年连融数亿元]]&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 05:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/510416.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>今天截止！2026年度AI表彰，错过再等一年！</title>
+      <link>https://www.qbitai.com/2026/11/510382.html</link>
+      <description>&lt;![CDATA[今天截止！2026年度AI表彰，错过再等一年！]]&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 03:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/510382.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>提速2.48倍且画质不掉线，AI视频“降本增效”有了新解法</title>
+      <link>https://www.qbitai.com/2026/11/510369.html</link>
+      <description>&lt;![CDATA[提速2.48倍且画质不掉线，AI视频“降本增效”有了新解法]]&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 03:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/510369.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Meet Meta’s JiTTests: LLM-Generated Tests Designed to Fail Before Risky Code Lands</title>
+      <link>https://www.marktechpost.com/2026/11/16/meta-jittests-llm-catching-tests-privacy-bugs/</link>
+      <description>&lt;![CDATA[Meet Meta’s JiTTests: LLM-Generated Tests Designed to Fail Before Risky Code Lands]]&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 10:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/16/meta-jittests-llm-catching-tests-privacy-bugs/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context</title>
+      <link>https://www.marktechpost.com/2026/11/16/alibaba-qwen4-max-release/</link>
+      <description>&lt;![CDATA[Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context]]&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 09:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/16/alibaba-qwen4-max-release/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Hark Releases Handoff², a 2x Faster Computer-Use Agent for Hark Pro</title>
+      <link>https://www.marktechpost.com/2026/11/16/hark-handoff-2-computer-use-agent-2x-faster/</link>
+      <description>&lt;![CDATA[Hark Releases Handoff², a 2x Faster Computer-Use Agent for Hark Pro]]&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 09:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/16/hark-handoff-2-computer-use-agent-2x-faster/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>2026-11-16日刊</title>
+      <link>https://hex2077.dev/docs/2026-11/2026-11-16/</link>
+      <description>&lt;![CDATA[2026-11-16日刊]]&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 03:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-11/2026-11-16/</guid>
       <category>Ai</category>
     </item>
   </channel>
