@@ -1,7 +1,64 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-20 13:50
+**最后更新时间**: 2026-11-21 04:00
+
+---
+
+## 🆕 最新更新 (2026-11-21 04:00)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [旧面板厂不愁卖，芯片巨头为什么排队接盘](https://www.tmtpost.com/8213412.html)
+**发布时间**: 2026-11-21 11:44
+
+#### [从“刷分”打到“补缝”，机器人新竞赛升温](https://www.tmtpost.com/8213064.html)
+**发布时间**: 2026-11-21 11:43
+
+#### [做科学家创业路上的“一致行动人”——  从一间工位到一桌夜话，海淀“接得住”科学家的每一步](https://www.tmtpost.com/8213414.html)
+**发布时间**: 2026-11-21 11:43
+
+#### [跑不通“快餐模式”，陪伴机器人得熬出“人情味”](https://www.tmtpost.com/8212950.html)
+**发布时间**: 2026-11-21 11:43
+
+#### [现金流为王的周期来了？](https://www.tmtpost.com/8213356.html)
+**发布时间**: 2026-11-21 11:43
+
+#### [外卖翻篇，阿里把钱砸向AI](https://www.tmtpost.com/8213142.html)
+**发布时间**: 2026-11-21 11:01
+
+#### [Muse负责人首次公开对谈：七个月，从玩具到1000万下载](https://www.tmtpost.com/8213062.html)
+**发布时间**: 2026-11-21 11:01
+
+#### [姚顺雨现身Reddit答问两小时：混元后训练最难的问题，是过度思考](https://www.tmtpost.com/8213389.html)
+**发布时间**: 2026-11-21 10:53
+
+#### [AI交易雪崩：纳指单日狂泻1261点，这次市场不再相信“故事”](https://www.tmtpost.com/8213381.html)
+**发布时间**: 2026-11-21 10:27
+
+#### [GTA 6 可以慢慢来，独立游戏等不起](https://www.tmtpost.com/8213018.html)
+**发布时间**: 2026-11-21 10:20
+
+#### [Edge AI Daily 早报（11月21日）](https://www.tmtpost.com/8213305.html)
+**发布时间**: 2026-11-21 09:19
+
+#### [福特股票看起来很便宜，其刚获上调至“买入”的评级](https://www.tmtpost.com/8213224.html)
+**发布时间**: 2026-11-20 22:08
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [智能体 AI 架构：当前挑战与未来机遇](https://www.infoq.cn/article/TrWuo2vEZRl2xB2XXZNX?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-21 11:00
+
+#### [TaoDesign 的知识工程实践：从设计资产到 Agent 持续进化｜AICon北京](https://www.infoq.cn/article/vhoobUFbLs2hUlTBA4HZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-21 10:00
+
+#### [Entire Git Forge：面向编码智能体重构 Git 协作方式](https://www.infoq.cn/article/6swrOq5xUXwVqrREwJwc?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-21 10:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [林俊旸新公司估值升至 50 亿美元；丁磊：短剧爆发冲击游戏产业；华为新品牌星芒发布首款阔直板手机](http://www.geekpark.net/news/374299)
+**发布时间**: 2026-11-21 08:17
 
 ---
 
