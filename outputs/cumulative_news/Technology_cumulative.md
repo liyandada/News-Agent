@@ -1,7 +1,143 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-22 13:06
+**最后更新时间**: 2026-11-23 15:41
+
+---
+
+## 🆕 最新更新 (2026-11-23 15:41)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [企业 AI 发展新趋势：推动 AI Agent 迈向规模化应用的新阶段](https://www.infoq.cn/video/its3v5OfmRuikL5SeWUu?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-23 19:52
+
+#### [AI 时代的数据工程：如何打造 AI 原生团队](https://www.infoq.cn/video/qWRo8T0IdKoI7RBuQwNd?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-23 19:40
+
+#### [重塑财务职能：引领 AI 时代的转型](https://www.infoq.cn/video/zDX7VX1ZLsWM2BNMJLc1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-23 19:33
+
+#### [当你的下一位客户是 AI Agent：企业营销与销售的 AI 发展前景](https://www.infoq.cn/video/cw3OFxCPlVBE625COukc?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-23 19:16
+
+#### [构建主权 AI 技术栈：开放权重、前沿模型与企业控制平面](https://www.infoq.cn/video/pZRYMTB7olLHTR3BuxaB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-23 19:08
+
+#### [Java 近期新闻：TornadoVM、A2A Java、Open Liberty、Open J Proxy、Gradle、EclipseStore](https://www.infoq.cn/article/7912LtESaQAFaci2lFor?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-23 17:00
+
+#### [Amazon ECS Gateway 正式上线，可以自动生成主机名，但不支持自定义域名](https://www.infoq.cn/article/6mOVcKUGjpD1VmxZOGqt?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-23 16:00
+
+#### [Agent 想用但不敢用？百度智能云企业级 Agent 安全落地实践](https://www.infoq.cn/article/dzgleaOZ3ILx5cztUtXw?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-23 15:55
+
+#### [Agent不再只写代码，亚马逊云科技瞄准三个新难题](https://www.infoq.cn/article/4cFZ1bATcXRJaGPFoF7z?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-23 15:37
+
+#### [谷歌采用Pyrefly以实现更快、更准确的Python类型检查](https://www.infoq.cn/article/4mG1MEowzSqIg2cY1XZP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-23 15:00
+
+#### [安谋科技发布“星辰100e” AIoT 原型平台，AI推理性能最高提升 340 倍](https://www.infoq.cn/article/pdjVKiH3ONYjePlUDufv?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-23 14:22
+
+#### [亚马逊云科技推出Well-Architected Agent预览版](https://www.infoq.cn/article/LQuPgS5lcFDMEKhZSP5d?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-23 14:16
+
+#### [姚顺雨团队回应一切：下一代混元将大幅扩参，RSI 仍处早期，最难解决的是“想太多”](https://www.infoq.cn/article/b4QKbFZaXvbK9hzcBhZV?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-23 14:10
+
+#### [「AI 圈有局」第 01 期｜5 场活动、12 个社区找到你的同路人](https://www.infoq.cn/article/uEfN9kdGsIMGkOgidVG7?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-23 11:42
+
+#### [广告风控为何越审越强？轻量基座与审核 Agent 的协同进化实践｜AICon北京](https://www.infoq.cn/article/8YT8bJElVYOuK0FvKG4o?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-23 11:31
+
+#### [JDK 24之后的虚拟线程：生产环境的Java发生了哪些变化](https://www.infoq.cn/article/JSf8dl9laEVQLb7dCROQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-23 11:00
+
+#### [具身智能进入大浪淘沙阶段，企业需要怎样的人才？](https://www.infoq.cn/article/a22y9GDY1yHuAJkOIF8z?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-23 10:48
+
+#### [Anthropic 创纪录 IPO 未能扭转 AI 市场悲观情绪，Claude 上市当天突发性能降级！靠失业焦虑撑起的万亿估值，该踩刹车了](https://www.infoq.cn/article/OPbZhT0OHL4IbZz8exvA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-23 09:20
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Alo中国首批线下体验店开业，想踩着Lululemon的流量上位](https://www.tmtpost.com/8214477.html)
+**发布时间**: 2026-11-23 18:36
+
+#### [800万对1000万，腾讯字节又在AI办公杠上了](https://www.tmtpost.com/8214502.html)
+**发布时间**: 2026-11-23 18:36
+
+#### [禾赛的第二增长曲线，瞄准的不仅仅是机器人](https://www.tmtpost.com/8214576.html)
+**发布时间**: 2026-11-23 18:36
+
+#### [当AI开始自己上班](https://www.tmtpost.com/8214386.html)
+**发布时间**: 2026-11-23 18:36
+
+#### [当AI接管网购，年轻人迷上外包砍价](https://www.tmtpost.com/8214748.html)
+**发布时间**: 2026-11-23 18:36
+
+#### [年薪百万，硅谷大厂急招反内鬼专家](https://www.tmtpost.com/8214813.html)
+**发布时间**: 2026-11-23 18:36
+
+#### [新鲜感之后，陪伴机器人如何被用起来？](https://www.tmtpost.com/8212446.html)
+**发布时间**: 2026-11-23 17:39
+
+#### [杉数完成数亿元D轮融资：十年“冷门创业”，走到AI产业的关键处](https://www.tmtpost.com/8214351.html)
+**发布时间**: 2026-11-23 17:26
+
+#### [蚂蚁靠金融补贴、京东靠卖药兜底：大厂绕开医保的医疗AI试验](https://www.tmtpost.com/8214407.html)
+**发布时间**: 2026-11-23 17:08
+
+#### [豆包工作、千问办公、WorkBuddy，怎么越长越像了？](https://www.tmtpost.com/8214460.html)
+**发布时间**: 2026-11-23 17:08
+
+#### [机器人公司老板当自媒体，图什么？](https://www.tmtpost.com/8214356.html)
+**发布时间**: 2026-11-23 17:08
+
+#### [AI不懂情绪，但跑出了七种新生意](https://www.tmtpost.com/8214426.html)
+**发布时间**: 2026-11-23 17:08
+
+#### [东鹏“好厉害”：一瓶酒，三本账](https://www.tmtpost.com/8214485.html)
+**发布时间**: 2026-11-23 16:34
+
+#### [现金流不会说谎：AI 把中国科技巨头逼进了同一场考试](https://www.tmtpost.com/8211898.html)
+**发布时间**: 2026-11-23 16:34
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/119438)
+**发布时间**: 2026-11-23 18:08
+
+#### [怪手机们要回来了吗？](https://sspai.com/prime/story/weird-phones-are-returning)
+**发布时间**: 2026-11-23 18:00
+
+#### [养鱼更省心，造景更自由：米家智能鱼缸 2 Pro 体验](https://sspai.com/post/119023)
+**发布时间**: 2026-11-23 15:12
+
+#### [新手问号 | 用智能插座为旧款 Apple 设备设置「充电上限」](https://sspai.com/post/118705)
+**发布时间**: 2026-11-23 14:00
+
+#### [派早报：Anthropic 研究员宣称用 Claude 证明黎曼猜想](https://sspai.com/post/119418)
+**发布时间**: 2026-11-23 07:34
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [GitHub 上开源不到 7 天拿下 7000 Star，让 AI 给旧项目性能提速。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247538733&idx=1&sn=c33f37cdf7fec28606ddd9bfd5c87997)
+**发布时间**: 2026-11-23 16:31
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [二级回收，将成为争夺下一代太空经济入场券的「新风向标」](http://www.geekpark.net/news/374355)
+**发布时间**: 2026-11-23 15:49
+
+#### [利润增速降至 0.7%， 拼多多「申诉优赔」还要给商家补贴几十亿](http://www.geekpark.net/news/374348)
+**发布时间**: 2026-11-23 15:18
+
+#### [OpenAI 首席科学家：AI 最早明年加速进化；B 站开始清理「大肥鱼」泛滥；瘫痪患者用脑机打 GTA6｜极客早知道](http://www.geekpark.net/news/374304)
+**发布时间**: 2026-11-23 09:22
 
 ---
 
