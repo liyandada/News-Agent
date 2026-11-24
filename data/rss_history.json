@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "512aac8a7c3cfcfcf2a30b361d67f824adb00ff25bea793c64eb76c886139895": {
-        "title": "最近又刷到 4 个黑科技 GitHub 项目，第 3 个重点看看。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247537991&idx=1&sn=69fafc227ed7436bf409e5cd3dd1a43d",
-        "published_date": "Sat, 24 Oct 2026 11:14:00 GMT",
-        "first_seen": "2026-10-25T00:56:01.755744"
-      },
-      "c56723328ce886f3d935bd2f8d984250a1aa295608eb3431b4d75b5702010726": {
-        "title": "苹果首批折叠屏遭集中投诉；英国宣布超过 6 亿英镑 AI 投资计划；刘慈欣监制《三体·大史》年内开机",
-        "link": "http://www.geekpark.net/news/372860",
-        "published_date": "Sun, 25 Oct 2026 08:52:00 GMT",
-        "first_seen": "2026-10-25T00:56:01.755755"
-      },
-      "18d5fbb58b3c2f383e22832d5152e1180ff55cd62e961699b6d8ee261c53f060": {
-        "title": "在硅谷，遇见个人计算机历史",
-        "link": "https://sspai.com/post/116128",
-        "published_date": "Sat, 24 Oct 2026 16:26:00 GMT",
-        "first_seen": "2026-10-25T00:56:01.755758"
-      },
-      "b5378db02a0d4c78b3d93b4dfcec0d88eefac0787c660a5979082a744d7ac215": {
-        "title": "告别“高级打工仔”：硅谷AI牌桌上，挤满了中国留学生",
-        "link": "https://www.tmtpost.com/8180412.html",
-        "published_date": "Sat, 24 Oct 2026 16:32:00 GMT",
-        "first_seen": "2026-10-25T00:56:01.755760"
-      },
-      "6693bc91889fe275ffe7029a51910333e8fa7f0862d8a8bce5793f7781ffa066": {
-        "title": "AI审计者的显微镜，是被告造的",
-        "link": "https://www.tmtpost.com/8180386.html",
-        "published_date": "Sat, 24 Oct 2026 16:23:00 GMT",
-        "first_seen": "2026-10-25T00:56:01.755762"
-      },
-      "bb252edc66e6fa984c7c1a5802175231b8c19eca0b9a566f8274a90b396c2054": {
-        "title": "线下消费，再次把“希望”寄托在猫狗身上",
-        "link": "https://www.tmtpost.com/8180362.html",
-        "published_date": "Sat, 24 Oct 2026 16:23:00 GMT",
-        "first_seen": "2026-10-25T00:56:01.755764"
-      },
-      "590c12922c36e29bc27e1c8f65dcd7d2319c8de77f137d5296ab73aace780aa1": {
-        "title": "陶哲轩尴尬了，哈佛研究显示AI审稿比专家强",
-        "link": "https://www.tmtpost.com/8180368.html",
-        "published_date": "Sat, 24 Oct 2026 16:23:00 GMT",
-        "first_seen": "2026-10-25T00:56:01.755765"
-      },
-      "843ab2305c5a6c2cae038c409a0f34c4e8ca7039b2891fc945f6091daeec9d23": {
-        "title": "数采会成为具身智能的“牺牲品”吗？",
-        "link": "https://www.tmtpost.com/8180292.html",
-        "published_date": "Sat, 24 Oct 2026 12:40:00 GMT",
-        "first_seen": "2026-10-25T00:56:01.755767"
-      },
-      "71ed10290852c78b60c1b3fced7c0a8534923c001183232a08124120c5d54b30": {
-        "title": "全线扩产仍供不应求，光刻机被抢疯了",
-        "link": "https://www.tmtpost.com/8180287.html",
-        "published_date": "Sat, 24 Oct 2026 12:26:00 GMT",
-        "first_seen": "2026-10-25T00:56:01.755769"
-      },
-      "d97a787befc5cdb2aa982d90446620457fa8f649fba1aa8bc56c137cc99e8f40": {
-        "title": "打工人，开始“表演”AI提效",
-        "link": "https://www.tmtpost.com/8180279.html",
-        "published_date": "Sat, 24 Oct 2026 12:19:00 GMT",
-        "first_seen": "2026-10-25T00:56:01.755770"
-      },
       "9fa26945572c07fc90cc8a7a241e35ec88d1ceb01fadc2666e1afd37b5fef916": {
         "title": "四分之一PR是“AI垃圾”！Linux基金会发布新报告：AI写代码快了52%，开源维护者却更累了",
         "link": "https://www.infoq.cn/article/9TSuUDxrUSGS26XTA2yB?utm_source=rss&utm_medium=article",
@@ -8167,69 +8107,225 @@
         "link": "http://www.geekpark.net/news/374304",
         "published_date": "Mon, 23 Nov 2026 09:22:00 GMT",
         "first_seen": "2026-11-23T15:41:44.932859"
+      },
+      "4686f21f3668fc7ed2cf37dfa3f20b4204b8e0cbb6b532aa26d47326b7da4350": {
+        "title": "当 AI 改变一切，下一步如何构建？",
+        "link": "https://www.infoq.cn/article/iRm9lBSQj0OCvDdgLQrO?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 24 Nov 2026 14:12:00 GMT",
+        "first_seen": "2026-11-24T06:46:21.975482"
+      },
+      "eac1e20ad0b1385f875580b18723e9a1d8707f5208eec1c380eb5cb3239eec4b": {
+        "title": "技术债务具有社会性：它是边做边学的代价",
+        "link": "https://www.infoq.cn/article/rdfEoVWlwvbrW0MCsFKs?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 24 Nov 2026 14:00:00 GMT",
+        "first_seen": "2026-11-24T06:46:21.975496"
+      },
+      "2b7fb8e63c47e0141777a392e72d565440b99bcbf60c6f5870cf80e3814e652a": {
+        "title": "谷歌发现，技术债务会通过“智能体分心”导致编码智能体偏离正轨",
+        "link": "https://www.infoq.cn/article/sFmubmDWkulIOTBLX0Dr?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 24 Nov 2026 13:00:00 GMT",
+        "first_seen": "2026-11-24T06:46:21.975498"
+      },
+      "2deb3b63f76a2687d821f8f936b2b571cc9fbe6cb3e22d71fad82825df4b0369": {
+        "title": "营销、销售与 RevOps 的单一可信源：每个答案背后的数据与上下文",
+        "link": "https://www.infoq.cn/video/cr6DkWNiQ4fKcs9yq0FP?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 24 Nov 2026 12:43:00 GMT",
+        "first_seen": "2026-11-24T06:46:21.975500"
+      },
+      "867daf18e44bbfbc6b83dd6ebcd4feacad616738a75c01225ea6a5d58afa660d": {
+        "title": "数据分析的下一站：智能体分析",
+        "link": "https://www.infoq.cn/video/Q0rXqh3OmSAhcePiDjh2?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 24 Nov 2026 12:40:00 GMT",
+        "first_seen": "2026-11-24T06:46:21.975502"
+      },
+      "42c0f4442e0353dd034411704b01ed9e329705635f4652591dc11935623c9de3": {
+        "title": "超越试点：销售管理者的 AI 转型行动指南",
+        "link": "https://www.infoq.cn/video/UU3P37LW5IE6Xg4O0cSN?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 24 Nov 2026 12:36:00 GMT",
+        "first_seen": "2026-11-24T06:46:21.975523"
+      },
+      "e3e4940ea06d51dc155e590125796f52b637be9807c717e846ac5a53a59afade": {
+        "title": "把 Rust 表达式直接翻译成 JavaScript，Topcoat 走了一条反 WASM 路线",
+        "link": "https://www.infoq.cn/article/obHr7mdXqLU1GLskZYN2?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 24 Nov 2026 12:00:00 GMT",
+        "first_seen": "2026-11-24T06:46:21.975524"
+      },
+      "b5b56f1114e8aeb84789c29a696c79be3ab7154ce601a244cd3ad9a4ab08a70c": {
+        "title": "Pinterest 让大模型取代多阶段聚类，但最大的提速来自“少推理”",
+        "link": "https://www.infoq.cn/article/vaEUVvWD9AIaFXZhzSMH?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 24 Nov 2026 11:00:00 GMT",
+        "first_seen": "2026-11-24T06:46:21.975526"
+      },
+      "8e9208de62cc57773737f20fd98c3f6cc94b883fece3bdbb1825f64c642d258d": {
+        "title": "基于紫光展锐UIS7885的首个5G开源派诞生！",
+        "link": "https://www.infoq.cn/article/eX1YFM98P3MvrYqBbo0x?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 24 Nov 2026 10:46:00 GMT",
+        "first_seen": "2026-11-24T06:46:21.975527"
+      },
+      "0eda7d50e5f109fa08c844667857818a3bf91d1928e7e5bd1c2aa83fed3ebfb7": {
+        "title": "从“抗议性分叉”到可信替代，OpenBao 开始挑战 Vault 企业版",
+        "link": "https://www.infoq.cn/article/6JtyOTOrD8TmBT3abP8V?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 24 Nov 2026 10:00:00 GMT",
+        "first_seen": "2026-11-24T06:46:21.975529"
+      },
+      "b5b1c0fb60fac53eeb4174bc49e0922ba30838c4afc419c9e155124c2452c2a6": {
+        "title": "从批量生成到业务可用：电商 AI 剪辑的工程取舍与实践复盘｜AICon北京",
+        "link": "https://www.infoq.cn/article/YMYl4DVNr1pRKD8ITfaW?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 24 Nov 2026 10:00:00 GMT",
+        "first_seen": "2026-11-24T06:46:21.975530"
+      },
+      "11de1a9fb5fd6917e57c6e7d0cdbb01d93e59c3f91e8a33925789fd5f0615986": {
+        "title": "黄仁勋杀回英伟达，董事会全票同意！老黄：迫不及待投入工作",
+        "link": "https://www.infoq.cn/article/4t3EvHtmI11QEgmV23Iz?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 24 Nov 2026 08:00:00 GMT",
+        "first_seen": "2026-11-24T06:46:21.975532"
+      },
+      "bb1629105ddb9b3dff102bb35ad4f0e9e4e3f5118e9735759a27854c19a47453": {
+        "title": "CAR-T的分水岭时刻",
+        "link": "https://www.tmtpost.com/8215707.html",
+        "published_date": "Tue, 24 Nov 2026 12:46:00 GMT",
+        "first_seen": "2026-11-24T06:46:21.975533"
+      },
+      "af2ca84d513f813b704598a33a942ae528cb15add2c9ce6003cd16ef14d39b5a": {
+        "title": "马斯克谈支持黄仁勋：逆境时才能看到真朋友",
+        "link": "https://www.tmtpost.com/8215202.html",
+        "published_date": "Tue, 24 Nov 2026 12:46:00 GMT",
+        "first_seen": "2026-11-24T06:46:21.975535"
+      },
+      "ac5a2add553b4962dc71dec91d566fedb9522ce348d9ebf13b0aa06f4d6350f0": {
+        "title": "苹果做智能体，OpenAI做手机",
+        "link": "https://www.tmtpost.com/8215096.html",
+        "published_date": "Tue, 24 Nov 2026 12:46:00 GMT",
+        "first_seen": "2026-11-24T06:46:21.975536"
+      },
+      "372915a86f3281023ed731a2901605862a9ca7708b387a6d00366c45e3708cc1": {
+        "title": "困惑度，为什么成了衡量RSI进度的“度量衡”？",
+        "link": "https://www.tmtpost.com/8215712.html",
+        "published_date": "Tue, 24 Nov 2026 12:37:00 GMT",
+        "first_seen": "2026-11-24T06:46:21.975537"
+      },
+      "3de7f4d51ead5cd60fb6b35be49bee2ffc5267797572f04e301d302cd9e4c1ce": {
+        "title": "中国旺旺，跋涉越冬",
+        "link": "https://www.tmtpost.com/8215711.html",
+        "published_date": "Tue, 24 Nov 2026 12:37:00 GMT",
+        "first_seen": "2026-11-24T06:46:21.975539"
+      },
+      "9afabd70602ddc3ef18389904f497eb06909c0c11c79b65c85aaa9b63c0c8074": {
+        "title": "Kimi看好的AI4S：假如成千上万个分子涌向临床，谁能活到最后？",
+        "link": "https://www.tmtpost.com/8215303.html",
+        "published_date": "Tue, 24 Nov 2026 12:37:00 GMT",
+        "first_seen": "2026-11-24T06:46:21.975541"
+      },
+      "825d25e3a641b9302e1a953b1f6ed9ce2f66b682d254806e1d84bd104936b7e8": {
+        "title": "黄仁勋回来了，明星创始人为何“赶不走”？",
+        "link": "https://www.tmtpost.com/8215547.html",
+        "published_date": "Tue, 24 Nov 2026 12:37:00 GMT",
+        "first_seen": "2026-11-24T06:46:21.975542"
+      },
+      "b12342cadff8643003d54c303884256baa202053a7485402a96eac2a6b513fbd": {
+        "title": "ADC杀出一匹黑马",
+        "link": "https://www.tmtpost.com/8215427.html",
+        "published_date": "Tue, 24 Nov 2026 12:37:00 GMT",
+        "first_seen": "2026-11-24T06:46:21.975543"
+      },
+      "189a13d07994e3476fa24553682af76b4f295488d9a3da30eca04ab7f41345eb": {
+        "title": "《丑狐》爆火出圈，中式志怪成AI短剧新流量密码？",
+        "link": "https://www.tmtpost.com/8215550.html",
+        "published_date": "Tue, 24 Nov 2026 12:24:00 GMT",
+        "first_seen": "2026-11-24T06:46:21.975545"
+      },
+      "95f1c2415f340d1843ddffad63a8f465da26abec47d145b01fd5a4f3a6a69e69": {
+        "title": "零跑股价大跌13%，市场在恐慌什么？",
+        "link": "https://www.tmtpost.com/8215444.html",
+        "published_date": "Tue, 24 Nov 2026 12:24:00 GMT",
+        "first_seen": "2026-11-24T06:46:21.975546"
+      },
+      "62238cdd0b8ff92d6ef1563adf66698757c987c73bf14585c594c5b11ef839c0": {
+        "title": "全网刷屏黄仁勋王者归来，真正的高手操作，藏在无人关注的低调减持里",
+        "link": "https://www.tmtpost.com/8215443.html",
+        "published_date": "Tue, 24 Nov 2026 12:24:00 GMT",
+        "first_seen": "2026-11-24T06:46:21.975547"
+      },
+      "06bca4a34baa2e6cd65021fafeaa79d09569bf1cd89386dac978eeb11f4523f3": {
+        "title": "宇树涨停、珞石回A，物理AI站到AI行情C位",
+        "link": "https://www.tmtpost.com/8215619.html",
+        "published_date": "Tue, 24 Nov 2026 12:24:00 GMT",
+        "first_seen": "2026-11-24T06:46:21.975549"
+      },
+      "79e9bf125028d59986458cecb33d81d10408e5b049cbd6d52c3a0583c51109b5": {
+        "title": "AI还没顶上，游戏扛着网易跑，锅在短剧？",
+        "link": "https://www.tmtpost.com/8215625.html",
+        "published_date": "Tue, 24 Nov 2026 12:23:00 GMT",
+        "first_seen": "2026-11-24T06:46:21.975550"
+      },
+      "f311952c23b98085c2be250aebe1677e94721e28c7511c369f8d2f6ae5575b5a": {
+        "title": "英伟达的 10 天压力测试：没有黄仁勋，全球 AI 蒸发 4 万亿美元",
+        "link": "https://www.tmtpost.com/8215098.html",
+        "published_date": "Tue, 24 Nov 2026 12:13:00 GMT",
+        "first_seen": "2026-11-24T06:46:21.975551"
+      },
+      "23f57f154477a7c18fc3b5c3f1586ec6d82ed5c9ccc1e54da210937333eccfc1": {
+        "title": "百年商业帝国大洗牌，私募投资人掌舵后，香港财团要转型做PE？",
+        "link": "https://www.tmtpost.com/8215620.html",
+        "published_date": "Tue, 24 Nov 2026 12:12:00 GMT",
+        "first_seen": "2026-11-24T06:46:21.975552"
+      },
+      "e67a34646e6c54386a9046ef724d0e4ba867269c0f04dc8bc52fabbc383ed38e": {
+        "title": "AI消费硬件，即将“入冬”？",
+        "link": "https://www.tmtpost.com/8215575.html",
+        "published_date": "Tue, 24 Nov 2026 12:12:00 GMT",
+        "first_seen": "2026-11-24T06:46:21.975554"
+      },
+      "0cebf722a0136711da69c8813fffcad622b804ac6fea78401a969bc78cdf290b": {
+        "title": "黄仁勋 “回宫”，暴露了华尔街资本的软弱性",
+        "link": "https://www.tmtpost.com/8215590.html",
+        "published_date": "Tue, 24 Nov 2026 12:12:00 GMT",
+        "first_seen": "2026-11-24T06:46:21.975555"
+      },
+      "e538b6bbbdee35f9b619ef7e53ccfb72ed6dac3916243cd799846ccfd572c279": {
+        "title": "中国买家退出泰国楼市，俄罗斯人开始接盘了",
+        "link": "https://www.tmtpost.com/8215602.html",
+        "published_date": "Tue, 24 Nov 2026 12:11:00 GMT",
+        "first_seen": "2026-11-24T06:46:21.975556"
+      },
+      "62dfa1a1a529504c60d7be197d8ecaf003f5c41d45b41e2dda02164fb72b3a14": {
+        "title": "2026年大宗商品市场十大价格错判",
+        "link": "https://www.tmtpost.com/8215589.html",
+        "published_date": "Tue, 24 Nov 2026 12:02:00 GMT",
+        "first_seen": "2026-11-24T06:46:21.975558"
+      },
+      "e7c90fab8c484f1bdb51398f4663ff85c966a008d54b6ccd7a5fd7ec6eb39353": {
+        "title": "极客公园创新大会 2027 全议程公布！",
+        "link": "http://www.geekpark.net/news/374395",
+        "published_date": "Tue, 24 Nov 2026 12:37:00 GMT",
+        "first_seen": "2026-11-24T06:46:21.975559"
+      },
+      "c3760ada4390892f0dd2961779da1834deca71baa9286c6b4f135b3d97f2cb2f": {
+        "title": "黄仁勋重返英伟达，市值涨31.48%；马斯克：AI 研发落后对手，出租算力比自研更赚钱；新一代 AI 模型更爱「爆粗口」",
+        "link": "http://www.geekpark.net/news/374375",
+        "published_date": "Tue, 24 Nov 2026 08:28:00 GMT",
+        "first_seen": "2026-11-24T06:46:21.975560"
+      },
+      "23a3074fc7a18664b65553ad0a0824fbfefacc58920d8fac47ad598e37259828": {
+        "title": "字节，该造手机了",
+        "link": "http://www.geekpark.net/news/374374",
+        "published_date": "Mon, 23 Nov 2026 23:47:00 GMT",
+        "first_seen": "2026-11-24T06:46:21.975561"
+      },
+      "dae9e59db6009ab6e3c6e604e972f202f0d1ddcff31a68dfdca985d8784c083b": {
+        "title": "写在动荡之后：漫步巴黎的寻常一日",
+        "link": "https://sspai.com/post/119412",
+        "published_date": "Tue, 24 Nov 2026 11:03:00 GMT",
+        "first_seen": "2026-11-24T06:46:21.975563"
+      },
+      "d78aeae0bd0dfdf653edb25b8c46f12639816850e638693a98340c02834499bd": {
+        "title": "派早报：黄仁勋重回英伟达，荣耀发布荣耀 700 系列新机等",
+        "link": "https://sspai.com/post/119460",
+        "published_date": "Tue, 24 Nov 2026 08:37:00 GMT",
+        "first_seen": "2026-11-24T06:46:21.975564"
       }
     },
     "Finance": {
-      "8629069a556577dc00718e6710b9cf222990985584a9fcec73a8e6a3ef63dbbb": {
-        "title": "Hundreds of thousands protest in France in second weekend of mass demonstrations",
-        "link": "https://www.ft.com/content/643b2bc6-2963-4759-82ae-03db082c71f7?syn-25a6b1a6=1",
-        "published_date": "Sat, 24 Oct 2026 23:23:00 GMT",
-        "first_seen": "2026-10-25T00:56:01.829514"
-      },
-      "9a3127ec71b0b81cf7b7348e5c2a76e68db654b2849fe32949ce394b61cd36dc": {
-        "title": "Ukraine military says Starlink service restrictions have been lifted",
-        "link": "https://www.ft.com/content/5b5592f4-c59d-4eb1-af78-078dc32fcab8",
-        "published_date": "Sat, 24 Oct 2026 21:30:00 GMT",
-        "first_seen": "2026-10-25T00:56:01.829523"
-      },
-      "4fca8d021310c96b7e1a1f073de315271681568cb1e0b948f64c7e225391a0d5": {
-        "title": "Israeli central bank rejects Netanyahu’s plan to use crypto to evade sanctions",
-        "link": "https://www.ft.com/content/39e475e7-0392-4856-aaaf-5ab3e35b8215?syn-25a6b1a6=1",
-        "published_date": "Sat, 24 Oct 2026 19:19:00 GMT",
-        "first_seen": "2026-10-25T00:56:01.829525"
-      },
-      "6b16e4ad3e21e6135bc622d3530a5133c8410598dbcf099351da66286387e3e5": {
-        "title": "Intelligence memo warns Iran is plotting to kill Americans in Middle East",
-        "link": "https://www.ft.com/content/e2e82393-c7ca-4bc1-b270-022b3702d9e7?syn-25a6b1a6=1",
-        "published_date": "Sat, 24 Oct 2026 15:09:00 GMT",
-        "first_seen": "2026-10-25T00:56:01.829527"
-      },
-      "fbc1166fc330782e31995cad1922969784cfb266830890facedc7cc214f4c1e3": {
-        "title": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.",
-        "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
-        "published_date": "Sat, 24 Oct 2026 19:45:00 GMT",
-        "first_seen": "2026-10-25T00:56:01.829528"
-      },
-      "1447512655799816ed96ae07de66f117b00dbb88b0dd15b62b97045108c16426": {
-        "title": "Young Americans are giving up on car ownership. It’s a path to financial freedom for some.",
-        "link": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
-        "published_date": "Sat, 24 Oct 2026 18:45:00 GMT",
-        "first_seen": "2026-10-25T00:56:01.829530"
-      },
-      "046e2c46820e5df4c53a14a1233ecbf064b13177683c99c88f16b365f70b494f": {
-        "title": "I’m 58 and hate annuities. How can I get dependable income in retirement?",
-        "link": "https://www.marketwatch.com/story/im-58-and-hate-annuities-how-can-i-get-dependable-income-in-retirement-cd6040f4?mod=mw_rss_topstories",
-        "published_date": "Sat, 24 Oct 2026 18:03:00 GMT",
-        "first_seen": "2026-10-25T00:56:01.829531"
-      },
-      "84891f37e477d5d26edb2f7d3a47b281642975880b691ba3a158ea5caab2dcf9": {
-        "title": "Over 40% of Americans are heading toward retirement ‘blind’ — with no plan",
-        "link": "https://www.marketwatch.com/story/over-40-of-americans-are-heading-toward-retirement-blind-with-no-plan-e49b502f?mod=mw_rss_topstories",
-        "published_date": "Sat, 24 Oct 2026 17:23:00 GMT",
-        "first_seen": "2026-10-25T00:56:01.829532"
-      },
-      "bea8eacfa062fd5897fc1d47d107dab91df77d5ba7df35c31e292913f63481ac": {
-        "title": "Elon Musk promised a SpaceX share to every kid in America — don’t hold your breath",
-        "link": "https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories",
-        "published_date": "Sat, 24 Oct 2026 16:59:00 GMT",
-        "first_seen": "2026-10-25T00:56:01.829534"
-      },
-      "15958d0b63026dc0dfb5185c90f328362e47ab27a19daf5d80d81d10f5b2ae22": {
-        "title": "Walmart, Best Buy and other stores now use digital price tags. Critics say they could lead to different prices for different shoppers.",
-        "link": "https://www.marketwatch.com/story/walmart-best-buy-and-other-stores-now-use-digital-price-tags-critics-say-they-could-lead-to-different-prices-for-different-shoppers-19e2f4da?mod=mw_rss_topstories",
-        "published_date": "Sat, 24 Oct 2026 16:18:00 GMT",
-        "first_seen": "2026-10-25T00:56:01.829535"
-      },
       "fd1db9493fcb3a797964f1cb5db81a7d823e862746b2b018c59099860daa4747": {
         "title": "Luxury groups’ value drops by €250bn as Chinese consumer demand fades",
         "link": "https://www.ft.com/content/1c3065cf-538f-433a-9749-0355a3642c7c?syn-25a6b1a6=1",
@@ -13167,39 +13263,129 @@
         "link": "https://www.ft.com/content/1e5a9d70-221d-461d-ae03-dc235b1db340?syn-25a6b1a6=1",
         "published_date": "Mon, 23 Nov 2026 05:00:00 GMT",
         "first_seen": "2026-11-23T15:41:45.147836"
+      },
+      "f0407e9ee3508d30d0a85728525e4a321f3c182604617cf2a3a9b16b2e88d0d3": {
+        "title": "Tech stocks surge on Jensen Huang’s return",
+        "link": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1",
+        "published_date": "Tue, 24 Nov 2026 06:30:00 GMT",
+        "first_seen": "2026-11-24T06:46:22.302550"
+      },
+      "a666c7f4c7fdbef3265d6c5a8c1dfdaf1bbb99911cb9b401ad368764943e9472": {
+        "title": "Singapore is no backdoor for US chips, PM says",
+        "link": "https://www.ft.com/content/6ca21b39-ff62-42e0-9695-9220b438f7eb?syn-25a6b1a6=1",
+        "published_date": "Tue, 24 Nov 2026 06:12:00 GMT",
+        "first_seen": "2026-11-24T06:46:22.302560"
+      },
+      "84e3edd3aa35ebf18b21445b893cef07f3c4c86baa0ce48f54dd54aa36078718": {
+        "title": "The Nvidia protocol: spies and Big Tech",
+        "link": "https://www.ft.com/content/c96c40c5-6b07-4433-b65f-19105e9ccb44?syn-25a6b1a6=1",
+        "published_date": "Tue, 24 Nov 2026 05:00:00 GMT",
+        "first_seen": "2026-11-24T06:46:22.302562"
+      },
+      "adaefe9308197ae111ad2a8381e4f37630ebbee63bf523958e00f6062978b737": {
+        "title": "Britain bought fake C4 explosives for Ukraine",
+        "link": "https://www.ft.com/content/b5873050-2b90-4889-bbf6-902234e51e9f?syn-25a6b1a6=1",
+        "published_date": "Tue, 24 Nov 2026 05:00:00 GMT",
+        "first_seen": "2026-11-24T06:46:22.302564"
+      },
+      "eeb56832812adb8b36f9c3747002d8b3596540ce7f85e8f395643aea9484807f": {
+        "title": "What are you thinking? It depends who’s asking",
+        "link": "https://www.ft.com/content/a547a707-0ddd-4e45-b2e4-b29dabb72057?syn-25a6b1a6=1",
+        "published_date": "Tue, 24 Nov 2026 05:00:00 GMT",
+        "first_seen": "2026-11-24T06:46:22.302566"
+      },
+      "e9be0c09518cb1c57d11635693b78af6eedbe6bd6bbe02817fe5f9f83a94bbaa": {
+        "title": "Pentagon delays Patriot missile shipments to Ukraine",
+        "link": "https://www.ft.com/content/02db16f6-808f-44b4-98dc-fe47f6a04d33?syn-25a6b1a6=1",
+        "published_date": "Tue, 24 Nov 2026 05:00:00 GMT",
+        "first_seen": "2026-11-24T06:46:22.302567"
+      },
+      "d07a748d71f73a73d0c913195b1343f8d88e0275354eee8ff035d2ee30fdd6d4": {
+        "title": "OpenAI engineer possessed dozens of meeting recordings, say US prosecutors",
+        "link": "https://www.ft.com/content/f860152a-6bd6-43f7-8ba1-4a6ae94d6565?syn-25a6b1a6=1",
+        "published_date": "Tue, 24 Nov 2026 01:31:00 GMT",
+        "first_seen": "2026-11-24T06:46:22.302569"
+      },
+      "cd36669a52220452705093bb8e1e1ff90e49d2c551041349b35e57329b4eca29": {
+        "title": "Inside the ‘war room’ that lobbied Trump to bring back ousted tech boss",
+        "link": "https://www.ft.com/content/82d3be02-8ac7-4acb-aefa-6e3722ee05cc?syn-25a6b1a6=1",
+        "published_date": "Mon, 23 Nov 2026 22:46:00 GMT",
+        "first_seen": "2026-11-24T06:46:22.302571"
+      },
+      "4d557ae6773a9a8728bf4e135da722910ce85eff60947c410ba610f22619b045": {
+        "title": "Trump made up to $15mn on Nvidia shares after Huang’s return",
+        "link": "https://www.ft.com/content/67b0a070-c2a9-4229-885a-383cca657763?syn-25a6b1a6=1",
+        "published_date": "Mon, 23 Nov 2026 22:21:00 GMT",
+        "first_seen": "2026-11-24T06:46:22.302573"
+      },
+      "c2e8d600b10a73d7b33d3ed6c09a7d5787fbe883568042993b01d65aa9b7a5cf": {
+        "title": "‘Unthinkable’ for Britain to rejoin EU without referendum, says Burnham",
+        "link": "https://www.ft.com/content/46fa4178-055f-44ca-b043-773428e8e986?syn-25a6b1a6=1",
+        "published_date": "Mon, 23 Nov 2026 19:00:00 GMT",
+        "first_seen": "2026-11-24T06:46:22.302575"
+      },
+      "1216582218b14b15405e39ad43d883d2c5efd1d27a4ad5d9d70964462b73e7c8": {
+        "title": "Huang is back because he left Nvidia no choice",
+        "link": "https://www.ft.com/content/611430d0-9aec-4e5e-95d7-615e86f692ce?syn-25a6b1a6=1",
+        "published_date": "Mon, 23 Nov 2026 17:17:00 GMT",
+        "first_seen": "2026-11-24T06:46:22.302576"
+      },
+      "2302f42ca18493a5f304bf842dc769472c27f9238e6781851f12c1670e64fcb7": {
+        "title": "HPE just posted its strongest growth ever — but its stock is sinking",
+        "link": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
+        "published_date": "Tue, 24 Nov 2026 01:01:00 GMT",
+        "first_seen": "2026-11-24T06:46:22.302577"
+      },
+      "e8a1b162124eceb8fb322b3ec7098e3896d9e0880d42f512735b60e9a13dad37": {
+        "title": "The newest addition to the S&P 500 is a maker of viral ice-cream machines",
+        "link": "https://www.marketwatch.com/story/the-newest-addition-to-the-s-p-500-is-a-maker-of-viral-ice-cream-machines-5c6e209a?mod=mw_rss_topstories",
+        "published_date": "Mon, 23 Nov 2026 23:18:00 GMT",
+        "first_seen": "2026-11-24T06:46:22.302579"
+      },
+      "dc59b7c14fa81ba751f4e852363ee5ddab29c61765a78af5243f2a3f2f007900": {
+        "title": "Nvidia’s stock is surging again. What to know before chasing the AI rally.",
+        "link": "https://www.marketwatch.com/story/nvidias-stock-is-surging-again-what-to-know-before-chasing-the-ai-rally-226688d7?mod=mw_rss_topstories",
+        "published_date": "Mon, 23 Nov 2026 22:04:00 GMT",
+        "first_seen": "2026-11-24T06:46:22.302581"
+      },
+      "e890395a2e144c01103c440c01c41b254bf2e390439f8f42a78cb72dc7a1df22": {
+        "title": "U.S. stocks see best day in more than a year, as return of Jensen Huang revives AI enthusiasm",
+        "link": "https://www.marketwatch.com/story/u-s-stocks-see-best-day-in-more-than-a-year-as-return-of-jensen-huang-revives-ai-enthusiasm-c3b9d274?mod=mw_rss_topstories",
+        "published_date": "Mon, 23 Nov 2026 21:51:00 GMT",
+        "first_seen": "2026-11-24T06:46:22.302583"
+      },
+      "146f1c069d2e3add9e49f423b804734be031795fa323ff8b3e22b81a1e93e701": {
+        "title": "Consumer stocks, seen as safe bet amid cracks in AI trade, were among the S&P 500’s biggest losers Monday",
+        "link": "https://www.marketwatch.com/story/consumer-stocks-seen-as-safe-bet-amid-cracks-in-ai-trade-are-among-the-s-p-500s-biggest-losers-monday-80cf8f81?mod=mw_rss_topstories",
+        "published_date": "Mon, 23 Nov 2026 21:45:00 GMT",
+        "first_seen": "2026-11-24T06:46:22.302584"
+      },
+      "639a057b25a874ffff44748dbe80a07ecea6e273819cdefc6736bc9f367663b6": {
+        "title": "These stocks are the biggest gainers after Jensen Huang’s return to Nvidia",
+        "link": "https://www.marketwatch.com/story/these-stocks-are-the-biggest-gainers-after-jensen-huangs-return-to-nvidia-bb886140?mod=mw_rss_topstories",
+        "published_date": "Mon, 23 Nov 2026 21:36:00 GMT",
+        "first_seen": "2026-11-24T06:46:22.302585"
+      },
+      "f07bffe7411fa06129085f064ef3e895104902d6b4aae5b81dd3fd3076fe3316": {
+        "title": "Amazon may have just found a ‘cheap’ way to get a lot more out of its chips",
+        "link": "https://www.marketwatch.com/story/amazon-may-have-just-found-a-cheap-way-to-get-a-lot-more-out-of-its-chips-bd822bd5?mod=mw_rss_topstories",
+        "published_date": "Mon, 23 Nov 2026 21:33:00 GMT",
+        "first_seen": "2026-11-24T06:46:22.302587"
+      },
+      "67afc748dfeca121707ec09431a1311a24b4e767336bed1ae95633f13ea70123": {
+        "title": "Oracle and CoreWeave stocks stage big gains as investors bet the AI cash will keep flowing",
+        "link": "https://www.marketwatch.com/story/oracle-and-coreweave-stocks-stage-big-gains-as-investors-bet-the-ai-cash-will-keep-flowing-eeb1aa85?mod=mw_rss_topstories",
+        "published_date": "Mon, 23 Nov 2026 21:24:00 GMT",
+        "first_seen": "2026-11-24T06:46:22.302588"
+      },
+      "539afb9febb5212a67f9ca01c1433feab007863ec1314e1108216321baf55b49": {
+        "title": "Short sellers get smoked as Nvidia tallies biggest one-day gain in stock-market history",
+        "link": "https://www.marketwatch.com/story/short-sellers-get-smoked-as-nvidia-tallies-biggest-one-day-gain-in-stock-market-history-e9dc6e9c?mod=mw_rss_topstories",
+        "published_date": "Mon, 23 Nov 2026 21:19:00 GMT",
+        "first_seen": "2026-11-24T06:46:22.302589"
       }
     },
     "Ai": {
-      "53edc89ed0abfcdb6dc1fa49a837795fa0530957641bfdd2464b8a3a9a4e4718": {
-        "title": "支付宝AI支付发起年度黑客松大赛，邀开发者把AI创意变成生意",
-        "link": "https://www.leiphone.com/category/industrynews/ykWM8XAjpHi0biY1.html",
-        "published_date": "Sat, 24 Oct 2026 16:49:00 GMT",
-        "first_seen": "2026-10-25T00:56:01.986410"
-      },
-      "0f681eacf25ce5503d8270132790316c3b7b5349c6d5f6e57731c99caf289322": {
-        "title": "“更懂你、会办事”，支付宝携手科大讯飞升级智能座舱服务",
-        "link": "https://www.leiphone.com/category/industrynews/WOl6u17gkYoV3PVr.html",
-        "published_date": "Sat, 24 Oct 2026 16:43:00 GMT",
-        "first_seen": "2026-10-25T00:56:01.986418"
-      },
-      "26a71b406540b5934e272a1b16f13efb70c3e9b329851d6e6606814949dfa233": {
-        "title": "行业第一！百度健康AI服务MAU超5000万，发布好医矩阵和健康相机",
-        "link": "https://www.leiphone.com/category/industrynews/RRFr9U8GKWjNNxfH.html",
-        "published_date": "Sat, 24 Oct 2026 16:37:00 GMT",
-        "first_seen": "2026-10-25T00:56:01.986420"
-      },
-      "ca817a107b83929faf115a8aca7a03598b2f639b44c3e911c0692345ec791cbe": {
-        "title": "Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers",
-        "link": "https://www.marktechpost.com/2026/10/24/anthropic-sandbox-runtime-ai-agent-sandbox/",
-        "published_date": "Sat, 24 Oct 2026 11:12:00 GMT",
-        "first_seen": "2026-10-25T00:56:01.986422"
-      },
-      "299d69ce529c939bc521b2aa546f05adaeef19d19bab154ffc0fdb983c4944b9": {
-        "title": "Stateful Agentic Engineering Copilots with Letta: Core Memory, Shared State, Semantic Retrieval, Custom Tools, Streaming, and Portable Agent Workflows",
-        "link": "https://www.marktechpost.com/2026/10/24/stateful-engineering-copilots-letta-tutorial/",
-        "published_date": "Sat, 24 Oct 2026 10:29:00 GMT",
-        "first_seen": "2026-10-25T00:56:01.986423"
-      },
       "99e7ab0a81316939bd8b8656251d08a325c72989d0642675537abcce31937240": {
         "title": "Microsoft Open-Sources Agensh: A Multi-Agent Harness for 1,024 Agents",
         "link": "https://www.marktechpost.com/2026/10/24/microsoft-agensh-multi-agent-harness-1024-agents/",
@@ -18101,13 +18287,133 @@
         "link": "https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123",
         "published_date": "Mon, 23 Nov 2026 00:00:00 GMT",
         "first_seen": "2026-11-23T15:41:45.086397"
+      },
+      "3af0275ece0ac248d492b9c5419746b930de29a7a644cb84986d0560d1d6a759": {
+        "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
+        "link": "https://www.leiphone.com/category/industrynews/X2LHtIreyiO6depw.html",
+        "published_date": "Tue, 24 Nov 2026 12:10:00 GMT",
+        "first_seen": "2026-11-24T06:46:22.188431"
+      },
+      "9c23c1f113cca526b867f2985b14bb13cbf7237335c60505bbe8cafe788a016e": {
+        "title": "蚂蚁开源医疗健康预测模型，根据睡眠数据可预测未来六年150种疾病风险",
+        "link": "https://www.leiphone.com/category/industrynews/lVVGnHDROrkdwJLp.html",
+        "published_date": "Tue, 24 Nov 2026 11:13:00 GMT",
+        "first_seen": "2026-11-24T06:46:22.188439"
+      },
+      "271332b4a832d542819e519dd7f22e44413cf83d2876f7e1113bf7260c8eb739": {
+        "title": "豆包工作下调多款模型消耗倍率，超八成日常任务免费用",
+        "link": "https://www.leiphone.com/category/industrynews/SWU1FnevSoIn4MNM.html",
+        "published_date": "Tue, 24 Nov 2026 09:47:00 GMT",
+        "first_seen": "2026-11-24T06:46:22.188441"
+      },
+      "63bddd8b814de24e181a94306ac313b549fb0d918db0a787a26fb28f6d3707d6": {
+        "title": "公积金智能化应用创新案例发布，支付宝参与共建",
+        "link": "https://www.leiphone.com/category/industrynews/ICe6gznRO80vcMxl.html",
+        "published_date": "Tue, 24 Nov 2026 09:44:00 GMT",
+        "first_seen": "2026-11-24T06:46:22.188443"
+      },
+      "25ad4dc51f9fb90bdadb25eda8d7b2db23776c7cc5b2db1dd14e34deb93eca75": {
+        "title": "英伟达恢复黄仁勋CEO职务！黄仁勋重返公司总部，受到数百名员工迎接；DeepSeek最新估值或达6078亿元；蚂蚁开源医疗AI模型家族丨雷峰早报",
+        "link": "https://www.leiphone.com/category/zaobao/Ao31dQuXPBTU7qpK.html",
+        "published_date": "Tue, 24 Nov 2026 09:42:00 GMT",
+        "first_seen": "2026-11-24T06:46:22.188444"
+      },
+      "b0de80b9f18be6bb8dc5de8bf316d83ab73cdcb990ce61aca54990808c1916c8": {
+        "title": "科研成果 | 智能计算实验室方承煜同学成果被NeurIPS2026接收｜NeurIPS 2026",
+        "link": "https://www.leiphone.com/category/private/wwE4LOG5RjKsajCu.html",
+        "published_date": "Mon, 23 Nov 2026 22:58:00 GMT",
+        "first_seen": "2026-11-24T06:46:22.188446"
+      },
+      "220bc4a8e6c3b73f35041d7e42a9cc246742d7449b78551e9afdbc8b89deea3c": {
+        "title": "Introducing the Amazon Bedrock Trusted Access API with Anthropic’s Enterprise Frontier Safeguards and Enterprise Data Controls",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/",
+        "published_date": "Tue, 24 Nov 2026 05:01:00 GMT",
+        "first_seen": "2026-11-24T06:46:22.188447"
+      },
+      "6c100e2cb5e5fcd580291688b61151fa7859da1dee3f966893ac178df9d1a82e": {
+        "title": "报名从速｜来MEET2027！听AI前沿实践者交出“判断”",
+        "link": "https://www.qbitai.com/2026/11/512329.html",
+        "published_date": "Tue, 24 Nov 2026 03:33:00 GMT",
+        "first_seen": "2026-11-24T06:46:22.188449"
+      },
+      "b86007689f184e48f33bd05deb291c3c2cdc13b177625d393641e3f19207e315": {
+        "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
+        "link": "https://www.qbitai.com/2026/11/512330.html",
+        "published_date": "Tue, 24 Nov 2026 03:30:00 GMT",
+        "first_seen": "2026-11-24T06:46:22.188450"
+      },
+      "2936c08a79fc868767312d0bd5a7cdd60faffd1069a34bcf137adf7ac176418d": {
+        "title": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
+        "link": "https://www.qbitai.com/2026/11/512305.html",
+        "published_date": "Tue, 24 Nov 2026 03:21:00 GMT",
+        "first_seen": "2026-11-24T06:46:22.188452"
+      },
+      "4aaa8fd2a7da3ea350a3fa2df16c20bba26f8587572ac75f2ab70cf22a583675": {
+        "title": "“得Agent开发者，得天下”，70+技术大咖共探AI技术演进与生态变革，2026奇点智能技术大会圆满收官！",
+        "link": "https://www.qbitai.com/2026/11/512297.html",
+        "published_date": "Tue, 24 Nov 2026 02:36:00 GMT",
+        "first_seen": "2026-11-24T06:46:22.188453"
+      },
+      "97b03692a3f508323d96937109b3c35d1b444f32020a2f37d14d8c633db2fb4a": {
+        "title": "具身行业，终于等来了自己的通用智能时刻",
+        "link": "https://www.qbitai.com/2026/11/512264.html",
+        "published_date": "Tue, 24 Nov 2026 01:51:00 GMT",
+        "first_seen": "2026-11-24T06:46:22.188454"
+      },
+      "c0de5961218db78885c3537b635b5007152dbee078833c01bcb6586f36946865": {
+        "title": "老黄回归现场盛况空前！员工人山人海夹道欢迎，“哪里领入职电脑”",
+        "link": "https://www.qbitai.com/2026/11/512252.html",
+        "published_date": "Tue, 24 Nov 2026 01:32:00 GMT",
+        "first_seen": "2026-11-24T06:46:22.188455"
+      },
+      "5c0e62874f83b1633964dce2a8fa36561d0b8c4dff13bb5834f790c085edd5c7": {
+        "title": "2026-11-24日刊",
+        "link": "https://hex2077.dev/docs/2026-11/2026-11-24/",
+        "published_date": "Tue, 24 Nov 2026 03:04:00 GMT",
+        "first_seen": "2026-11-24T06:46:22.188457"
+      },
+      "576ee4f8730a06758b659367e89dac8ac3cf3e319b57473eaf644589f3371014": {
+        "title": "Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes",
+        "link": "https://www.marktechpost.com/2026/11/23/anthropic-claude-ship-pull-request-agents/",
+        "published_date": "Tue, 24 Nov 2026 00:02:00 GMT",
+        "first_seen": "2026-11-24T06:46:22.188458"
+      },
+      "4b759760a64849a592109febabea9cbd9ae6b3994ee56da0720b4cd71a911497": {
+        "title": "Z AI Releases GLM-5.4: A 750B Loop Transformer That Runs 28 Layers Twice",
+        "link": "https://www.marktechpost.com/2026/11/23/zai-glm-5-4-loop-transformer/",
+        "published_date": "Mon, 23 Nov 2026 19:11:00 GMT",
+        "first_seen": "2026-11-24T06:46:22.188459"
+      },
+      "c32ed146a7d9dfc662ba91b251ae9b26a5c9628a936faeb6b44425c6009716c0": {
+        "title": "Supercharging transformer residual connections",
+        "link": "https://research.google/blog/supercharging-transformer-residual-connections/",
+        "published_date": "Mon, 23 Nov 2026 17:21:00 GMT",
+        "first_seen": "2026-11-24T06:46:22.188461"
+      },
+      "4ce6f176668a463e5249d2cff86f817a77a0fc1b7f4e22907b2b0be70ec8cedf": {
+        "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+        "link": "https://huggingface.co/blog/allenai/robotrack",
+        "published_date": "Mon, 23 Nov 2026 17:20:00 GMT",
+        "first_seen": "2026-11-24T06:46:22.188462"
+      },
+      "e829141449b00b3fb1620efb02d387eba0d86a13055d4b65ee20f62539d03a21": {
+        "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
+        "link": "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/",
+        "published_date": "Mon, 23 Nov 2026 17:00:00 GMT",
+        "first_seen": "2026-11-24T06:46:22.188464"
+      },
+      "00d59c3c5e5dc4edc612d73b621b41fa438848d02adad8439a1674df45463c8f": {
+        "title": "Many languages, one common neural code",
+        "link": "https://news.mit.edu/2026/many-languages-one-common-neural-code-1123",
+        "published_date": "Mon, 23 Nov 2026 16:15:00 GMT",
+        "first_seen": "2026-11-24T06:46:22.188465"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-11-23T15:41:44.932860",
-    "Finance": "2026-11-23T15:41:45.147838",
-    "Ai": "2026-11-23T15:41:45.086399"
+    "Technology": "2026-11-24T06:46:21.975566",
+    "Finance": "2026-11-24T06:46:22.302591",
+    "Ai": "2026-11-24T06:46:22.188467"
   }
 }
