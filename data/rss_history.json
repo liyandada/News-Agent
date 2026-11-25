@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "dc61435d9e976f321df4f9498d4a3cad75e04a421edee8cac688ebc782f93f71": {
-        "title": "从技术封锁到自主创新：中国如何在全球经济体系中实现高水平科技自立自强",
-        "link": "https://www.tmtpost.com/8181250.html",
-        "published_date": "Sun, 25 Oct 2026 20:51:00 GMT",
-        "first_seen": "2026-10-26T01:04:48.579918"
-      },
-      "fd915cd05113f539847f2e46cb12e3a44fe30bf8e642f6f577cda81d5b951e91": {
-        "title": "苹果发 iPhone 折叠屏官方文档，排查铰链故障；触屏 MacBook 或周三发布；《流浪地球 3》将曝光，春节上映｜极客早知道",
-        "link": "http://www.geekpark.net/news/372863",
-        "published_date": "Mon, 26 Oct 2026 08:34:00 GMT",
-        "first_seen": "2026-10-26T01:04:48.579930"
-      },
-      "fe0dea16d58d9d5cc44d15cd246305fd96a590912e264e3cf65a07ef7af3a2a9": {
-        "title": "A股行业估值分化：科技软件PB居前，金融与地产链偏低",
-        "link": "https://www.tmtpost.com/8181261.html",
-        "published_date": "Sun, 25 Oct 2026 21:00:00 GMT",
-        "first_seen": "2026-10-26T01:04:48.579933"
-      },
-      "9d6d1da94ab2791b51c9154ad06d33e6d5a5c14b462067942fb5f72feb27c205": {
-        "title": "派早报：iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患",
-        "link": "https://sspai.com/post/117460",
-        "published_date": "Mon, 26 Oct 2026 07:36:00 GMT",
-        "first_seen": "2026-10-26T01:04:48.579935"
-      },
-      "0a41bac4a0a5f41cbfc5ea332f66733a0b4ec2473721feeecabf9f1b1965e8b0": {
-        "title": "何伟文：AI投资勃兴驱动中国和世界贸易剧增 | 巴伦独家",
-        "link": "https://www.tmtpost.com/8181271.html",
-        "published_date": "Sun, 25 Oct 2026 21:02:00 GMT",
-        "first_seen": "2026-10-26T01:04:48.579937"
-      },
-      "2691322222175b2fefe6d1d27db1a0bd3ddddd4797cdc0dcfd414a6427f1cefa": {
-        "title": "公司治理的彼得陷阱：上市公司晋升错位与内控失衡研究",
-        "link": "https://www.tmtpost.com/8181248.html",
-        "published_date": "Sun, 25 Oct 2026 20:51:00 GMT",
-        "first_seen": "2026-10-26T01:04:48.579939"
-      },
-      "6f651001aa78017b0bd33161f7ab79c4280b0a95bb07850071a786e81f86bc7c": {
-        "title": "价值判断：跌停板的投资机会和风险提示（10月23日）｜上市公司观察",
-        "link": "https://www.tmtpost.com/8181245.html",
-        "published_date": "Sun, 25 Oct 2026 20:50:00 GMT",
-        "first_seen": "2026-10-26T01:04:48.579940"
-      },
-      "3cb33aecaec5a3037ed41690a12b4985ba4df278e71b17f5aab00b4db3de268a": {
-        "title": "首批主动ETF落地：主动管理能力迎来“透明化”检验",
-        "link": "https://www.tmtpost.com/8181233.html",
-        "published_date": "Sun, 25 Oct 2026 20:50:00 GMT",
-        "first_seen": "2026-10-26T01:04:48.579941"
-      },
-      "de5b8fd320023b3ce87d846e986621cb53b5b92a4faa026546124a372fd31351": {
-        "title": "连夜蹬了K3.1 pro之后，我觉得Kimi可能真的要做具身智能了",
-        "link": "https://www.tmtpost.com/8180725.html",
-        "published_date": "Sun, 25 Oct 2026 18:50:00 GMT",
-        "first_seen": "2026-10-26T01:04:48.579943"
-      },
-      "b45e5472756ba8d0082567fa9f1e624c6e9d2616a5a09e907ac25ba9a79d3ac6": {
-        "title": "国内互联网能与字节一战的，只剩腾讯了",
-        "link": "https://www.tmtpost.com/8180978.html",
-        "published_date": "Sun, 25 Oct 2026 18:50:00 GMT",
-        "first_seen": "2026-10-26T01:04:48.579945"
-      },
       "1579416bf1e61264296dee7b8d8a03dd5dcd1019c0d10d2d74a64f7f125bd937": {
         "title": "罗普斯金2.07亿收购盟萤科技，盈利持续承压再靠跨界补利润 ｜并购一线",
         "link": "https://www.tmtpost.com/8182038.html",
@@ -8413,69 +8353,117 @@
         "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247538734&idx=1&sn=663aff51de396b45a5d7825f27439e6c",
         "published_date": "Tue, 24 Nov 2026 11:06:00 GMT",
         "first_seen": "2026-11-24T19:22:09.813993"
+      },
+      "18181e3f8f2a1e2fb83d8257974ad330bf2c1c482251fd69afef779b12c31672": {
+        "title": "GTM 领导者 AI 转型蓝图",
+        "link": "https://www.infoq.cn/minibook/APpalUCSDcvjS75zsdgi?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 25 Nov 2026 13:19:00 GMT",
+        "first_seen": "2026-11-25T05:36:43.643379"
+      },
+      "642b5cc4709578e2f75fc2c37ac71a42e2609c62d10df9a652ff1d78cea6c592": {
+        "title": "谷歌开源环境质量智能体 AQuA，用于诊断生产环境 AI 智能体故障",
+        "link": "https://www.infoq.cn/article/YAc2TqCHc09kAFF1A7BS?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 25 Nov 2026 13:00:00 GMT",
+        "first_seen": "2026-11-25T05:36:43.643389"
+      },
+      "f757dc8bd8e4e27b844c5b5fe29b3c072a2174886bb6dd12260679b7bf9aa401": {
+        "title": "领英自研 GitOps 引擎替代 Argo CD，用于 Kubernetes 部署",
+        "link": "https://www.infoq.cn/article/bRlUV5HDDY68ocVwWKOk?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 25 Nov 2026 12:00:00 GMT",
+        "first_seen": "2026-11-25T05:36:43.643391"
+      },
+      "6b5dea18a7bac0c118ffb99d2a08b28c0f9c37cda03baac6851305b5724c3ee5": {
+        "title": "作者访谈：finprim——TypeScript 金融校验统一库实践案例",
+        "link": "https://www.infoq.cn/article/xcfFQPW9fF1hVHyOdE0R?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 25 Nov 2026 11:00:00 GMT",
+        "first_seen": "2026-11-25T05:36:43.643392"
+      },
+      "c9c467c36a46611b1a70073ed60cc5ff175c4bb0f8908ff4768fcb46311ec0f6": {
+        "title": "Octop 托管 CodeBuddy 实战：打造 7×24 小时在线的 AI 程序员",
+        "link": "https://www.infoq.cn/article/cgiP7vstrXKH94L1zj76?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 25 Nov 2026 10:30:00 GMT",
+        "first_seen": "2026-11-25T05:36:43.643394"
+      },
+      "a3bf18d53d5bb370bb6f55e824faca9a96efd7dc1d9987e7b496aa56657723aa": {
+        "title": "用 Super-agent 的理念，拆解 Octop 团队模式",
+        "link": "https://www.infoq.cn/article/xJVcbBYI4m86a9TIA6HH?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 25 Nov 2026 10:28:00 GMT",
+        "first_seen": "2026-11-25T05:36:43.643395"
+      },
+      "eb2ec677676a089587a86c5333cbd1c497000994229bccb3639fab928f215e87": {
+        "title": "Clipto首席科学家韩玫已确认出席 AICon北京，分享Agent 的长上下文从哪里来",
+        "link": "https://www.infoq.cn/article/XpM5q7sE88iSlxNsRrVu?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 25 Nov 2026 10:00:00 GMT",
+        "first_seen": "2026-11-25T05:36:43.643396"
+      },
+      "8fa4faaddc8d45b151af895c3f82867736a351f460a274b87b65bb61784c4d06": {
+        "title": "Cloudflare 正式推出 Basin 无服务器分析服务",
+        "link": "https://www.infoq.cn/article/235X0EQdwejPvQYvlali?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 25 Nov 2026 10:00:00 GMT",
+        "first_seen": "2026-11-25T05:36:43.643397"
+      },
+      "249d8a57a3c76060fc931bdfca206bbf5a96319e56731b34aae27ec8af925fce": {
+        "title": "Google Cloud 终于能“封顶”账单了，但超出的费用仍可能照常收",
+        "link": "https://www.infoq.cn/article/Wl4EJAhaA33aGwbqxwTS?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 25 Nov 2026 10:00:00 GMT",
+        "first_seen": "2026-11-25T05:36:43.643398"
+      },
+      "2c4b994f3c6a45001e8c6fc9a7eb16ca8aa9c00a064d9dfd07b438a690f1f309": {
+        "title": "性能提升 6.4 倍、依赖归零，Effect 4.0 值得立即升级吗？",
+        "link": "https://www.infoq.cn/article/f1gd1zOMyb76FoYtYEsG?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 25 Nov 2026 08:00:00 GMT",
+        "first_seen": "2026-11-25T05:36:43.643399"
+      },
+      "d50128b6ada8012da98ffd8ce747eb0dc22f0872a2fca7984075e51da96cd4aa": {
+        "title": "世界模型变天了",
+        "link": "https://www.tmtpost.com/8216357.html",
+        "published_date": "Wed, 25 Nov 2026 11:49:00 GMT",
+        "first_seen": "2026-11-25T05:36:43.643400"
+      },
+      "83b1b576d97b2ab2c65fc8555280dcd214cadf5ecef57ae25973c0c38396ef24": {
+        "title": "手机、汽车、AI，小米需要一场新的增长接力",
+        "link": "https://www.tmtpost.com/8216871.html",
+        "published_date": "Wed, 25 Nov 2026 11:32:00 GMT",
+        "first_seen": "2026-11-25T05:36:43.643402"
+      },
+      "a728673dec8363c647e84de34a5f7fb001c54f3885699e04002c8136f1be6885": {
+        "title": "被红果改写的Q3财报季",
+        "link": "https://www.tmtpost.com/8216958.html",
+        "published_date": "Wed, 25 Nov 2026 09:38:00 GMT",
+        "first_seen": "2026-11-25T05:36:43.643403"
+      },
+      "d0b635ad77a6476055705a0f383aedc17cb2ee8f2dc1e91818af863070183a62": {
+        "title": "这届年轻人开始劝父母卖掉租不上价的房，用来收息",
+        "link": "https://www.tmtpost.com/8216479.html",
+        "published_date": "Wed, 25 Nov 2026 09:38:00 GMT",
+        "first_seen": "2026-11-25T05:36:43.643404"
+      },
+      "8ffe6b5c2044b89a6a7306fe3e5263e39055d56f740dadfa1591c2a97c62d808": {
+        "title": "Edge AI Daily 早报（11月25日）",
+        "link": "https://www.tmtpost.com/8216877.html",
+        "published_date": "Wed, 25 Nov 2026 08:29:00 GMT",
+        "first_seen": "2026-11-25T05:36:43.643405"
+      },
+      "5011e88764a13a9b9baaabb7810306cdb92f36cee9c6a7969f4b4b50a5c31568": {
+        "title": "【钛晨报】8000亿+5000亿！中国央行“组合拳”出手；新加坡子公司被列入美实体清单，阿里巴巴回应；工业富联大手笔分红，拟派现超132亿元",
+        "link": "https://www.tmtpost.com/8216719.html",
+        "published_date": "Wed, 25 Nov 2026 07:20:00 GMT",
+        "first_seen": "2026-11-25T05:36:43.643406"
+      },
+      "f804a084c58ec728274bc2569684443708906edc13e00a58efaec84c42ff4faa": {
+        "title": "怀旧手记｜Palm Pre：内藏「划时代」系统的手机",
+        "link": "https://sspai.com/post/118791",
+        "published_date": "Wed, 25 Nov 2026 11:07:00 GMT",
+        "first_seen": "2026-11-25T05:36:43.643407"
+      },
+      "debda9e79790b8f37d721c54083b441dea0c15045998f7424d84042cbff2d72d": {
+        "title": "派早报：华为发布 Mate X8 与 MateBook Fold S、微软将推出自研驱动等",
+        "link": "https://sspai.com/post/119527",
+        "published_date": "Wed, 25 Nov 2026 08:22:00 GMT",
+        "first_seen": "2026-11-25T05:36:43.643408"
       }
     },
     "Finance": {
-      "555386160db813d26940b9da6277867eeb1769fdab38b950940bc77d2804a807": {
-        "title": "Lula re-elected Brazil’s president in knife-edge election",
-        "link": "https://www.ft.com/content/7585a18f-88d9-4fcd-882d-ed938c7c9c41?syn-25a6b1a6=1",
-        "published_date": "Mon, 26 Oct 2026 00:56:00 GMT",
-        "first_seen": "2026-10-26T01:04:58.065873"
-      },
-      "fb571c8e186957d1ad67f6c7ce347e502b1d390af112dedf163ea4e65e79bd2d": {
-        "title": "Serbia’s ex-president Vučić concedes defeat to Student List in parliamentary poll",
-        "link": "https://www.ft.com/content/546f21f5-22d3-4696-8371-7bef8c0410b3?syn-25a6b1a6=1",
-        "published_date": "Mon, 26 Oct 2026 00:38:00 GMT",
-        "first_seen": "2026-10-26T01:04:58.065882"
-      },
-      "3606d7a4223e2fc1155fd4340197e20911056d37ace1121cf1ae42a889c072f4": {
-        "title": "After Hungary, Serbia takes its turn to show the power of the people",
-        "link": "https://www.ft.com/content/dde6aa59-d48d-429a-9a29-db2dc5ae418c?syn-25a6b1a6=1",
-        "published_date": "Sun, 25 Oct 2026 23:54:00 GMT",
-        "first_seen": "2026-10-26T01:04:58.065884"
-      },
-      "2e6aa77faaf3a6edbf9f6c5ff0cac6e426f766eed1467e4830e3bfbf78f7bdbd": {
-        "title": "Weil’s incoming leader to walk away from top job as law firm faces talent crisis",
-        "link": "https://www.ft.com/content/0ce8a176-19d9-4fb8-8708-0c3fbd04f89c?syn-25a6b1a6=1",
-        "published_date": "Sun, 25 Oct 2026 23:19:00 GMT",
-        "first_seen": "2026-10-26T01:04:58.065886"
-      },
-      "12bec074805af3ee0f9fa0532b34fdba31f3338c163fb377a38c69942c167002": {
-        "title": "Venezuelan opposition leader Machado returns from exile",
-        "link": "https://www.ft.com/content/f691e41e-dd01-4ac0-ade7-5f7ca23d6135?syn-25a6b1a6=1",
-        "published_date": "Sun, 25 Oct 2026 21:55:00 GMT",
-        "first_seen": "2026-10-26T01:04:58.065887"
-      },
-      "9ce4475c4c6b49758615eb41c0e9e0009c12f6fa8388e0db9964170fada5e179": {
-        "title": "France’s Le Pen vows national ‘renewal’ in campaign launch",
-        "link": "https://www.ft.com/content/fd1c3f30-2789-4fca-a93f-57850b1448a8?syn-25a6b1a6=1",
-        "published_date": "Sun, 25 Oct 2026 18:37:00 GMT",
-        "first_seen": "2026-10-26T01:04:58.065889"
-      },
-      "e4917775fe120e4794ccb7602254309ce9d00ff04aeda31379799bc45a3ea200": {
-        "title": "Enough golfers commit to LIV 2.0 to keep hopes of new league alive",
-        "link": "https://www.ft.com/content/935f19bc-bb43-4840-8a55-d8ef409c7b52?syn-25a6b1a6=1",
-        "published_date": "Sun, 25 Oct 2026 17:56:00 GMT",
-        "first_seen": "2026-10-26T01:04:58.065891"
-      },
-      "b92b7a236365f48fc4834e6a133a888a49f7edeca4004060b5a1100767b8cf8c": {
-        "title": "Marco Rubio still owes Europe answers about America’s intentions",
-        "link": "https://www.ft.com/content/899bc060-3f17-4ed9-bea7-710c467d92fd",
-        "published_date": "Sun, 25 Oct 2026 16:00:00 GMT",
-        "first_seen": "2026-10-26T01:04:58.065893"
-      },
-      "c14ed097fe340571a9f8c5c738efefc17c1cd29f42bf087aeccce50e19a94d79": {
-        "title": "London’s most famous shopping street bans cars in bid to revive its fortunes",
-        "link": "https://www.ft.com/content/73a2ca6f-29b7-49e5-b8c7-0bde6c4e945b?syn-25a6b1a6=1",
-        "published_date": "Sun, 25 Oct 2026 12:26:00 GMT",
-        "first_seen": "2026-10-26T01:04:58.065894"
-      },
-      "bffb035c90baf7008fbd8bdb8433ecd6d51b2d01f4c63b5d16bfc11f2d492105": {
-        "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
-        "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
-        "published_date": "Sun, 25 Oct 2026 19:30:00 GMT",
-        "first_seen": "2026-10-26T01:04:58.065895"
-      },
       "cd45a241d7c91597ca6337b24013f409cc25d5fce0fdfd43dfafcf0d86268b86": {
         "title": "My wife has only $80,000 saved for retirement. I have $2.2 million. Am I wrong to be shocked?",
         "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
@@ -13527,33 +13515,87 @@
         "link": "https://www.ft.com/content/ef3cfa29-4613-426c-9b87-dd76664e6859?syn-25a6b1a6=1",
         "published_date": "Tue, 24 Nov 2026 11:51:00 GMT",
         "first_seen": "2026-11-24T19:22:09.996431"
+      },
+      "9cb806170be7a7be47aa906c2eceb33c54bc85197fd0553025afb9602a03bcf9": {
+        "title": "Trump shelves plans for business deals with Russia",
+        "link": "https://www.ft.com/content/36e342f2-17d4-48a7-80f6-2456dfdd6f91?syn-25a6b1a6=1",
+        "published_date": "Wed, 25 Nov 2026 05:00:00 GMT",
+        "first_seen": "2026-11-25T05:36:43.868499"
+      },
+      "ab81296d3a623a8267ac1b43e7fd41a1011d718b24bef13ff6fe790459648e4c": {
+        "title": "‘Tech bros strike back’ as Trump rescues Nvidia’s Huang",
+        "link": "https://www.ft.com/content/a1374617-d3a2-415a-8490-72b164eefc0e?syn-25a6b1a6=1",
+        "published_date": "Wed, 25 Nov 2026 05:00:00 GMT",
+        "first_seen": "2026-11-25T05:36:43.868506"
+      },
+      "4fa45b7fa42376bc65ffe233013dd216fc28bf07b08e846029404224461fd35d": {
+        "title": "A French crisis would be a threat — and opportunity — for Europe",
+        "link": "https://www.ft.com/content/c72a8e34-13c2-4336-90b1-e59bac95c78b",
+        "published_date": "Wed, 25 Nov 2026 05:00:00 GMT",
+        "first_seen": "2026-11-25T05:36:43.868509"
+      },
+      "c2315278d8591a75d1e86f0fdd8670af91acc3b4b0bce0655721adee95c18755": {
+        "title": "How an ex-McKinsey partner is using new money to chase old wealth",
+        "link": "https://www.ft.com/content/2a40938d-d3c8-47dd-a5e9-b728b685a5ed?syn-25a6b1a6=1",
+        "published_date": "Wed, 25 Nov 2026 05:00:00 GMT",
+        "first_seen": "2026-11-25T05:36:43.868510"
+      },
+      "fdab6a1786cdef6b0c5dc5f3ad1827ce898ec5095e78c386bab0b2a473fab0f7": {
+        "title": "Europe must not accept ‘hybrid’ warfare as normal, defence chief warns",
+        "link": "https://www.ft.com/content/7f57f64e-1f85-4be8-87ec-2db18830ebb2?syn-25a6b1a6=1",
+        "published_date": "Wed, 25 Nov 2026 05:00:00 GMT",
+        "first_seen": "2026-11-25T05:36:43.868511"
+      },
+      "b318cc0be3ee461abf65b753fb2c4eea88b3c134ce775085aac5c78ec2e21e36": {
+        "title": "Asian markets lose ground as AI fears return",
+        "link": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1",
+        "published_date": "Wed, 25 Nov 2026 03:52:00 GMT",
+        "first_seen": "2026-11-25T05:36:43.868513"
+      },
+      "f6ad497ce1a302c3f58c1fb084815c4e152a05cc0c9eb2794bed24d8f7f9370f": {
+        "title": "Will the Nvidia fallout kill off Asia’s data centre boom?",
+        "link": "https://www.ft.com/content/e5df32d1-1801-4d81-b2f5-b83e93377c1c?syn-25a6b1a6=1",
+        "published_date": "Wed, 25 Nov 2026 02:04:00 GMT",
+        "first_seen": "2026-11-25T05:36:43.868514"
+      },
+      "0c42b427765ecb812721c4d37c54eec8d8dcc2c100bf9ba20334ec7657534e31": {
+        "title": "Huang says he still does not believe in CEO succession planning at Nvidia",
+        "link": "https://www.ft.com/content/cd1831d0-c3f1-4705-b8e2-badfb5e39764?syn-25a6b1a6=1",
+        "published_date": "Tue, 24 Nov 2026 20:18:00 GMT",
+        "first_seen": "2026-11-25T05:36:43.868515"
+      },
+      "4c3cc6bdbcc15971431131e8fccfe49a225d302d7876560b11d78614079c93da": {
+        "title": "Dell’s stock rises as the AI boom helps sales more than double",
+        "link": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
+        "published_date": "Wed, 25 Nov 2026 01:11:00 GMT",
+        "first_seen": "2026-11-25T05:36:43.868517"
+      },
+      "f41a9f7b921b66d97d3df3d20cdd113f1f167d3098e31242287cbf28dc10719a": {
+        "title": "Micron boosted CEO Sanjay Mehrotra’s security budget by 2,000%, new filing shows",
+        "link": "https://www.marketwatch.com/story/micron-boosted-ceo-sanjay-mehrotras-security-budget-by-2-000-new-filing-shows-d6202acc?mod=mw_rss_topstories",
+        "published_date": "Tue, 24 Nov 2026 23:11:00 GMT",
+        "first_seen": "2026-11-25T05:36:43.868518"
+      },
+      "2421d58b792cf6f54326e75f5f3829d6c3dd262a4a18f4dc2c3d9109324efb2a": {
+        "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
+        "link": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
+        "published_date": "Tue, 24 Nov 2026 21:53:00 GMT",
+        "first_seen": "2026-11-25T05:36:43.868519"
+      },
+      "45b03bb7e269789b1415ba6d63b82a9fbbf14db130e837099c645c309a093785": {
+        "title": "Anthropic’s stock just broke below its IPO price for the first time",
+        "link": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
+        "published_date": "Tue, 24 Nov 2026 21:46:00 GMT",
+        "first_seen": "2026-11-25T05:36:43.868520"
+      },
+      "49bb79b617f0fb3f3c8328aa5fac638ca557a55690eb02536966e62b1db2346b": {
+        "title": "How much more are richest Americans spending on the holidays compared to everyone else?",
+        "link": "https://www.marketwatch.com/story/see-how-much-more-money-the-richest-americans-are-spending-on-the-holidays-compared-to-everyone-else-f0ff3f4b?mod=mw_rss_topstories",
+        "published_date": "Tue, 24 Nov 2026 21:31:00 GMT",
+        "first_seen": "2026-11-25T05:36:43.868521"
       }
     },
     "Ai": {
-      "df7af7355ac641388dea3d32729dd73dc29d199db8a37593baeb7599f7d232ff": {
-        "title": "Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model",
-        "link": "https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/",
-        "published_date": "Sun, 25 Oct 2026 21:15:00 GMT",
-        "first_seen": "2026-10-26T01:04:58.229503"
-      },
-      "f376963ecc249519f1a0d16ac3fc56205226d38e41723b7c9015fb0f9eb66271": {
-        "title": "Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DNA and Natural Language Together for the First Time",
-        "link": "https://www.marktechpost.com/2026/10/25/hugging-face-carbon-x-14b-dna-language-model/",
-        "published_date": "Sun, 25 Oct 2026 16:53:00 GMT",
-        "first_seen": "2026-10-26T01:04:58.229511"
-      },
-      "2ca6ffbf2dd497b56c6689d4bc207001f4af0d41a3c54ea973edb24fd9b321a5": {
-        "title": "Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster",
-        "link": "https://www.marktechpost.com/2026/10/25/stanford-berkeley-tokengate-learned-token-pruning-llm-prefill/",
-        "published_date": "Sun, 25 Oct 2026 12:12:00 GMT",
-        "first_seen": "2026-10-26T01:04:58.229513"
-      },
-      "a641742376c59d38f39f6f8f9bfa8b811caf3370312abdf46ed69b9e37bbdc46": {
-        "title": "Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner",
-        "link": "https://www.marktechpost.com/2026/10/25/anthropic-launches-oss-scanner-a-free-ai-vulnerability-scanner/",
-        "published_date": "Sun, 25 Oct 2026 11:32:00 GMT",
-        "first_seen": "2026-10-26T01:04:58.229514"
-      },
       "9f03c80200061260e76d797564645999d42d548006f4a15b27d44191c6e3ab8b": {
         "title": "DeepSeek 开源看家算子的同一周，AI 超过了它",
         "link": "https://www.leiphone.com/category/industrynews/IaMw7vRrTCadlbCY.html",
@@ -18617,13 +18659,25 @@
         "link": "https://www.qbitai.com/2026/11/512370.html",
         "published_date": "Tue, 24 Nov 2026 06:52:00 GMT",
         "first_seen": "2026-11-24T19:22:09.942232"
+      },
+      "e3628983f5f25e5e6f9847b57c87fbd1e48849818919edfb98973f7d76e88751": {
+        "title": "2026-11-25日刊",
+        "link": "https://hex2077.dev/docs/2026-11/2026-11-25/",
+        "published_date": "Wed, 25 Nov 2026 03:29:00 GMT",
+        "first_seen": "2026-11-25T05:36:43.795361"
+      },
+      "d474f6b92597cabfee9696b118cf143c57e6167a559d736a94ceb0b38fca0d9a": {
+        "title": "Meet Facebook’s Your Algorithm: How Meta Turns Plain-Language Preferences Into Ranking",
+        "link": "https://www.marktechpost.com/2026/11/24/meta-facebook-your-algorithm-llm-recommendations/",
+        "published_date": "Tue, 24 Nov 2026 23:06:00 GMT",
+        "first_seen": "2026-11-25T05:36:43.795368"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-11-24T19:22:09.813994",
-    "Finance": "2026-11-24T19:22:09.996433",
-    "Ai": "2026-11-24T19:22:09.942233"
+    "Technology": "2026-11-25T05:36:43.643410",
+    "Finance": "2026-11-25T05:36:43.868522",
+    "Ai": "2026-11-25T05:36:43.795370"
   }
 }
