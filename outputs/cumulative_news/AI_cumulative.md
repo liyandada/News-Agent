@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-25 18:25
+**最后更新时间**: 2026-11-26 05:00
+
+---
+
+## 🆕 最新更新 (2026-11-26 05:00)
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-11-26日刊](https://hex2077.dev/docs/2026-11/2026-11-26/)
+**发布时间**: 2026-11-26 03:12
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Where scientists draw the line on AI agents](https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents)
+**发布时间**: 2026-11-25 18:52
 
 ---
 
