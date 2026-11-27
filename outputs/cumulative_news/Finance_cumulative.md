@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-26 14:45
+**最后更新时间**: 2026-11-27 04:47
+
+---
+
+## 🆕 最新更新 (2026-11-27 04:47)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [An exiled former leader faces execution at home. Why does she want to go back?](https://www.ft.com/content/80ab796b-c870-4f82-b630-514acb72f6ec?syn-25a6b1a6=1)
+**发布时间**: 2026-11-27 04:00
+
+#### [Lula names banker as Brazil finance minister in attempt to calm markets](https://www.ft.com/content/94f93408-476b-479c-be0e-d7f7942f9491?syn-25a6b1a6=1)
+**发布时间**: 2026-11-27 00:59
+
+#### [SAP explores at least 10,000 job cuts](https://www.ft.com/content/ef05b4ab-7944-44ae-ad00-15475f8c1ec9?syn-25a6b1a6=1)
+**发布时间**: 2026-11-26 18:24
+
+#### [Andrew Bailey says unreleased AI models have raised encryption concerns](https://www.ft.com/content/450920b9-82b8-4a66-960b-5740aa7f94ae?syn-25a6b1a6=1)
+**发布时间**: 2026-11-26 17:13
+
+#### [Israel’s Eisenkot takes steps towards replacing Netanyahu](https://www.ft.com/content/a0731abb-c7bf-421b-9486-682114c705ff)
+**发布时间**: 2026-11-26 16:51
+
+#### [Hawkish Fed poised to raise rates despite stock market turmoil](https://www.ft.com/content/3890f725-66dd-4613-8a60-d9e3ea38d25a?syn-25a6b1a6=1)
+**发布时间**: 2026-11-26 14:58
+
+#### [Can AI replace economics PhDs?](https://www.ft.com/content/e4d14f96-c223-4c80-ad93-28a8a545beb1?syn-25a6b1a6=1)
+**发布时间**: 2026-11-26 12:30
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance](https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories)
+**发布时间**: 2026-11-27 00:31
 
 ---
 
