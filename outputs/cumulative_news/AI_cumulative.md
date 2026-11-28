@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-27 14:41
+**最后更新时间**: 2026-11-28 04:31
+
+---
+
+## 🆕 最新更新 (2026-11-28 04:31)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [独家丨瞄准 AI 算力天花板，「闪科光联」完成数千万融资](https://www.leiphone.com/category/ai/ilqJyKclWkhaWIps.html)
+**发布时间**: 2026-11-28 03:14
+
+#### [独家丨自研微水洗澡机，「润泽智造」拿下数百万元天使轮融资](https://www.leiphone.com/category/weiwu/TThdKrM8psZJIudr.html)
+**发布时间**: 2026-11-28 03:06
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-11-28日刊](https://hex2077.dev/docs/2026-11/2026-11-28/)
+**发布时间**: 2026-11-28 02:47
 
 ---
 
